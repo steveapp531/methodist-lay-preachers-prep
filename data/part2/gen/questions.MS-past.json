@@ -1,0 +1,3116 @@
+[
+ {
+  "questionId": "MS-P-2025-A01",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "JOHN WESLEY'S SOCIAL ETHICS",
+  "topic": "Wesley's Teaching on Liquor",
+  "questionType": "multiple_choice",
+  "question": "What does Wesley say liquor robbed the poor and the needy of?",
+  "options": [
+   {
+    "key": "A",
+    "text": "God's love",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "Family inheritance",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "The grain that could be used to feed them",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "Their property",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Wesley opposed the liquor trade on social, humanitarian and religious grounds, holding that liquor consumed without restraint robbed the poor and the needy of the grain that could have fed them.",
+  "manualReference": {
+   "chapterTitle": "JOHN WESLEY'S SOCIAL ETHICS",
+   "topicTitle": "Wesley's Teaching on Liquor",
+   "anchor": 4593,
+   "excerpt": "For Wesley, liquor which was consumed generously and without \nrestraint robbed the poor and the needy the grain that could be used to feed them.",
+   "citation": "Methodist Studies — JOHN WESLEY'S SOCIAL ETHICS — Wesley's Teaching on Liquor"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "liquor",
+   "social-ethics",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "1"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "C"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A02",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "THE BASIS OF WESLEY'S THEOLOGICAL THINKING",
+  "topic": "The Wesleyan Quadrilateral",
+  "questionType": "multiple_choice",
+  "question": "Which of the following is not right with Wesley's teaching on Tradition?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The tradition of the Early Church was an important criterion in determining matters of doctrine",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "For a doctrine to be right, it must be the same as from the beginning based on Scripture",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "Old tradition should not be used as criterion in determining new doctrine because new wine cannot be put into old wine skin",
+    "isCorrect": true,
+    "rationale": "The syllabus says the opposite: Wesley treated the tradition of the Early Church as an important criterion for doctrine."
+   },
+   {
+    "key": "D",
+    "text": "The Church Councils not only may “ERR”, but “ERRED”",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Options A, B and D are each stated in the syllabus' account of Wesley on tradition. The syllabus nowhere sets old tradition aside as a criterion for new doctrine; on the contrary Wesley insisted no doctrine can be right unless it is the very same which was from the beginning.",
+  "manualReference": {
+   "chapterTitle": "THE BASIS OF WESLEY'S THEOLOGICAL THINKING",
+   "topicTitle": "The Wesleyan Quadrilateral",
+   "anchor": 4175,
+   "excerpt": "For Wesley, the tradition of the Early Church was an important criterion in determining matters of doctrine. Wesley stressed that for a doctrine to be right it must be the same as from the beginning based on Scripture.",
+   "citation": "Methodist Studies — THE BASIS OF WESLEY'S THEOLOGICAL THINKING — The Wesleyan Quadrilateral"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "quadrilateral",
+   "tradition",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "2"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "C"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A03",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "THEOLOGY OF MAN",
+  "topic": "Humanity as God's Gracious Creation",
+  "questionType": "multiple_choice",
+  "question": "Which of the following is not part of Wesley's teaching on Man Created in the Image of God?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The Natural Image",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "The Spiritual Image",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "The Political Image",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "The Moral Image",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Wesley discussed man created in the image of God under three images only: the natural, the political and the moral. There is no “spiritual image” in his scheme.",
+  "manualReference": {
+   "chapterTitle": "THEOLOGY OF MAN",
+   "topicTitle": "Humanity as God's Gracious Creation",
+   "anchor": 4203,
+   "excerpt": "Wesley discussed man created in the image of God under three images: the natural, political and moral images of God.",
+   "citation": "Methodist Studies — THEOLOGY OF MAN — Humanity as God's Gracious Creation"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "image-of-god",
+   "theology-of-man",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "3"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "B"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A04",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "JUSTIFICATION BY FAITH IN JESUS CHRIST",
+  "topic": "Who are Justified?",
+  "questionType": "multiple_choice",
+  "question": "Wesley believes that justification by faith alone is not to reject the pursuit of ………… essential components of justification;",
+  "options": [
+   {
+    "key": "A",
+    "text": "Fasting and prayer",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "Holiness and good works",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "Preaching and teaching",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "Repentance and baptism",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "For Wesley justification comes by faith alone, but that does not set aside holiness and good works, which he calls essential components of justification and the inevitable fruit of saving faith.",
+  "manualReference": {
+   "chapterTitle": "JUSTIFICATION BY FAITH IN JESUS CHRIST",
+   "topicTitle": "Who are Justified?",
+   "anchor": 4264,
+   "excerpt": "However, Wesley points out that to speak of justification by faith alone is not to reject the pursuit of holiness and good works as essential components of justification.",
+   "citation": "Methodist Studies — JUSTIFICATION BY FAITH IN JESUS CHRIST — Who are Justified?"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "justification",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "4"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "B"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A05",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "CHRISTIAN PERFECTION",
+  "topic": "What is Christian Perfection according to John Wesley?",
+  "questionType": "multiple_choice",
+  "question": "Wesley, by his teachings on Christian Perfection, pointed out that those who are perfect have the following characteristics:",
+  "options": [
+   {
+    "key": "A",
+    "text": "They are free from stealing and adultery",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "They are free from evil thoughts and evil tempers",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "They are free from bribery and corruption",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "They are conscious of eternal life and judgement",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Wesley names two marks of those who are perfect: first, they are free from evil thoughts, and second, those perfected in love are free from evil tempers.",
+  "manualReference": {
+   "chapterTitle": "CHRISTIAN PERFECTION",
+   "topicTitle": "What is Christian Perfection according to John Wesley?",
+   "anchor": 4315,
+   "excerpt": "First, they are free from evil thoughts.",
+   "citation": "Methodist Studies — CHRISTIAN PERFECTION — What is Christian Perfection according to John Wesley?"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "christian-perfection",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "5"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "B"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A06",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "CHARLES WESLEY AND METHODIST HYMNOLOGY",
+  "topic": "Brief Life History: Charles Wesley 1707 - 1788",
+  "questionType": "multiple_choice",
+  "question": "What was Charles Wesley's answer to Peter Bohler's question to him on 24th February 1738, “for what reason do you hope to be saved?”",
+  "options": [
+   {
+    "key": "A",
+    "text": "Because I have used my best endeavours to serve God",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "Because I believe in His Son Jesus Christ",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "Because I believe in His forgiveness and power over sin",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "Because I believe in His promises and power to heal",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Charles Wesley reports that when Bohler asked for what reason he hoped to be saved he answered, “Because I have used my best endeavours to serve God” – an answer at which Bohler shook his head and said no more.",
+  "manualReference": {
+   "chapterTitle": "CHARLES WESLEY AND METHODIST HYMNOLOGY",
+   "topicTitle": "Brief Life History: Charles Wesley 1707 - 1788",
+   "anchor": 4372,
+   "excerpt": "\"He asked me, 'Do you hope to be saved?' 'Yes.' 'For what reason do you hope it?' 'Because I have used my best endeavours to serve God'. He shook his head and said no more.\"",
+   "citation": "Methodist Studies — CHARLES WESLEY AND METHODIST HYMNOLOGY — Brief Life History: Charles Wesley 1707 - 1788"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "charles-wesley",
+   "peter-bohler",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "6"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "A"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A07",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "CHARLES WESLEY AND METHODIST HYMNOLOGY",
+  "topic": "The Sacraments in the Methodist Hymns",
+  "questionType": "multiple_choice",
+  "question": "Which of the following hymns expresses Wesley's high doctrine of the Sacrament as a celebration of Christ's sacrificial love for mankind?",
+  "options": [
+   {
+    "key": "A",
+    "text": "M.H.B. 771",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "M.H.B. 432",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "M.H.B. 221",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "M.H.B. 323",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "The syllabus says Charles Wesley's Hymns on the Lord's Supper, based on an article by Dr. Daniel Brevint, expressed the Wesleys' high doctrine of the Sacrament as a celebration of Christ's sacrificial love, and the hymn it then quotes to illustrate this – “We need not now go up to heaven … And show thy real presence here!” – is M.H.B. 771.",
+  "manualReference": {
+   "chapterTitle": "CHARLES WESLEY AND METHODIST HYMNOLOGY",
+   "topicTitle": "The Sacraments in the Methodist Hymns",
+   "anchor": 4480,
+   "excerpt": "Charles Wesley's Hymns on the Lord's Supper, based on an article by a high church divine, Dr. Daniel Brevint, expressed the Wesley's high doctrine of the Sacrament as a celebration of Christ's sacrificial love for mankind.",
+   "citation": "Methodist Studies — CHARLES WESLEY AND METHODIST HYMNOLOGY — The Sacraments in the Methodist Hymns"
+  },
+  "scriptureReferences": [],
+  "difficulty": "hard",
+  "tags": [
+   "hymns",
+   "sacraments",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "7"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "A"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A08",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "CHRISTIAN PERFECTION",
+  "topic": "What Christian Perfection is NOT according to John Wesley",
+  "questionType": "multiple_choice",
+  "question": "Which of the following statements was not made by Wesley regarding Christian Perfection?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Christians are not perfect in knowledge",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "Christians are not free from the law of God",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "Christians are not free from ignorance; or from mistake",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "Christians are not free from infirmities",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "In stating in what sense Christians are not perfect, Wesley says they are not perfect in knowledge, not free from ignorance or mistake, and not free from infirmities. He does not say they are not free from the law of God.",
+  "manualReference": {
+   "chapterTitle": "CHRISTIAN PERFECTION",
+   "topicTitle": "What Christian Perfection is NOT according to John Wesley",
+   "anchor": 4310,
+   "excerpt": "Christians are not perfect in knowledge. They are not free from ignorance; or from mistake. Wesley states: We are no more to expect any living man to be infallible than to be omniscient. They are not free from infirmities such as weakness or slowness or heaviness of imagination.",
+   "citation": "Methodist Studies — CHRISTIAN PERFECTION — What Christian Perfection is NOT according to John Wesley"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "christian-perfection",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "8"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "B"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A09",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "CHARLES WESLEY AND METHODIST HYMNOLOGY",
+  "topic": "Charles Wesley and Methodist Hymnology",
+  "questionType": "multiple_choice",
+  "question": "Whose statement or quotation is this: “Had I a thousand tongues, I would praise Him with them all”?",
+  "options": [
+   {
+    "key": "A",
+    "text": "John Wesley",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "Charles Wesley",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "Dr. Daniel Brevint",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "Peter Bohler",
+    "isCorrect": true,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Peter Bohler is said to have told Charles Wesley, “Had I a thousand tongues, I would praise Him with them all”; Charles turned the words into the hymn “O for a thousand tongues to sing” (MHB 1).",
+  "manualReference": {
+   "chapterTitle": "CHARLES WESLEY AND METHODIST HYMNOLOGY",
+   "topicTitle": "Charles Wesley and Methodist Hymnology",
+   "anchor": 4379,
+   "excerpt": "Peter Bohler is said to have told Charles, \"Had I a thousand tongues, I would praise Him with them all.\"",
+   "citation": "Methodist Studies — CHARLES WESLEY AND METHODIST HYMNOLOGY — Charles Wesley and Methodist Hymnology"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "hymns",
+   "peter-bohler",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "9"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "D"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A10",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "JUSTIFICATION BY FAITH IN JESUS CHRIST",
+  "topic": "Who are Justified?",
+  "questionType": "multiple_choice",
+  "question": "State Wesley's two dimensions of justification.",
+  "options": [
+   {
+    "key": "A",
+    "text": "God's love and man's sinfulness",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "God's forgiveness and man's repentance",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "God's commandment and man's obedience",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "God's grace and man's responsibility",
+    "isCorrect": true,
+    "rationale": ""
+   }
+  ],
+  "explanation": "God justifies by his grace, but for that grace to be effective a person must respond of his own free will; so justification has two dimensions, God's grace and man's responsibility.",
+  "manualReference": {
+   "chapterTitle": "JUSTIFICATION BY FAITH IN JESUS CHRIST",
+   "topicTitle": "Who are Justified?",
+   "anchor": 4264,
+   "excerpt": "Thus justification has two dimensions, God's grace and man's responsibility.",
+   "citation": "Methodist Studies — JUSTIFICATION BY FAITH IN JESUS CHRIST — Who are Justified?"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "justification",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "10"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "D"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A11",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "JOHN WESLEY'S SOCIAL ETHICS",
+  "topic": "Slavery",
+  "questionType": "multiple_choice",
+  "question": "When was the first time Wesley and William Wilberforce met to discuss the abolition of slavery?",
+  "options": [
+   {
+    "key": "A",
+    "text": "24th February 1789",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "24th February 1774",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "17th June 1775",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "25th June 1788",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "The syllabus records that in the twilight of his life Wesley and William Wilberforce met for the first time on February 24, 1789, and had important discussions concerning the abolition of slavery.",
+  "manualReference": {
+   "chapterTitle": "JOHN WESLEY'S SOCIAL ETHICS",
+   "topicTitle": "Slavery",
+   "anchor": 4577,
+   "excerpt": "In the twilight of his life Wesley and \nWilliam Wilberforce met for the first time on February 24, 1789, where they had important \ndiscussions concerning the abolition of slavery.",
+   "citation": "Methodist Studies — JOHN WESLEY'S SOCIAL ETHICS — Slavery"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "slavery",
+   "wilberforce",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "11"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "A"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A12",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "JOHN WESLEY'S SOCIAL ETHICS",
+  "topic": "Slavery",
+  "questionType": "multiple_choice",
+  "question": "Who used 1 Corinthians 7 and Colossians 3 to justify the slave trade in 1727?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Bishop Edmund Gibson",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "Mr. Pitt",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "The King of England",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "Thomas Clarkson",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "In 1727 Edmund Gibson, the Bishop of London, rejected the call on slave owners to free slaves who had become Christians and appealed to the New Testament (1 Cor. 7:25, Colossians 3) as a guarantee for keeping slaves.",
+  "manualReference": {
+   "chapterTitle": "JOHN WESLEY'S SOCIAL ETHICS",
+   "topicTitle": "Slavery",
+   "anchor": 4573,
+   "excerpt": "In 1727, Edmund Gibson, the Bishop of \nLondon, rejected the call on slave owners to free slaves who had become Christians. Some \nAnglican Christians who freed their converted slaves were reprimanded by Bishop Gibson \nwho appealed to the New Testament as a guarantee for keeping: slaves (1 Cor. 7:25, \nColossians 3), saying Scripture does not contain any fundamental protest against slavery.",
+   "citation": "Methodist Studies — JOHN WESLEY'S SOCIAL ETHICS — Slavery"
+  },
+  "scriptureReferences": [
+   "1 Corinthians 7:25",
+   "Colossians 3"
+  ],
+  "difficulty": "medium",
+  "tags": [
+   "slavery",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "12"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "A"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A13",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "JOHN WESLEY'S SOCIAL ETHICS",
+  "topic": "Slavery",
+  "questionType": "multiple_choice",
+  "question": "Which of the following quotations is not in consistence with Wesley's opinion on slavery?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Better to be poor and gain Heaven than to be rich and forfeit heaven",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "Better no trade than trade produced by villainy",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "It is far better to have no wealth than to gain wealth at the expense of virtue",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "Better is honest poverty than all the riches brought by the sweat and blood of our fellow creatures",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Options B, C and D are quoted from Wesley's writing against the slave trade (the syllabus reads “all the riches brought by the tears, sweat and blood of our fellow creatures”). The saying about being poor and gaining heaven is not among them.",
+  "manualReference": {
+   "chapterTitle": "JOHN WESLEY'S SOCIAL ETHICS",
+   "topicTitle": "Slavery",
+   "anchor": 4575,
+   "excerpt": "He wrote: \"Better no trade than trade produced by villainy. \nIt is far better to have no wealth than to gain wealth at the expense of virtue. Better is \nhonest poverty than all the riches brought by the tears, sweat and blood of our fellow \ncreatures\".",
+   "citation": "Methodist Studies — JOHN WESLEY'S SOCIAL ETHICS — Slavery"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "slavery",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "13"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "A"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A14",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "THE  CONTROVERSIES",
+  "topic": "Introduction",
+  "questionType": "multiple_choice",
+  "question": "Who challenged John Calvin on his doctrine of predestination?",
+  "options": [
+   {
+    "key": "A",
+    "text": "John Wesley",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "Koornheert",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "Jacobus Arminius",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "George Whitefield",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Calvin's doctrine of predestination was challenged by Koornheert, a layman from Holland, in 1589; the church then commissioned the young priest Jacobus Arminius to answer Koornheert's charges.",
+  "manualReference": {
+   "chapterTitle": "THE  CONTROVERSIES",
+   "topicTitle": "Introduction",
+   "anchor": 4601,
+   "excerpt": "This doctrine was challenged by Koornheert, a layman from Holland in 1589.",
+   "citation": "Methodist Studies — THE  CONTROVERSIES — Introduction"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "controversies",
+   "predestination",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "14"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "B"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A15",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "THE  CONTROVERSIES",
+  "topic": "Introduction",
+  "questionType": "multiple_choice",
+  "question": "John Wesley and George Whitefield had methods, enthusiasm and experiences in common; in what did they differ?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The doctrine of Salvation",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "The doctrine of Predestination",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "The doctrine of Christ",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "The doctrine of Trinity",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Wesley belonged to the Arminian group and Whitefield to the Calvinists; they had methods, enthusiasm and experiences in common but differed on the doctrine of predestination.",
+  "manualReference": {
+   "chapterTitle": "THE  CONTROVERSIES",
+   "topicTitle": "Introduction",
+   "anchor": 4601,
+   "excerpt": "It is said that Wesley and \nWhitefield had certain things in common - methods, enthusiasm and experiences - but \ndiffered on the doctrine of Predestination.",
+   "citation": "Methodist Studies — THE  CONTROVERSIES — Introduction"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "controversies",
+   "predestination",
+   "whitefield",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "15"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "B"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A16",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "CHARLES WESLEY AND METHODIST HYMNOLOGY",
+  "topic": "Charles Wesley's Marriage",
+  "questionType": "multiple_choice",
+  "question": "Who was Sally Gwynne?",
+  "options": [
+   {
+    "key": "A",
+    "text": "A member of the Holy Club",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "The wife of Charles Wesley",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "A co-musician of Charles Wesley",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "The wife of John Wesley",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Charles Wesley first met Sally Gwynne during a visit to Wales in August 1747 and John Wesley married them in August 1748.",
+  "manualReference": {
+   "chapterTitle": "CHARLES WESLEY AND METHODIST HYMNOLOGY",
+   "topicTitle": "Charles Wesley's Marriage",
+   "anchor": 4533,
+   "excerpt": "He first met Sally Gwynne during a visit to Wales in August 1747. She was nearly 21, about 19 years younger than him. John Wesley married them in August 1748.",
+   "citation": "Methodist Studies — CHARLES WESLEY AND METHODIST HYMNOLOGY — Charles Wesley's Marriage"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "charles-wesley",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "16"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "B"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A17",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "CHARLES WESLEY AND METHODIST HYMNOLOGY",
+  "topic": "Charles Wesley's Marriage",
+  "questionType": "multiple_choice",
+  "question": "When did Charles Wesley get married, and who officiated the marriage?",
+  "options": [
+   {
+    "key": "A",
+    "text": "June 1735, by Peter Bohler",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "August 1742, by Samuel Wesley",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "August 1748, by John Wesley",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "July 1749, by Bishop Edmund Gibson",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "The syllabus states plainly that John Wesley married Charles Wesley and Sally Gwynne in August 1748.",
+  "manualReference": {
+   "chapterTitle": "CHARLES WESLEY AND METHODIST HYMNOLOGY",
+   "topicTitle": "Charles Wesley's Marriage",
+   "anchor": 4533,
+   "excerpt": "John Wesley married them in August 1748.",
+   "citation": "Methodist Studies — CHARLES WESLEY AND METHODIST HYMNOLOGY — Charles Wesley's Marriage"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "charles-wesley",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "17"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "C"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A18",
+  "examStage": "PART2",
+  "subject": "MS",
+  "questionType": "multiple_choice",
+  "question": "Who was Samuel Sebastian Wesley?",
+  "explanation": "",
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "charles-wesley",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "18"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "The syllabus says only that Charles Wesley's surviving sons Charles and Samuel were talented musicians and that “in the next generation, Samuel Sebastian Wesley was an outstanding composer of church music”; it never states whose son or great-grandson he was, and the only Samuel Wesley it names is Charles's elder brother, so no sentence settles the intended option.",
+  "options": [
+   {
+    "key": "A",
+    "text": "The last born of Samuel Wesley",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "A co-musician of Charles Wesley",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "The son of Sally Gwynne",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "The great grandson of Samuel Wesley",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "chapter": "CHARLES WESLEY AND METHODIST HYMNOLOGY",
+  "topic": "Charles Wesley's Marriage",
+  "manualReference": {
+   "chapterTitle": "CHARLES WESLEY AND METHODIST HYMNOLOGY",
+   "topicTitle": "Charles Wesley's Marriage",
+   "anchor": 4533,
+   "excerpt": "",
+   "citation": "Methodist Studies — CHARLES WESLEY AND METHODIST HYMNOLOGY — Charles Wesley's Marriage"
+  }
+ },
+ {
+  "questionId": "MS-P-2025-A19",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "CHARLES WESLEY AND METHODIST HYMNOLOGY",
+  "topic": "His Death",
+  "questionType": "multiple_choice",
+  "question": "When did Charles Wesley die, and when was he buried?",
+  "options": [
+   {
+    "key": "A",
+    "text": "29th March 1788 / 5th April 1788",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "29th March 1771 / 15th April 1771",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "14th April 1788 / 15th June 1788",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "1st June 1771 / 29th June 1771",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Charles Wesley died peacefully at his home on 29th March 1788 and was buried on 5th April.",
+  "manualReference": {
+   "chapterTitle": "CHARLES WESLEY AND METHODIST HYMNOLOGY",
+   "topicTitle": "His Death",
+   "anchor": 4536,
+   "excerpt": "He died peacefully in his home on 29th March 1788 and buried on 5th April.",
+   "citation": "Methodist Studies — CHARLES WESLEY AND METHODIST HYMNOLOGY — His Death"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "charles-wesley",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "19"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "A"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A20",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "JOHN WESLEY'S SOCIAL ETHICS",
+  "topic": "John Wesley and the Poor",
+  "questionType": "multiple_choice",
+  "question": "According to Wesley, what is the cause of deprivation and poverty in society?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Corrupt governance",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "Irresponsible use of luxuries by the wealthy",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "Lack of love for the needy in society",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "Lack of proper distribution of state resources",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Poverty, for Wesley, was the misuse of community resource; he held that the irresponsible use of luxuries by the wealthy was the cause of much of the deprivation in society.",
+  "manualReference": {
+   "chapterTitle": "JOHN WESLEY'S SOCIAL ETHICS",
+   "topicTitle": "John Wesley and the Poor",
+   "anchor": 4556,
+   "excerpt": "According to Wesley the irresponsible use of luxuries by the wealthy was the cause of much of the deprivation in society.",
+   "citation": "Methodist Studies — JOHN WESLEY'S SOCIAL ETHICS — John Wesley and the Poor"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "poverty",
+   "social-ethics",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "20"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "B"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A21",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "THE  CONTROVERSIES",
+  "topic": "Wesley and the Church of England (Anglican)",
+  "questionType": "multiple_choice",
+  "question": "When and who ordained John Wesley as a deacon into the Anglican Church?",
+  "options": [
+   {
+    "key": "A",
+    "text": "September 19th 1725 by John Potter",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "September 19th 1730 by Samuel Wesley",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "January 19th 1741 by Jacobus Arminius",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "January 24th 1730 by George Whitefield",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "John Wesley was ordained deacon in the Anglican Church by the Bishop of Oxford, John Potter, on September 19, 1725.",
+  "manualReference": {
+   "chapterTitle": "THE  CONTROVERSIES",
+   "topicTitle": "Wesley and the Church of England (Anglican)",
+   "anchor": 4610,
+   "excerpt": "John Wesley was ordained deacon in the Anglican Church by the Bishop of Oxford, John Potter on September 19, 1725.",
+   "citation": "Methodist Studies — THE  CONTROVERSIES — Wesley and the Church of England (Anglican)"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "church-of-england",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "21"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "A"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A22",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "EPISCOPAL  LEADERSHIP IN GHANA METHODISM",
+  "topic": "Introduction",
+  "questionType": "multiple_choice",
+  "question": "Which Diocese started the discussions for the Episcopal Leadership in the Methodist Church Ghana?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Accra Diocese",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "Cape Coast Diocese",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "Kumasi Diocese",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "Winneba Diocese",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "In 1990 the Kumasi District Synod started the discussions that would move the Methodist Church Ghana towards Episcopal Leadership, and its Chairman submitted the proposal to Conference that same year.",
+  "manualReference": {
+   "chapterTitle": "EPISCOPAL  LEADERSHIP IN GHANA METHODISM",
+   "topicTitle": "Introduction",
+   "anchor": 4637,
+   "excerpt": "In \n1990 the Kumasi District Synod started the discussions that would move the Methodist \nChurch Ghana towards Episcopal Leadership.",
+   "citation": "Methodist Studies — EPISCOPAL  LEADERSHIP IN GHANA METHODISM — Introduction"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "episcopal-leadership",
+   "ghana-methodism",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "22"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "C"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A23",
+  "examStage": "PART2",
+  "subject": "MS",
+  "questionType": "multiple_choice",
+  "question": "Which Diocese held the 2024 Conference of the Methodist Church Ghana?",
+  "explanation": "",
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "ghana-methodism",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "23"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "The syllabus' account of Ghana Methodism ends with the Proclamation Service of January 2000 and says nothing about the venue of the 2024 Conference.",
+  "options": [
+   {
+    "key": "A",
+    "text": "Koforidua Diocese",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "Akim Oda Diocese",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "Kumasi Diocese",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "Accra Diocese",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "chapter": "EPISCOPAL  LEADERSHIP IN GHANA METHODISM",
+  "topic": "Proclamation Service",
+  "manualReference": {
+   "chapterTitle": "EPISCOPAL  LEADERSHIP IN GHANA METHODISM",
+   "topicTitle": "Proclamation Service",
+   "anchor": 4646,
+   "excerpt": "",
+   "citation": "Methodist Studies — EPISCOPAL  LEADERSHIP IN GHANA METHODISM — Proclamation Service"
+  }
+ },
+ {
+  "questionId": "MS-P-2025-A24",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "EPISCOPAL  LEADERSHIP IN GHANA METHODISM",
+  "topic": "Adoption of the Episcopal Leadership",
+  "questionType": "multiple_choice",
+  "question": "When did Conference adopt the Episcopal Leadership for the Methodist Church Ghana?",
+  "options": [
+   {
+    "key": "A",
+    "text": "1991",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "1996",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "2000",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "1999",
+    "isCorrect": true,
+    "rationale": ""
+   }
+  ],
+  "explanation": "The thirty-eighth Methodist Church Ghana Annual Conference, held at the Wesley Methodist Church, Koforidua from 18 to 25 August 1999, adopted the Episcopal Leadership.",
+  "manualReference": {
+   "chapterTitle": "EPISCOPAL  LEADERSHIP IN GHANA METHODISM",
+   "topicTitle": "Adoption of the Episcopal Leadership",
+   "anchor": 4643,
+   "excerpt": "The thirty-eighth \nMethodist Church Ghana Annual Conference held at the Wesley Methodist Church, \nKoforidua, from 18 to 25 August, 1999 adopted the Episcopal Leadership for the Methodist \nChurch Ghana.",
+   "citation": "Methodist Studies — EPISCOPAL  LEADERSHIP IN GHANA METHODISM — Adoption of the Episcopal Leadership"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "episcopal-leadership",
+   "ghana-methodism",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "24"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "D"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A25",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "EPISCOPAL  LEADERSHIP IN GHANA METHODISM",
+  "topic": "Proclamation Service",
+  "questionType": "multiple_choice",
+  "question": "Who among the following was not part of the main officiating clergy for the Proclamation service for the Episcopal Leadership of the Methodist Church Ghana?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The Most Rev. Prof. Emmanuel Kwaku Asante",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "The Most Rev. Dr. Samuel Asante Antwi",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "His Eminence Sunday Mbang",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "The Vice Chairman of the Executive Committee of the World Methodist Council",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "The main officiating clergy were the Most Rev. Dr. Samuel Asante Antwi and His Eminence Sunday Mbang, who was himself the Vice Chairman of the Executive Committee of the World Methodist Council. Prof. Emmanuel Kwaku Asante is not named among them.",
+  "manualReference": {
+   "chapterTitle": "EPISCOPAL  LEADERSHIP IN GHANA METHODISM",
+   "topicTitle": "Proclamation Service",
+   "anchor": 4646,
+   "excerpt": "The main officiating clergy were the Most \nRev. Dr. Samuel Asante Antwi, the Presiding Bishop of the Methodist Church Ghana; His \nEminence Sunday Mbang, the Prelate of the Methodist Church Nigeria and Vice Chairman \nof the Executive Committee of the World Methodist Council.",
+   "citation": "Methodist Studies — EPISCOPAL  LEADERSHIP IN GHANA METHODISM — Proclamation Service"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "episcopal-leadership",
+   "proclamation-service",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "25"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "A"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A26",
+  "examStage": "PART2",
+  "subject": "MS",
+  "questionType": "multiple_choice",
+  "question": "Which of the following Presiding Bishops did not spend six years in office?",
+  "explanation": "",
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "ghana-methodism",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "26"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "The syllabus names Presiding Bishops only in connection with the Proclamation Service of 2000 and gives no lengths of tenure for any of them.",
+  "options": [
+   {
+    "key": "A",
+    "text": "The Most Rev. Dr. Samuel Asante Antwi",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "The Most Rev. Dr. Robert Aboagye Mensah",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "The Most Rev. Titus Awotwe",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "The Most Rev. Prof. Emmanuel Kwaku Asante",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "chapter": "EPISCOPAL  LEADERSHIP IN GHANA METHODISM",
+  "topic": "Proclamation Service",
+  "manualReference": {
+   "chapterTitle": "EPISCOPAL  LEADERSHIP IN GHANA METHODISM",
+   "topicTitle": "Proclamation Service",
+   "anchor": 4646,
+   "excerpt": "",
+   "citation": "Methodist Studies — EPISCOPAL  LEADERSHIP IN GHANA METHODISM — Proclamation Service"
+  }
+ },
+ {
+  "questionId": "MS-P-2025-A27",
+  "examStage": "PART2",
+  "subject": "MS",
+  "questionType": "multiple_choice",
+  "question": "Which of the following quotations does not address the resurrection of Jesus Christ?",
+  "explanation": "",
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "resurrection",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "27"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "The Methodist Studies syllabus does not treat the resurrection texts of the New Testament; this item belongs to the Christian Doctrine syllabus and nothing in Methodist Studies settles it.",
+  "options": [
+   {
+    "key": "A",
+    "text": "Romans 1:4",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "1 Corinthians 15:14",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "1 Thessalonians 4:14",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "John 11:11",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A28",
+  "examStage": "PART2",
+  "subject": "MS",
+  "questionType": "multiple_choice",
+  "question": "The resurrection of Christ transformed the followers, and sent them out into the world to preach the good news. The resurrection is the pivot of the Christian faith. Which of the following quotations explains the above assertion?",
+  "explanation": "",
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "resurrection",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "28"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "The Methodist Studies syllabus does not discuss the resurrection narratives or any of these passages, so nothing in it settles which quotation the examiner had in mind.",
+  "options": [
+   {
+    "key": "A",
+    "text": "1 Corinthians 15:12-22",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "John 20:24-31",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "Romans 2:1-16",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "1 Thessalonians 5:1-11",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A29",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "THE  CONTROVERSIES",
+  "topic": "Wesley and the Church of England (Anglican)",
+  "questionType": "multiple_choice",
+  "question": "In August 1780, who ordained Dr. Thomas Coke as Superintendent and Richard Whatcoat and Thomas Vasey as Elders for the America church?",
+  "options": [
+   {
+    "key": "A",
+    "text": "John Wesley",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "Bishop Lowth",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "Peter Bohler",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "Samuel Wesley",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "It was John Wesley himself who ordained Dr. Thomas Coke as superintendent and Richard Whatcoat and Thomas Vasey as Elders for America, after Bishop Lowth had refused his request. (The syllabus dates the ordinations to September 1784; August 1780 is the date of Lowth's refusal.)",
+  "manualReference": {
+   "chapterTitle": "THE  CONTROVERSIES",
+   "topicTitle": "Wesley and the Church of England (Anglican)",
+   "anchor": 4631,
+   "excerpt": "Therefore in September 1784 Wesley \nordained Dr. Thomas Coke as superintendent and Richard Whatcoat and Thomas Vasey as \nElders for America.",
+   "citation": "Methodist Studies — THE  CONTROVERSIES — Wesley and the Church of England (Anglican)"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "church-of-england",
+   "ordination",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "29"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "A"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A30",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "THE BASIS OF WESLEY'S THEOLOGICAL THINKING",
+  "topic": "The Wesleyan Quadrilateral",
+  "questionType": "multiple_choice",
+  "question": "Wesley received the Bible as the written word of God and regarded it as",
+  "options": [
+   {
+    "key": "A",
+    "text": "Manna from heaven",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "Manual for eternal life",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "C",
+    "text": "The Supreme Court of appeal in all matters of faith",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "D",
+    "text": "Holy Instruction to holy living",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Wesley received the Bible as the written word of God and regarded it as the supreme court of appeal in all matters of faith and conduct.",
+  "manualReference": {
+   "chapterTitle": "THE BASIS OF WESLEY'S THEOLOGICAL THINKING",
+   "topicTitle": "The Wesleyan Quadrilateral",
+   "anchor": 4167,
+   "excerpt": "Wesley received the Bible as the written word of God and regarded it as the supreme court of appeal in all matters of faith and conduct.",
+   "citation": "Methodist Studies — THE BASIS OF WESLEY'S THEOLOGICAL THINKING — The Wesleyan Quadrilateral"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "quadrilateral",
+   "scripture",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "30"
+  },
+  "answerConfidence": "verified",
+  "status": "published",
+  "correctOptionKeys": [
+   "C"
+  ]
+ },
+ {
+  "questionId": "MS-P-2025-A31",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "JOHN WESLEY'S SOCIAL ETHICS",
+  "topic": "Wesley's Concern for Prisoners",
+  "questionType": "true_false",
+  "question": "Wesley was permitted to preach only once a week in Bristol prison.",
+  "options": [
+   {
+    "key": "A",
+    "text": "False",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "True",
+    "isCorrect": true,
+    "rationale": ""
+   }
+  ],
+  "explanation": "The syllabus records that in Bristol Wesley's daily worship service was limited to a sermon per week.",
+  "manualReference": {
+   "chapterTitle": "JOHN WESLEY'S SOCIAL ETHICS",
+   "topicTitle": "Wesley's Concern for Prisoners",
+   "anchor": 4586,
+   "excerpt": "In Bristol his daily worship service was limited to a sermon per week.",
+   "citation": "Methodist Studies — JOHN WESLEY'S SOCIAL ETHICS — Wesley's Concern for Prisoners"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "prisoners",
+   "social-ethics",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section B",
+   "questionNumber": "31"
+  },
+  "answerConfidence": "verified",
+  "status": "published"
+ },
+ {
+  "questionId": "MS-P-2025-A32",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "JOHN WESLEY'S SOCIAL ETHICS",
+  "topic": "INTRODUCTION",
+  "questionType": "true_false",
+  "question": "According to Wesley, Christianity is essentially a social religion and to turn it into a solitary religion is indeed to destroy it.",
+  "options": [
+   {
+    "key": "A",
+    "text": "True",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "False",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Wesley had noted that Christianity is essentially a social religion and that to turn it into a solitary religion is indeed to destroy it.",
+  "manualReference": {
+   "chapterTitle": "JOHN WESLEY'S SOCIAL ETHICS",
+   "topicTitle": "INTRODUCTION",
+   "anchor": 4551,
+   "excerpt": "Wesley had noted that Christianity is essentially a social religion and to turn it into a solitary religion is indeed to destroy it.",
+   "citation": "Methodist Studies — JOHN WESLEY'S SOCIAL ETHICS — INTRODUCTION"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "social-ethics",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section B",
+   "questionNumber": "32"
+  },
+  "answerConfidence": "verified",
+  "status": "published"
+ },
+ {
+  "questionId": "MS-P-2025-A33",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "THE  CONTROVERSIES",
+  "topic": "Wesley and the Church of England (Anglican)",
+  "questionType": "true_false",
+  "question": "In August 1780, Bishop Lowth refused Wesley's request for the ordination of some of the Methodist preachers to minister in America.",
+  "options": [
+   {
+    "key": "A",
+    "text": "False",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "True",
+    "isCorrect": true,
+    "rationale": ""
+   }
+  ],
+  "explanation": "In August 1780 Wesley asked Bishop Lowth of London to ordain some of the Methodist preachers to minister in America, but he refused.",
+  "manualReference": {
+   "chapterTitle": "THE  CONTROVERSIES",
+   "topicTitle": "Wesley and the Church of England (Anglican)",
+   "anchor": 4631,
+   "excerpt": "In August 1780 Wesley asked Bishop Lowth of London to ordain some of the Methodist \npreachers to minister in America but he refused.",
+   "citation": "Methodist Studies — THE  CONTROVERSIES — Wesley and the Church of England (Anglican)"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "church-of-england",
+   "ordination",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section B",
+   "questionNumber": "33"
+  },
+  "answerConfidence": "verified",
+  "status": "published"
+ },
+ {
+  "questionId": "MS-P-2025-A34",
+  "examStage": "PART2",
+  "subject": "MS",
+  "questionType": "true_false",
+  "question": "The Anglican Church expelled John Wesley when he preached on “faith as the basis of salvation”.",
+  "explanation": "",
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "church-of-england",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section B",
+   "questionNumber": "34"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "The syllabus says that when Wesley began preaching faith as the basis of salvation “the Anglicans began putting him out of their chapels”, but it nowhere says he was expelled from the Anglican Church – it records instead that he never separated from it, was never disowned by it and continued to urge Methodists to attend it; the syllabus therefore does not settle whether the statement as worded is true or false.",
+  "options": [
+   {
+    "key": "A",
+    "text": "False",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "True",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "chapter": "THE  CONTROVERSIES",
+  "topic": "Wesley and the Church of England (Anglican)",
+  "manualReference": {
+   "chapterTitle": "THE  CONTROVERSIES",
+   "topicTitle": "Wesley and the Church of England (Anglican)",
+   "anchor": 4610,
+   "excerpt": "",
+   "citation": "Methodist Studies — THE  CONTROVERSIES — Wesley and the Church of England (Anglican)"
+  }
+ },
+ {
+  "questionId": "MS-P-2025-A35",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "THEOLOGY OF MAN",
+  "topic": "Humanity as God's Gracious Creation",
+  "questionType": "true_false",
+  "question": "According to Wesley, “The body is not the man; that man is not only a house of clay, but an immortal Spirit; a Spirit made in the Image of God.”",
+  "options": [
+   {
+    "key": "A",
+    "text": "True",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "False",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Wesley wrote exactly this: the body is not the man; man is not only a house of clay but an immortal spirit, a spirit made in the image of God.",
+  "manualReference": {
+   "chapterTitle": "THEOLOGY OF MAN",
+   "topicTitle": "Humanity as God's Gracious Creation",
+   "anchor": 4200,
+   "excerpt": "\"The body is not the man; that man is not only a house of clay, but an immortal spirit; a spirit made in the image of God",
+   "citation": "Methodist Studies — THEOLOGY OF MAN — Humanity as God's Gracious Creation"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "theology-of-man",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section B",
+   "questionNumber": "35"
+  },
+  "answerConfidence": "verified",
+  "status": "published"
+ },
+ {
+  "questionId": "MS-P-2025-A36",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "JUSTIFICATION BY FAITH IN JESUS CHRIST",
+  "topic": "Who are Justified?",
+  "questionType": "true_false",
+  "question": "According to Wesley, it is wrong to expect a person to be holy before he is justified, and God does not justify the godly, but the ungodly.",
+  "options": [
+   {
+    "key": "A",
+    "text": "False",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "True",
+    "isCorrect": true,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Wesley taught that God justifies the ungodly of every kind and degree: it is wrong to expect a person to be holy before he is justified, for God does not justify the godly but the ungodly.",
+  "manualReference": {
+   "chapterTitle": "JUSTIFICATION BY FAITH IN JESUS CHRIST",
+   "topicTitle": "Who are Justified?",
+   "anchor": 4264,
+   "excerpt": "It is wrong to expect a person to be holy before he is justified. It is not a saint but a sinner that is forgiven. God does not justify the godly, but the ungodly.",
+   "citation": "Methodist Studies — JUSTIFICATION BY FAITH IN JESUS CHRIST — Who are Justified?"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "justification",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section B",
+   "questionNumber": "36"
+  },
+  "answerConfidence": "verified",
+  "status": "published"
+ },
+ {
+  "questionId": "MS-P-2025-A37",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "JUSTIFICATION BY FAITH IN JESUS CHRIST",
+  "topic": "Love of God and Neighbour",
+  "questionType": "true_false",
+  "question": "According to Wesley, it is an acceptable idea that national or religious or philosophical differences make a person unworthy of love.",
+  "options": [
+   {
+    "key": "A",
+    "text": "False",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "True",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "In the context of Wesley's theological ethics it is an unacceptable idea that national, religious or philosophical differences make a person unworthy of love; every person deserves love because he or she is loved by God.",
+  "manualReference": {
+   "chapterTitle": "JUSTIFICATION BY FAITH IN JESUS CHRIST",
+   "topicTitle": "Love of God and Neighbour",
+   "anchor": 4279,
+   "excerpt": "In the context of Wesley's theological ethics, it is an unacceptable idea that national or religious or philosophical differences make a person unworthy of love.",
+   "citation": "Methodist Studies — JUSTIFICATION BY FAITH IN JESUS CHRIST — Love of God and Neighbour"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "love",
+   "social-ethics",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section B",
+   "questionNumber": "37"
+  },
+  "answerConfidence": "verified",
+  "status": "published"
+ },
+ {
+  "questionId": "MS-P-2025-A38",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "CHARLES WESLEY AND METHODIST HYMNOLOGY",
+  "topic": "The Sacraments in the Methodist Hymns",
+  "questionType": "true_false",
+  "question": "According to Dr. Daniel Brevint, Wesley expressed a high doctrine of the sacrament as a celebration of Christ's sacrificial love for mankind.",
+  "options": [
+   {
+    "key": "A",
+    "text": "True",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "False",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Charles Wesley's Hymns on the Lord's Supper, based on an article by the high church divine Dr. Daniel Brevint, expressed the Wesleys' high doctrine of the Sacrament as a celebration of Christ's sacrificial love for mankind.",
+  "manualReference": {
+   "chapterTitle": "CHARLES WESLEY AND METHODIST HYMNOLOGY",
+   "topicTitle": "The Sacraments in the Methodist Hymns",
+   "anchor": 4480,
+   "excerpt": "Charles Wesley's Hymns on the Lord's Supper, based on an article by a high church divine, Dr. Daniel Brevint, expressed the Wesley's high doctrine of the Sacrament as a celebration of Christ's sacrificial love for mankind.",
+   "citation": "Methodist Studies — CHARLES WESLEY AND METHODIST HYMNOLOGY — The Sacraments in the Methodist Hymns"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "sacraments",
+   "hymns",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section B",
+   "questionNumber": "38"
+  },
+  "answerConfidence": "verified",
+  "status": "published"
+ },
+ {
+  "questionId": "MS-P-2025-A39",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "PREVENIENT  GRACE",
+  "topic": "INTRODUCTION",
+  "questionType": "true_false",
+  "question": "Prevenient grace (antecedent grace) means “God seeks us before we ever seek God”, or “God is the initiator of salvation”.",
+  "options": [
+   {
+    "key": "A",
+    "text": "True",
+    "isCorrect": true,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "False",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ],
+  "explanation": "Prevenient grace is the grace that goes before any human action for salvation; it may also be called antecedent grace, and its import is that the initiative of salvation is with God – God seeks us before we ever seek God.",
+  "manualReference": {
+   "chapterTitle": "PREVENIENT  GRACE",
+   "topicTitle": "INTRODUCTION",
+   "anchor": 4237,
+   "excerpt": "It may also be called antecedent grace. In this doctrine God's grace always pre-vents (comes before) and makes possible human response. In the opinion of Wesley any person, however apparently ignorant and abandoned, is under the influence of prevenient grace. God comes to humanity first. That is the significance of prevenient grace. God seeks us before we ever seek God.",
+   "citation": "Methodist Studies — PREVENIENT  GRACE — INTRODUCTION"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "prevenient-grace",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section B",
+   "questionNumber": "39"
+  },
+  "answerConfidence": "verified",
+  "status": "published"
+ },
+ {
+  "questionId": "MS-P-2025-A40",
+  "examStage": "PART2",
+  "subject": "MS",
+  "questionType": "true_false",
+  "question": "The heresy of the denial of Christ's divinity usually goes by the name of Arianism.",
+  "explanation": "",
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "heresies",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section B",
+   "questionNumber": "40"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "The Methodist Studies syllabus does not discuss Arianism or any of the christological heresies; the statement can only be checked against the Christian Doctrine syllabus, so nothing in this subject settles it.",
+  "options": [
+   {
+    "key": "A",
+    "text": "True",
+    "isCorrect": false,
+    "rationale": ""
+   },
+   {
+    "key": "B",
+    "text": "False",
+    "isCorrect": false,
+    "rationale": ""
+   }
+  ]
+ },
+ {
+  "questionId": "MS-PT-2025-B41",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "THEOLOGY OF MAN",
+  "topic": "INTRODUCTION",
+  "questionType": "theory",
+  "question": "State all the three classifications of Wesley's understanding of human nature and briefly explain each of them.",
+  "marks": 6,
+  "idealAnswer": "Wesley's doctrine of man draws on both the Western and Eastern Christian traditions, both of which held that humanity was created in God's image, and his understanding of human nature can be classified under three main themes. The first is humanity as God's gracious creation. It was the free grace of God that formed man from the dust of the ground and breathed into him a living soul, and the state of man before the Fall was complete perfection. Man is a complex being composed of both body and spirit, and Wesley discussed man created in the image of God under three images: the natural image, a spirit endued with understanding, will and liberty; the political image, in which man is God's vice-regent with dominion over the lower creation; and the moral image, in which man was holy, merciful and perfect as God is, which for Wesley was the principal image. The second theme is humanity as fallen. Adam fell first as a result of unbelief, a lack of trust in God, and Eve believed a lie, giving more credit to the word of the Devil than to the Word of God; so for Wesley the nature of human sin is not pride but unbelief, out of which pride, self-will and every other evil disposition flow. The Fall brought not only physical death but pain, sickness and unholy tempers, and while the natural and political images were polluted or lost in part, the moral image was totally lost. The third theme is humanity as freshly restored. The beginning of the work of salvation in any human being is God's prevenient grace, which goes before any human action and enables a response; by justification we are pardoned, saved from the guilt of sin and restored to the favour of God, and by sanctification we are saved from the power and root of sin and restored to the image of God, so that the individual is renewed and grows into the whole image of God.",
+  "keyPoints": [
+   "Wesley's doctrine of man rests on both Western and Eastern Christian traditions, which held that humanity was created in God's image",
+   "Three themes: humanity as God's gracious creation, humanity as fallen, humanity as freshly restored",
+   "Gracious creation: free grace formed man of dust and breathed in a living soul; before the Fall man's state was complete perfection; man is body and spirit",
+   "The image of God under three images – natural, political and moral, the moral being the principal image",
+   "Humanity as fallen: Adam fell through unbelief, not pride; Eve believed a lie",
+   "The natural and political images were polluted or lost in part, the moral image totally lost",
+   "Humanity as freshly restored: prevenient grace begins the work, justification pardons and restores to God's favour",
+   "Sanctification saves from the power and root of sin and restores the image of God"
+  ],
+  "markingRubric": [
+   {
+    "id": "c1",
+    "label": "The three classifications named",
+    "description": "Names all three themes – humanity as God's gracious creation, humanity as fallen, and humanity as freshly restored.",
+    "marks": 2,
+    "keywords": [
+     "gracious creation",
+     "fallen",
+     "freshly restored"
+    ],
+    "synonyms": [
+     [
+      "freshly restored",
+      "restored"
+     ]
+    ],
+    "required": true
+   },
+   {
+    "id": "c2",
+    "label": "Humanity as God's gracious creation explained",
+    "description": "Explains that the free grace of God formed man of dust and breathed in a living soul, that man is body and spirit, and that the image of God is discussed under the natural, political and moral images, the moral being the principal one.",
+    "marks": 2,
+    "keywords": [
+     "free grace",
+     "body and spirit",
+     "natural",
+     "political",
+     "moral image"
+    ],
+    "synonyms": [
+     [
+      "moral image",
+      "principal image"
+     ]
+    ],
+    "required": true
+   },
+   {
+    "id": "c3",
+    "label": "Humanity as fallen explained",
+    "description": "Explains that Adam fell through unbelief rather than pride, and that the natural and political images were polluted or lost in part while the moral image was totally lost.",
+    "marks": 1,
+    "keywords": [
+     "unbelief",
+     "moral image",
+     "totally lost"
+    ],
+    "synonyms": [
+     [
+      "unbelief",
+      "lack of trust"
+     ]
+    ],
+    "required": true
+   },
+   {
+    "id": "c4",
+    "label": "Humanity as freshly restored explained",
+    "description": "Explains restoration through prevenient grace, justification (saved from the guilt of sin and restored to God's favour) and sanctification (saved from the power and root of sin and restored to the image of God).",
+    "marks": 1,
+    "keywords": [
+     "prevenient grace",
+     "justification",
+     "sanctification",
+     "restored"
+    ],
+    "synonyms": [],
+    "required": true
+   }
+  ],
+  "explanation": "Tests whether the candidate knows Wesley's threefold classification of human nature and can explain each theme in the syllabus' own terms. The paper allots 11 marks to questions 41 and 42 together.",
+  "manualReference": {
+   "chapterTitle": "THEOLOGY OF MAN",
+   "topicTitle": "INTRODUCTION",
+   "anchor": 4194,
+   "excerpt": "Wesley's understanding of human nature can be classified under three main themes: (a) Humanity as God's gracious creation (b) Humanity as fallen and (c) Humanity as freshly restored.",
+   "citation": "Methodist Studies — THEOLOGY OF MAN — INTRODUCTION"
+  },
+  "scriptureReferences": [],
+  "difficulty": "hard",
+  "tags": [
+   "theology-of-man",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section C",
+   "questionNumber": "41"
+  },
+  "answerConfidence": "verified",
+  "status": "published"
+ },
+ {
+  "questionId": "MS-PT-2025-B42",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "JOHN WESLEY'S SOCIAL ETHICS",
+  "topic": "John Wesley and the Use of Money",
+  "questionType": "theory",
+  "question": "State the three formulated rules by Wesley to guide his followers on handling worldly goods and explain each of them.",
+  "marks": 5,
+  "idealAnswer": "Wesley formulated three simple rules to guide his followers on handling worldly goods: “Gain all you can, Save all you can and Give all you can.” He cited two reasons for the rules: most Christians did not know how to deal rightly with money and no one gave them instruction, and the improper use of so valuable a good as money, entrusted to human beings by God, could have far-reaching consequences for both Christians and their neighbours. The first rule, gain all you can, was a challenge to earn as much money as possible, but only through honest means. The second rule, save all you can, exhorted the Methodist to save money in private treasuries or in Bank of England savings accounts and to refrain from all unnecessary spending; money in itself is neither good nor evil, for in the hands of God's children it becomes nourishment for the hungry, drink for the thirsty and clothing for the naked, and all that money can achieve, good or evil, depends on how people use it. The first two rules are only justified through the third, give all you can. Wesley drew a boundary between what a person needed to keep and what he needed to give away: anyone whose income exceeded the necessities of life and personal obligations should give the excess to meet the needs of others. Those who observe the first two rules and not the third are twofold more the children of hell than ever they were before, for it is only the observance of the third rule, which sets forth the social obligations of possessions, that can convert an increasing income into a blessing.",
+  "keyPoints": [
+   "Wesley formulated three simple rules for handling worldly goods",
+   "Gain all you can, Save all you can, Give all you can",
+   "Two reasons: Christians did not know how to deal rightly with money and were not instructed; the improper use of money has far-reaching consequences",
+   "Gain all you can – earn as much as possible, but through honest means",
+   "Save all you can – save in private treasuries or Bank of England accounts and refrain from unnecessary spending; money is neither good nor evil",
+   "Give all you can – give away all above the necessities of life and personal obligations",
+   "Those who keep the first two rules and not the third are twofold more the children of hell than before",
+   "Only the third rule converts an increasing income into a blessing"
+  ],
+  "markingRubric": [
+   {
+    "id": "c1",
+    "label": "The three rules stated",
+    "description": "States all three rules in Wesley's own words: Gain all you can, Save all you can, Give all you can.",
+    "marks": 2,
+    "keywords": [
+     "gain all you can",
+     "save all you can",
+     "give all you can"
+    ],
+    "synonyms": [],
+    "required": true
+   },
+   {
+    "id": "c2",
+    "label": "Gain all you can explained",
+    "description": "Explains it as a challenge to earn as much money as possible, but only through honest means.",
+    "marks": 1,
+    "keywords": [
+     "earn",
+     "honest means"
+    ],
+    "synonyms": [
+     [
+      "earn",
+      "gain"
+     ]
+    ],
+    "required": true
+   },
+   {
+    "id": "c3",
+    "label": "Save all you can explained",
+    "description": "Explains saving in private treasuries or Bank of England savings accounts and refraining from all unnecessary spending, money being in itself neither good nor evil.",
+    "marks": 1,
+    "keywords": [
+     "save",
+     "unnecessary spending",
+     "neither good nor evil"
+    ],
+    "synonyms": [],
+    "required": true
+   },
+   {
+    "id": "c4",
+    "label": "Give all you can explained",
+    "description": "Explains that whatever exceeds the necessities of life and personal obligations should be given to meet the needs of others, and that those who keep the first two rules but not the third are twofold more the children of hell than before.",
+    "marks": 1,
+    "keywords": [
+     "give",
+     "necessities of life",
+     "needs of others",
+     "children of hell"
+    ],
+    "synonyms": [],
+    "required": true
+   }
+  ],
+  "explanation": "Tests Wesley's three rules on the use of money and the candidate's ability to explain each of them. The paper allots 11 marks to questions 41 and 42 together.",
+  "manualReference": {
+   "chapterTitle": "JOHN WESLEY'S SOCIAL ETHICS",
+   "topicTitle": "John Wesley and the Use of Money",
+   "anchor": 4566,
+   "excerpt": "Wesley formulated three simple rules to guide his followers on handling worldly goods. \nThese were: \"Gain all you can, Save all you can and Give all you can\".",
+   "citation": "Methodist Studies — JOHN WESLEY'S SOCIAL ETHICS — John Wesley and the Use of Money"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "money",
+   "social-ethics",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section C",
+   "questionNumber": "42"
+  },
+  "answerConfidence": "verified",
+  "status": "published"
+ },
+ {
+  "questionId": "MS-PT-2025-B43",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "CHARLES WESLEY AND METHODIST HYMNOLOGY",
+  "topic": "Charles Wesley and Methodist Hymnology",
+  "questionType": "theory",
+  "question": "Kindly write the last stanza of M.H.B. 386.",
+  "marks": 3,
+  "idealAnswer": "Jesus, confirm my heart's desire / To work, and speak, and think for thee; / Still let me guard the holy fire, / And still stir up thy gifts in me – / Ready for all thy perfect will, / My acts of faith and love repeat, / Till death thy endless mercies seal / And make the sacrifice complete.",
+  "keyPoints": [
+   "Jesus, confirm my heart's desire",
+   "To work, and speak, and think for thee",
+   "Still let me guard the holy fire",
+   "And still stir up thy gifts in me",
+   "Ready for all thy perfect will",
+   "My acts of faith and love repeat",
+   "Till death thy endless mercies seal",
+   "And make the sacrifice complete"
+  ],
+  "markingRubric": [
+   {
+    "id": "c1",
+    "label": "First two lines",
+    "description": "Gives the opening lines: “Jesus, confirm my heart's desire / To work, and speak, and think for thee”.",
+    "marks": 1,
+    "keywords": [
+     "confirm my heart's desire",
+     "work",
+     "speak",
+     "think for thee"
+    ],
+    "synonyms": [],
+    "required": true
+   },
+   {
+    "id": "c2",
+    "label": "Middle lines",
+    "description": "Gives “Still let me guard the holy fire, / And still stir up thy gifts in me – / Ready for all thy perfect will”.",
+    "marks": 1,
+    "keywords": [
+     "guard the holy fire",
+     "stir up thy gifts",
+     "perfect will"
+    ],
+    "synonyms": [],
+    "required": true
+   },
+   {
+    "id": "c3",
+    "label": "Closing lines",
+    "description": "Gives “My acts of faith and love repeat, / Till death thy endless mercies seal / And make the sacrifice complete”.",
+    "marks": 1,
+    "keywords": [
+     "acts of faith and love",
+     "endless mercies seal",
+     "sacrifice complete"
+    ],
+    "synonyms": [],
+    "required": true
+   }
+  ],
+  "explanation": "Tests knowledge of the closing stanza of Charles Wesley's hymn “O thou who camest from above” (M.H.B. 386), which the syllabus quotes in full while separately identifying “O thou who camest from above” as the first verse.",
+  "manualReference": {
+   "chapterTitle": "CHARLES WESLEY AND METHODIST HYMNOLOGY",
+   "topicTitle": "Charles Wesley and Methodist Hymnology",
+   "anchor": 4417,
+   "excerpt": "And make the sacrifice complete. \t(MHB 386)",
+   "citation": "Methodist Studies — CHARLES WESLEY AND METHODIST HYMNOLOGY — Charles Wesley and Methodist Hymnology"
+  },
+  "scriptureReferences": [],
+  "difficulty": "hard",
+  "tags": [
+   "hymns",
+   "charles-wesley",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section C",
+   "questionNumber": "43"
+  },
+  "answerConfidence": "verified",
+  "status": "published"
+ },
+ {
+  "questionId": "MS-PT-2025-B44",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "JOHN WESLEY'S SOCIAL ETHICS",
+  "topic": "John Wesley and the Poor",
+  "questionType": "theory",
+  "question": "What practical intervention did Wesley put in place as a remedy for poverty alleviation?",
+  "marks": 3,
+  "idealAnswer": "From his own savings Wesley provided the basic capital of a loan fund from which the poor could take interest-free loans for up to three months. The loan amount was first limited to twenty shillings but was later raised to five pounds, and within one year more than 250 persons had been provided with loans, thus saving them from money lenders who demanded exorbitant interest. Alongside this, because many poor people could not secure medicine or the aid of a physician, Wesley himself dispensed medicine and treated simple illnesses, freely aiding some hundreds of people, most of whom did not even belong to any of the Methodist societies.",
+  "keyPoints": [
+   "Wesley provided the basic capital of a loan fund from his own savings",
+   "The poor could take interest-free loans for up to three months",
+   "The loan was first limited to twenty shillings, later raised to five pounds",
+   "Within one year more than 250 persons had received loans",
+   "This saved them from money lenders who demanded exorbitant interest",
+   "He also dispensed medicine and treated simple illnesses free of charge"
+  ],
+  "markingRubric": [
+   {
+    "id": "c1",
+    "label": "The interest-free loan fund",
+    "description": "States that Wesley provided from his own savings the capital of a loan fund giving the poor interest-free loans for up to three months.",
+    "marks": 2,
+    "keywords": [
+     "loan fund",
+     "interest-free",
+     "three months",
+     "own savings"
+    ],
+    "synonyms": [
+     [
+      "interest-free",
+      "no interest"
+     ]
+    ],
+    "required": true
+   },
+   {
+    "id": "c2",
+    "label": "Details and other practical help",
+    "description": "Adds the detail of twenty shillings raised to five pounds, over 250 persons in one year saved from money lenders, and/or Wesley's free dispensing of medicine to the poor.",
+    "marks": 1,
+    "keywords": [
+     "twenty shillings",
+     "five pounds",
+     "250",
+     "money lenders",
+     "medicine"
+    ],
+    "synonyms": [],
+    "required": false
+   }
+  ],
+  "explanation": "Tests knowledge of Wesley's concrete measures for the relief of poverty, not merely his teaching about it.",
+  "manualReference": {
+   "chapterTitle": "JOHN WESLEY'S SOCIAL ETHICS",
+   "topicTitle": "John Wesley and the Poor",
+   "anchor": 4562,
+   "excerpt": "From his own savings Wesley provided the basic capital of a loan fund from which the poor \ncould take interest-free loans up to three months. The loan amount was first limited to \ntwenty shillings, but later raised to five pounds. Within one year more than 250 persons \nhad been provided with loans, thus saving them from money lenders who demanded \nexorbitant interest.",
+   "citation": "Methodist Studies — JOHN WESLEY'S SOCIAL ETHICS — John Wesley and the Poor"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "poverty",
+   "social-ethics",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section C",
+   "questionNumber": "44"
+  },
+  "answerConfidence": "verified",
+  "status": "published"
+ },
+ {
+  "questionId": "MS-PT-2025-B45",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "JOHN WESLEY'S SOCIAL ETHICS",
+  "topic": "Wesley's Concern for Prisoners",
+  "questionType": "theory",
+  "question": "Which people resisted Wesley's work in the prisons?",
+  "marks": 3,
+  "idealAnswer": "Wesley's work in the prisons was resisted by the prison authorities and by pastors. He was refused permission to converse with some who had been condemned to death, even though the prisoners themselves had requested it, and in Bristol his daily worship service was limited to one sermon a week.",
+  "keyPoints": [
+   "Wesley's work in the prisons was resisted by prison authorities",
+   "It was also resisted by pastors",
+   "He was refused permission to converse with some condemned prisoners who had asked for him",
+   "In Bristol his daily worship service was limited to a sermon per week"
+  ],
+  "markingRubric": [
+   {
+    "id": "c1",
+    "label": "Prison authorities",
+    "description": "Names the prison authorities as resisting Wesley's work.",
+    "marks": 2,
+    "keywords": [
+     "prison authorities"
+    ],
+    "synonyms": [
+     [
+      "prison authorities",
+      "authorities"
+     ]
+    ],
+    "required": true
+   },
+   {
+    "id": "c2",
+    "label": "Pastors",
+    "description": "Names pastors as also resisting the work, optionally with the evidence of refused visits and the limit of one sermon a week in Bristol.",
+    "marks": 1,
+    "keywords": [
+     "pastors"
+    ],
+    "synonyms": [
+     [
+      "pastors",
+      "clergy"
+     ]
+    ],
+    "required": true
+   }
+  ],
+  "explanation": "Tests the candidate's knowledge of the opposition Wesley's prison ministry met.",
+  "manualReference": {
+   "chapterTitle": "JOHN WESLEY'S SOCIAL ETHICS",
+   "topicTitle": "Wesley's Concern for Prisoners",
+   "anchor": 4586,
+   "excerpt": "Wesley's work in the prisons was resisted by prison authorities and pastors.",
+   "citation": "Methodist Studies — JOHN WESLEY'S SOCIAL ETHICS — Wesley's Concern for Prisoners"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "prisoners",
+   "social-ethics",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section C",
+   "questionNumber": "45"
+  },
+  "answerConfidence": "verified",
+  "status": "published"
+ },
+ {
+  "questionId": "MS-PT-2025-B46",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "JUSTIFICATION BY FAITH IN JESUS CHRIST",
+  "topic": "Sanctification",
+  "questionType": "theory",
+  "question": "According to Wesley, “by justification we are saved from the guilt of sin and restored to the favour of God”. What does he say of sanctification?",
+  "marks": 3,
+  "idealAnswer": "Wesley wrote: “By sanctification we are saved from the power and root of sin and restored to the image of God.” He added that all experience, as well as Scripture, shows this salvation to be both instantaneous and gradual: it begins the moment we are justified and increases gradually from that moment, as a grain of mustard seed which is at first the least of all seeds but afterwards puts forth large branches and becomes a great tree, until in another instant the heart is cleansed from all sin and filled with pure love to God and man; and even that love increases more and more till we attain the measure of the stature of the fullness of Christ.",
+  "keyPoints": [
+   "By sanctification we are saved from the power and root of sin",
+   "And restored to the image of God",
+   "The salvation is both instantaneous and gradual",
+   "It begins the moment we are justified",
+   "It grows like a grain of mustard seed into a great tree",
+   "Until the heart is cleansed from all sin and filled with pure love to God and man"
+  ],
+  "markingRubric": [
+   {
+    "id": "c1",
+    "label": "Saved from the power and root of sin",
+    "description": "States that by sanctification we are saved from the power and root of sin.",
+    "marks": 2,
+    "keywords": [
+     "power and root of sin"
+    ],
+    "synonyms": [
+     [
+      "power and root of sin",
+      "power of sin"
+     ]
+    ],
+    "required": true
+   },
+   {
+    "id": "c2",
+    "label": "Restored to the image of God",
+    "description": "States that by sanctification we are restored to the image of God, and may add that it is both instantaneous and gradual, beginning the moment we are justified.",
+    "marks": 1,
+    "keywords": [
+     "restored",
+     "image of God",
+     "instantaneous",
+     "gradual"
+    ],
+    "synonyms": [],
+    "required": true
+   }
+  ],
+  "explanation": "Tests the exact contrast Wesley draws between justification and sanctification.",
+  "manualReference": {
+   "chapterTitle": "JUSTIFICATION BY FAITH IN JESUS CHRIST",
+   "topicTitle": "Sanctification",
+   "anchor": 4272,
+   "excerpt": "By sanctification we are saved from the power and root of sin and restored to the image of God.",
+   "citation": "Methodist Studies — JUSTIFICATION BY FAITH IN JESUS CHRIST — Sanctification"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "sanctification",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section C",
+   "questionNumber": "46"
+  },
+  "answerConfidence": "verified",
+  "status": "published"
+ },
+ {
+  "questionId": "MS-PT-2025-B47",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "JOHN WESLEY'S SOCIAL ETHICS",
+  "topic": "Wesley's Concern for Prisoners",
+  "questionType": "theory",
+  "question": "On what did Wesley focus his preaching in the Bristol prison?",
+  "marks": 3,
+  "idealAnswer": "In Bristol, where his daily worship service was limited to a single sermon a week, Wesley's sermons focused on God's limitless love for all humanity.",
+  "keyPoints": [
+   "Wesley's sermons in the Bristol prison focused on God's limitless love",
+   "That love is for all humanity",
+   "In Bristol his daily worship service was limited to one sermon a week"
+  ],
+  "markingRubric": [
+   {
+    "id": "c1",
+    "label": "God's limitless love for all humanity",
+    "description": "States that his sermons focused on God's limitless love for all humanity.",
+    "marks": 3,
+    "keywords": [
+     "limitless love",
+     "all humanity"
+    ],
+    "synonyms": [
+     [
+      "limitless love",
+      "boundless love"
+     ],
+     [
+      "all humanity",
+      "everyone"
+     ]
+    ],
+    "required": true
+   }
+  ],
+  "explanation": "Tests the content of Wesley's prison preaching as the syllabus records it.",
+  "manualReference": {
+   "chapterTitle": "JOHN WESLEY'S SOCIAL ETHICS",
+   "topicTitle": "Wesley's Concern for Prisoners",
+   "anchor": 4586,
+   "excerpt": "His sermons focused on God's limitless love for all humanity.",
+   "citation": "Methodist Studies — JOHN WESLEY'S SOCIAL ETHICS — Wesley's Concern for Prisoners"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "prisoners",
+   "social-ethics",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section C",
+   "questionNumber": "47"
+  },
+  "answerConfidence": "verified",
+  "status": "published"
+ },
+ {
+  "questionId": "MS-PT-2025-B48",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "JOHN WESLEY'S SOCIAL ETHICS",
+  "topic": "Wesley's Concern for Prisoners",
+  "questionType": "theory",
+  "question": "Apart from Wesley's preaching and advocacy for prisoners, what other significant thing was done for the prisoners?",
+  "marks": 3,
+  "idealAnswer": "Wesley secured a good number of the Methodists to care for prisoners. They visited the prisoners to read the Bible and pray with them, submitted petitions to the authorities on their behalf, comforted and encouraged them, and accompanied condemned prisoners to the scaffold, sparing them the hooting of crowds eager for a spectacle. Money was also collected in the Methodists' worship service to buy the prisoners clothing, food and mattresses.",
+  "keyPoints": [
+   "Wesley secured many Methodists to care for the prisoners",
+   "They visited to read the Bible and pray with them",
+   "They submitted petitions to the authorities on the prisoners' behalf",
+   "They comforted and encouraged them",
+   "They accompanied condemned prisoners to the scaffold, avoiding the hooting of crowds",
+   "Money was collected in Methodist worship services to buy clothing, food and mattresses"
+  ],
+  "markingRubric": [
+   {
+    "id": "c1",
+    "label": "Methodists organised to care for prisoners",
+    "description": "States that Wesley secured Methodists who visited the prisoners to read the Bible and pray with them, petitioned the authorities on their behalf and accompanied condemned prisoners to the scaffold.",
+    "marks": 2,
+    "keywords": [
+     "visited",
+     "Bible",
+     "pray",
+     "petitions",
+     "scaffold"
+    ],
+    "synonyms": [],
+    "required": true
+   },
+   {
+    "id": "c2",
+    "label": "Material relief collected in worship",
+    "description": "States that money was collected in the Methodists' worship service to buy the prisoners clothing, food and mattresses.",
+    "marks": 1,
+    "keywords": [
+     "money",
+     "clothing",
+     "food",
+     "mattresses"
+    ],
+    "synonyms": [],
+    "required": true
+   }
+  ],
+  "explanation": "Tests the practical relief work that accompanied Wesley's prison preaching.",
+  "manualReference": {
+   "chapterTitle": "JOHN WESLEY'S SOCIAL ETHICS",
+   "topicTitle": "Wesley's Concern for Prisoners",
+   "anchor": 4588,
+   "excerpt": "Wesley secured a lot of the Methodists to care for prisoners. They visited the prisoners to read the Bible and pray with them. They submitted petitions to the authorities on their behalf, comforted and encouraged them and accompanied condemned prisoners to the scaffold avoiding the hooting of crowds eager for a spectacle. Money was collected in the Methodists' worship service to buy them clothing, food and mattresses.",
+   "citation": "Methodist Studies — JOHN WESLEY'S SOCIAL ETHICS — Wesley's Concern for Prisoners"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "prisoners",
+   "social-ethics",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section C",
+   "questionNumber": "48"
+  },
+  "answerConfidence": "verified",
+  "status": "published"
+ },
+ {
+  "questionId": "MS-PT-2025-B49",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "THE BASIS OF WESLEY'S THEOLOGICAL THINKING",
+  "topic": "The Wesleyan Quadrilateral",
+  "questionType": "theory",
+  "question": "What is found in Wesley's journal for May 14, 1765?",
+  "marks": 3,
+  "idealAnswer": "In his Journal for May 14, 1765 Wesley writes: “In 1730 I began to be Homo Unius Libri, to study comparatively no book but the Bible.” John Wesley called himself Homo Unius Libri – a man of one Book – for he possessed a passionate love for Scripture and presented a theology of Scripture that affirmed its divine inspiration, never doubting its trustworthiness and allowing no other rule, whether of faith or practice, than the Holy Scriptures.",
+  "keyPoints": [
+   "The entry is in Wesley's Journal for May 14, 1765",
+   "“In 1730 I began to be Homo Unius Libri, to study comparatively no book but the Bible”",
+   "Homo Unius Libri means a man of one Book",
+   "It expresses Wesley's passionate love for Scripture and his affirmation of its divine inspiration"
+  ],
+  "markingRubric": [
+   {
+    "id": "c1",
+    "label": "The Journal entry quoted",
+    "description": "Gives the substance of the entry: “In 1730 I began to be Homo Unius Libri, to study comparatively no book but the Bible.”",
+    "marks": 2,
+    "keywords": [
+     "Homo Unius Libri",
+     "1730",
+     "no book but the Bible"
+    ],
+    "synonyms": [],
+    "required": true
+   },
+   {
+    "id": "c2",
+    "label": "Its meaning",
+    "description": "Explains that Homo Unius Libri means a man of one Book, expressing Wesley's supreme regard for Scripture.",
+    "marks": 1,
+    "keywords": [
+     "man of one book",
+     "Scripture"
+    ],
+    "synonyms": [
+     [
+      "man of one book",
+      "one Book"
+     ]
+    ],
+    "required": true
+   }
+  ],
+  "explanation": "Tests the well-known Journal entry in which Wesley calls himself a man of one Book.",
+  "manualReference": {
+   "chapterTitle": "THE BASIS OF WESLEY'S THEOLOGICAL THINKING",
+   "topicTitle": "The Wesleyan Quadrilateral",
+   "anchor": 4165,
+   "excerpt": "In his Journal for May 14, 1765, he writes: \"In 1730 I began to be Homo Unius Libri, to study comparatively no book but the Bible.\"",
+   "citation": "Methodist Studies — THE BASIS OF WESLEY'S THEOLOGICAL THINKING — The Wesleyan Quadrilateral"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "scripture",
+   "quadrilateral",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section C",
+   "questionNumber": "49"
+  },
+  "answerConfidence": "verified",
+  "status": "published"
+ },
+ {
+  "questionId": "MS-P-2025-A50",
+  "examStage": "PART2",
+  "subject": "MS",
+  "chapter": "JOHN WESLEY'S SOCIAL ETHICS",
+  "topic": "INTRODUCTION",
+  "questionType": "fill_blank",
+  "question": "The Wesleyan revival showed much social responsibility for certain categories of people. State three of such categories. (i) … (ii) … (iii) …",
+  "acceptedAnswers": [
+   "The poor",
+   "The poor – Wesley gave away his income, dispensed medicine and set up an interest-free loan fund for them",
+   "Prisoners",
+   "Prisoners – Wesley preached and prayed in the London and Bristol prisons and organised Methodists to care for them",
+   "Slaves",
+   "Slaves – Wesley published his Thoughts upon Slavery and supported the campaign for abolition",
+   "Those harmed by the liquor trade"
+  ],
+  "explanation": "The syllabus introduces this sentence and then treats the groups in turn: the poor (including his teaching on the use of money), slaves, prisoners, and those harmed by the liquor trade.",
+  "manualReference": {
+   "chapterTitle": "JOHN WESLEY'S SOCIAL ETHICS",
+   "topicTitle": "INTRODUCTION",
+   "anchor": 4551,
+   "excerpt": "The Wesleyan Revival showed much social responsibility for certain categories of people. We will now turn our attention to these groups.",
+   "citation": "Methodist Studies — JOHN WESLEY'S SOCIAL ETHICS — INTRODUCTION"
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "social-ethics",
+   "past-paper"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "Methodist Studies Part II — September 2025",
+   "year": 2025,
+   "sitting": "September",
+   "sectionLabel": "Section C",
+   "questionNumber": "50"
+  },
+  "answerConfidence": "verified",
+  "status": "published"
+ }
+]

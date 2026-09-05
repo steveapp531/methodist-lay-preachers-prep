@@ -1,0 +1,1074 @@
+[
+  {
+    "cardId": "CS-C-0001",
+    "subject": "CS",
+    "chapter": "THE CHURCH AND THE SOCIETY",
+    "topic": "INTRODUCTION: THE SOCIETY",
+    "front": "How does the syllabus define a Society (introductory definition)?",
+    "back": "A group of people who conceive of themselves as distinct from other groups and who are connected together through communication ties, common customs and traditions, and institutions such as politics, law and economics.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "A Society therefore is a group of people who conceive of themselves as distinct from other groups and who are connected together through communication ties, common customs and traditions, and institutions such as politics, law and economics.",
+    "anchor": 4708,
+    "tags": [
+      "society"
+    ],
+    "order": 1
+  },
+  {
+    "cardId": "CS-C-0002",
+    "subject": "CS",
+    "chapter": "THE CHURCH AND THE SOCIETY",
+    "topic": "Essential Characteristics of a Society",
+    "front": "Give the syllabus's formal definition of Society.",
+    "back": "An enduring union of a number of persons morally bound under authority to cooperate for a common good. Society is not a physical thing; only the members and their action are physical.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "Hence, Society may be defined as an enduring union of a number of persons morally bound under authority to cooperate for a common good.",
+    "anchor": 4730,
+    "tags": [
+      "society",
+      "authority"
+    ],
+    "order": 2
+  },
+  {
+    "cardId": "CS-C-0003",
+    "subject": "CS",
+    "chapter": "THE CHURCH AND THE SOCIETY",
+    "topic": "Why do Humans Live in Societies?",
+    "front": "Who said \"the life of solitude is fit only for a beast or a god\"?",
+    "back": "Aristotle, quoted in support of the claim that Society is essential to humans.",
+    "kind": "person",
+    "scriptureReferences": [],
+    "excerpt": "Aristotle is right in saying that; \"the life of \nsolitude is fit only for a beast or a god\".",
+    "anchor": 4720,
+    "tags": [
+      "society",
+      "quotations"
+    ],
+    "order": 3
+  },
+  {
+    "cardId": "CS-C-0004",
+    "subject": "CS",
+    "chapter": "THE CHURCH AND THE SOCIETY",
+    "topic": "The Church as a Society",
+    "front": "What did a friend of John Wesley tell him about serving God alone?",
+    "back": "\"Sir, you wish to serve God and go to heaven? Remember that you cannot serve him alone. You must therefore find companions or make them; the Bible knows nothing about solitary religion.\"",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "You must therefore find \ncompanions or make them; the Bible knows nothing about solitary religion",
+    "anchor": 4733,
+    "tags": [
+      "church-as-society",
+      "wesley",
+      "quotations"
+    ],
+    "order": 4
+  },
+  {
+    "cardId": "CS-C-0005",
+    "subject": "CS",
+    "chapter": "THE CHURCH AND THE SOCIETY",
+    "topic": "Key Functions of the Church",
+    "front": "What does the Bible call the Church, and what does the term mean?",
+    "back": "Laos theou - the people of God. The Church is not an institution but a people.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "The Bible calls it Laos theou, thus \"people of God\".",
+    "anchor": 4747,
+    "tags": [
+      "church",
+      "laos-theou"
+    ],
+    "order": 5
+  },
+  {
+    "cardId": "CS-C-0006",
+    "subject": "CS",
+    "chapter": "THE CHURCH AND THE SOCIETY",
+    "topic": "Key Functions of the Church",
+    "front": "According to the syllabus, what must the Church be like, as Harvey Cox puts it?",
+    "back": "A \"confirmed gambler\".",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "The Church must be life a \"confirmed gambler\" as Harvey Cox puts it.",
+    "anchor": 4749,
+    "tags": [
+      "church",
+      "quotations"
+    ],
+    "order": 6
+  },
+  {
+    "cardId": "CS-C-0007",
+    "subject": "CS",
+    "chapter": "THE CHURCH AND THE SOCIETY",
+    "topic": "Key Functions of the Church",
+    "front": "Where is the business of Christ, which is the business of the Church, spelt out, and what are its three items?",
+    "back": "Luke 4:18, 19: (i) to proclaim release to the captives and recovering of sight to the blind; (ii) to set at liberty those who are oppressed; (iii) to proclaim the acceptable year of the Lord.",
+    "kind": "scripture",
+    "scriptureReferences": [
+      "Luke 4:18,19"
+    ],
+    "excerpt": "This business of Christ is that which he himself spelt out in Luke 4:18, 19:",
+    "anchor": 4753,
+    "tags": [
+      "church",
+      "mission"
+    ],
+    "order": 7
+  },
+  {
+    "cardId": "CS-C-0008",
+    "subject": "CS",
+    "chapter": "HUMAN RIGHTS",
+    "topic": "The Basis of Human Rights",
+    "front": "What do the universalists hold about the basis of human rights?",
+    "back": "That human rights derive from a theological or ideological doctrine or from natural rights, and that there is a single, prevailing set of standards of moral behaviour on which they are based.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "Universalists therefore believe that there is a single, prevailing set of standards of moral behaviour on which human rights are based.",
+    "anchor": 4788,
+    "tags": [
+      "human-rights",
+      "universalists"
+    ],
+    "order": 8
+  },
+  {
+    "cardId": "CS-C-0009",
+    "subject": "CS",
+    "chapter": "HUMAN RIGHTS",
+    "topic": "The Basis of Human Rights",
+    "front": "What do the positivists hold about the basis of human rights?",
+    "back": "That rights are the product of culture, and that in a world of diverse cultures no single standard of human rights exists or is likely to exist.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "The other school of thought, the positivists, argue that rights are the product of culture.",
+    "anchor": 4790,
+    "tags": [
+      "human-rights",
+      "positivists"
+    ],
+    "order": 9
+  },
+  {
+    "cardId": "CS-C-0010",
+    "subject": "CS",
+    "chapter": "HUMAN RIGHTS",
+    "topic": "Developments in Modern Understanding of Human Rights",
+    "front": "What three essential freedoms did President Roosevelt name in his 1941 \"State of the Union\" address?",
+    "back": "(a) freedom of every person to worship God in his own way; (b) freedom from want; (c) freedom from fear - to each of which he added the words \"everywhere in the world\".",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "In 1941 President Roosevelt gave his famous \"State of the union\" address",
+    "anchor": 4801,
+    "tags": [
+      "human-rights",
+      "dates",
+      "roosevelt"
+    ],
+    "order": 10
+  },
+  {
+    "cardId": "CS-C-0011",
+    "subject": "CS",
+    "chapter": "HUMAN RIGHTS",
+    "topic": "Developments in Modern Understanding of Human Rights",
+    "front": "Give the key dates from the adoption of the Universal Declaration of Human Rights to the International Bill of Human Rights.",
+    "back": "Adopted by the UN General Assembly in Paris on 10th December 1948; the two International Covenants published in 1966; the Helsinki Conference held in 1973 with its Final Act in 1975; the two Covenants came into effect in 1976, when the International Bill of Human Rights became a reality.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "In 1976 the two International Covenants came into effect, and so the long dreamed-of International Bill of Human Rights became a reality.",
+    "anchor": 4808,
+    "tags": [
+      "human-rights",
+      "dates"
+    ],
+    "order": 11
+  },
+  {
+    "cardId": "CS-C-0012",
+    "subject": "CS",
+    "chapter": "HUMAN RIGHTS",
+    "topic": "The Biblical Basis of Human Rights",
+    "front": "What, according to John Stott, is the origin of human rights?",
+    "back": "Creation. \"Man has never 'acquired' them. Nor has any government or other authority conferred them. We have had them from the beginning. We received them with our life from our Maker.\"",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "\"The origin of human rights is creation. Man has never \"acquired\" them.",
+    "anchor": 4816,
+    "tags": [
+      "human-rights",
+      "stott"
+    ],
+    "order": 12
+  },
+  {
+    "cardId": "CS-C-0013",
+    "subject": "CS",
+    "chapter": "HUMAN RIGHTS",
+    "topic": "The Biblical Basis of Human Rights",
+    "front": "On which three words does John Stott say the biblical basis of human rights hinges?",
+    "back": "\"Dignity\", \"equality\" and \"responsibility\".",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "the Biblical basis of human rights hinges on three words - \n\"dignity\", \"equality\" and \"responsibility\".",
+    "anchor": 4818,
+    "tags": [
+      "human-rights",
+      "stott"
+    ],
+    "order": 13
+  },
+  {
+    "cardId": "CS-C-0014",
+    "subject": "CS",
+    "chapter": "HUMAN RIGHTS",
+    "topic": "The Biblical Basis of Human Rights",
+    "front": "On which passage does Stott base human dignity, and what three relationships stand out?",
+    "back": "Genesis 1:27-28. Our relationship to God (created in his image), to one another (male and female he created them), and to the earth and its creatures (fill the earth and subdue it).",
+    "kind": "scripture",
+    "scriptureReferences": [
+      "Genesis 1:27-28"
+    ],
+    "excerpt": "This is based on Gen. 1:27-28 which deals with God's purpose for our creation, and three issues stand out:",
+    "anchor": 4821,
+    "tags": [
+      "human-rights",
+      "stott",
+      "dignity"
+    ],
+    "order": 14
+  },
+  {
+    "cardId": "CS-C-0015",
+    "subject": "CS",
+    "chapter": "POLITICS",
+    "topic": "INTRODUCTION: WHAT IS POLITICS?",
+    "front": "How did Dr. Kwame Afari Gyan define politics in 1991?",
+    "back": "\"The term politics refers to the activities, ranging from persuasion to force, which the parties to a political situation may undertake in the desire to get their preferred course of action to prevail\" (Understanding Politics, Asempa Publishers, 1991, p. 15).",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "Dr. Kwame Afari Gyan wrote in 1991 that \"The term politics refers to the activities, ranging from persuasion to force, which the parties to a political situation may undertake in the desire to get their preferred course of action to prevail\"",
+    "anchor": 4857,
+    "tags": [
+      "politics",
+      "definitions"
+    ],
+    "order": 15
+  },
+  {
+    "cardId": "CS-C-0016",
+    "subject": "CS",
+    "chapter": "POLITICS",
+    "topic": "Sustaining Democracy: The Church's Role",
+    "front": "How did Harold Laswell and David Easton each define politics?",
+    "back": "Harold Laswell: a process of determining \"who gets what, when and how\". David Easton: \"the authoritative allocation of values\".",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "A distinguished political scientist Harold Laswell, defined politics as a process of \ndetermining \"who gets what, when and how\".",
+    "anchor": 4909,
+    "tags": [
+      "politics",
+      "definitions",
+      "people"
+    ],
+    "order": 16
+  },
+  {
+    "cardId": "CS-C-0017",
+    "subject": "CS",
+    "chapter": "POLITICS",
+    "topic": "Democracy and the Church",
+    "front": "How did Abraham Lincoln describe democracy, and what does each phrase mean in the syllabus?",
+    "back": "\"Democracy is the government by the people, for the people and of the people.\" By the people: chosen by the people through elections under a self-chosen constitution. For the people: goods, services and protection fairly distributed. Of the people: all sections of the populace given equal opportunity to compete for political and administrative positions.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "As beautifully expressed by Abraham Lincoln \"democracy is the government by the people, for the people and of the people\".",
+    "anchor": 4865,
+    "tags": [
+      "politics",
+      "democracy",
+      "quotations"
+    ],
+    "order": 17
+  },
+  {
+    "cardId": "CS-C-0018",
+    "subject": "CS",
+    "chapter": "POLITICS",
+    "topic": "Sustaining Democracy: The Church's Role",
+    "front": "What did Winston Churchill remark about democracy?",
+    "back": "\"Democracy is the worst form of government except for all the others\" - that is, although democracy is not perfect, it is better than any other form of government known to man.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Winston Churchill once remarked, \"Democracy is the worst form of government except for all the others\".",
+    "anchor": 4869,
+    "tags": [
+      "politics",
+      "democracy",
+      "quotations"
+    ],
+    "order": 18
+  },
+  {
+    "cardId": "CS-C-0019",
+    "subject": "CS",
+    "chapter": "POLITICS",
+    "topic": "Sustaining Democracy: The Church's Role",
+    "front": "Name the seven weaknesses of democracy identified in the syllabus.",
+    "back": "The Tyranny of Democracy; the Fallacy of Democracy; the Disease of Democracy; Red Tapeism; Catalyst for Ethnic Conflicts; the Problem of Vagueness; and Vulnerability to Military Coups.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "This refers to the tendency of politicians in a democracy to look out for the interest of the majority while neglecting the interest or abusing the rights of the minority.",
+    "anchor": 4871,
+    "tags": [
+      "politics",
+      "democracy",
+      "weaknesses"
+    ],
+    "order": 19
+  },
+  {
+    "cardId": "CS-C-0020",
+    "subject": "CS",
+    "chapter": "POLITICS",
+    "topic": "Sustaining Democracy: The Church's Role",
+    "front": "What does the syllabus propose the church should set up to help settle cases out of court?",
+    "back": "\"Christian Family Arbitration Centres\", formed from experienced church leaders, superannuated clergy, lawyers and retired judges and magistrates, as a contribution to decongesting the overburdened legal system.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "the church should organize some experienced church leaders, superannuated clergy, lawyers and retired judges and magistrates etc. into \"Christian Family Arbitration Centres\" for conflict resolution to help settle cases out of court.",
+    "anchor": 4886,
+    "tags": [
+      "politics",
+      "red-tapeism"
+    ],
+    "order": 20
+  },
+  {
+    "cardId": "CS-C-0021",
+    "subject": "CS",
+    "chapter": "POLITICS",
+    "topic": "Sustaining Democracy: The Church's Role",
+    "front": "How many coups has Africa witnessed, and what common cause is cited in all of them?",
+    "back": "About 50 coups; without exception the common major cause cited is corruption. Nigeria and Sierra Leone are given as examples of the trend.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Africa alone has witnessed about 50 coups and without exception, a common major cause cited in all of them is corruption.",
+    "anchor": 4901,
+    "tags": [
+      "politics",
+      "democracy",
+      "corruption"
+    ],
+    "order": 21
+  },
+  {
+    "cardId": "CS-C-0022",
+    "subject": "CS",
+    "chapter": "POLITICS",
+    "topic": "Christians and Politics",
+    "front": "According to Kantiok, what does political participation include?",
+    "back": "\"Exercising one's rights to vote and be voted for, speaking out against any wrongdoing by those in power and holding leaders accountable for their actions.\"",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "\"Political participation includes exercising one's rights to vote and be voted for, speaking out against any wrongdoing by those in power and holding leaders accountable for their actions.\"",
+    "anchor": 4929,
+    "tags": [
+      "politics",
+      "christians-and-politics"
+    ],
+    "order": 22
+  },
+  {
+    "cardId": "CS-C-0023",
+    "subject": "CS",
+    "chapter": "CONFLICT MANAGEMENT",
+    "topic": "Effects of Conflict",
+    "front": "List the positive effects of conflict.",
+    "back": "Long-standing problems surface and are dealt with; it helps clarify people's viewpoints; the tension created heightens interest and stimulates creative thinking; it produces better ideas and forces people to search for new approaches; people feel challenged and receive the opportunity to test their abilities.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Long-standing problems surface and are dealt with.",
+    "anchor": 4958,
+    "tags": [
+      "conflict",
+      "effects"
+    ],
+    "order": 23
+  },
+  {
+    "cardId": "CS-C-0024",
+    "subject": "CS",
+    "chapter": "CONFLICT MANAGEMENT",
+    "topic": "Effects of Conflict",
+    "front": "List the negative effects of conflict.",
+    "back": "A climate of suspicion and distrust develops; it reduces contact between people and some stop communicating; parties that need to cooperate pursue their own self-interests, producing resistance instead of teamwork; it leaves some feeling defeated, embarrassed and demoralised; some people leave the organisations they belong to.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "A climate of suspicion and distrust develops.",
+    "anchor": 4965,
+    "tags": [
+      "conflict",
+      "effects"
+    ],
+    "order": 24
+  },
+  {
+    "cardId": "CS-C-0025",
+    "subject": "CS",
+    "chapter": "CONFLICT MANAGEMENT",
+    "topic": "Sources of Conflict",
+    "front": "Name the six common sources of conflict.",
+    "back": "Differences in perception; differences in priority or values; differences in expectations or role pressures; divergent goals; self-esteem or status threat; and personality clashes.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Six common causes of conflict may be identified:",
+    "anchor": 4972,
+    "tags": [
+      "conflict",
+      "sources"
+    ],
+    "order": 25
+  },
+  {
+    "cardId": "CS-C-0026",
+    "subject": "CS",
+    "chapter": "CONFLICT MANAGEMENT",
+    "topic": "Conflict Management",
+    "front": "Name Adeyemo's five principles for resolving conflicts, with their biblical illustrations.",
+    "back": "Honest communication (Abraham and Lot, Gen. 13:1-18); getting beneath surface issues and unseen motives (Isaac and the people of Gerar, Gen. 26:19-31); negotiation (Rehoboam, 1 Kings 12); external intervention (Paul and Barnabas before the apostles, Acts 15:1-2); divine intervention (the Council at Jerusalem, Acts 15:23-29).",
+    "kind": "fact",
+    "scriptureReferences": [
+      "Genesis 13:1-18",
+      "Genesis 26:19-31",
+      "1 Kings 12",
+      "Acts 15:1-2",
+      "Acts 15:23-29"
+    ],
+    "excerpt": "He proposes the following five principles which must guide us in resolving conflicts:",
+    "anchor": 4996,
+    "tags": [
+      "conflict",
+      "resolution"
+    ],
+    "order": 26
+  },
+  {
+    "cardId": "CS-C-0027",
+    "subject": "CS",
+    "chapter": "CONFLICT MANAGEMENT",
+    "topic": "Resolving Conflicts among Believers",
+    "front": "What steps did Jesus give in Matthew 18:15-17 for resolving conflicts between believers?",
+    "back": "Approach the other party directly but privately; seek external help in the form of two or three witnesses; if that fails take the conflict to the church for mediation; and if it persists, treat the party who refuses reconciliation as an unbeliever.",
+    "kind": "scripture",
+    "scriptureReferences": [
+      "Matthew 18:15-17"
+    ],
+    "excerpt": "In Matt. 18:15-17, Jesus gave the steps that must be taken to resolve conflicts between \nbelievers:",
+    "anchor": 5007,
+    "tags": [
+      "conflict",
+      "believers"
+    ],
+    "order": 27
+  },
+  {
+    "cardId": "CS-C-0028",
+    "subject": "CS",
+    "chapter": "RELIGIOUS PLURALISM AND THE CHRISTIAN MESSAGE",
+    "topic": "INTRODUCTION",
+    "front": "According to John Stott in Issues Facing Christians Today, what two factors have largely caused pluralism in the West?",
+    "back": "The process of secularization, seen as the diminishing influence of the Church on both people and institutions; and the influx of people of other nationalities to the West who come along with their religions.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "According to Rev. Dr. John Stott in his book Issues Facing Christians Today, pluralism in the West is due largely to two factors:",
+    "anchor": 5023,
+    "tags": [
+      "pluralism",
+      "stott"
+    ],
+    "order": 28
+  },
+  {
+    "cardId": "CS-C-0029",
+    "subject": "CS",
+    "chapter": "RELIGIOUS PLURALISM AND THE CHRISTIAN MESSAGE",
+    "topic": "Humanism",
+    "front": "How is humanism defined in the syllabus?",
+    "back": "\"A belief system based on the principle that people's spiritual and emotional needs can be fulfilled without following a god or religion.\" Such a believer is described as a humanist.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "It is defined as \"a belief system based on the principle that people's spiritual and emotional needs can be fulfilled without following a god or religion.\"",
+    "anchor": 5046,
+    "tags": [
+      "pluralism",
+      "humanism"
+    ],
+    "order": 29
+  },
+  {
+    "cardId": "CS-C-0030",
+    "subject": "CS",
+    "chapter": "RELIGIOUS PLURALISM AND THE CHRISTIAN MESSAGE",
+    "topic": "\"Secularism: Mother of Ideologies\"",
+    "front": "Who described secularism as the \"mother of ideologies\", and in which book?",
+    "back": "B. J. Van der Walt, in The Liberating Message - A Christian Worldview for Africa (1994).",
+    "kind": "person",
+    "scriptureReferences": [],
+    "excerpt": "In his book, The Liberating Message - A Christian Worldview for Africa, B. J. Van der Walt, (1994) described Secularism as the \"mother of ideologies\".",
+    "anchor": 5049,
+    "tags": [
+      "pluralism",
+      "secularism",
+      "van-der-walt"
+    ],
+    "order": 30
+  },
+  {
+    "cardId": "CS-C-0031",
+    "subject": "CS",
+    "chapter": "RELIGIOUS PLURALISM AND THE CHRISTIAN MESSAGE",
+    "topic": "The Relationship between Human Power and Contemporary Secularisation",
+    "front": "What three powers does Van der Walt say modern man has acquired that contribute to secularism?",
+    "back": "Science (the power of knowledge), technology (the power of tools) and Organization (the power of planning, integrating, co-ordinating and controlling).",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Science (the power of knowledge), technology (the power of tools) and Organization (the power of planning, integrating, co-ordinating and controlling).",
+    "anchor": 5062,
+    "tags": [
+      "pluralism",
+      "secularism"
+    ],
+    "order": 31
+  },
+  {
+    "cardId": "CS-C-0032",
+    "subject": "CS",
+    "chapter": "RELIGIOUS PLURALISM AND THE CHRISTIAN MESSAGE",
+    "topic": "Most Dangerous Enemy of Christianity",
+    "front": "Where does the syllabus locate the Bible's clear response to secularism and materialism?",
+    "back": "In the Book of Ecclesiastes, where Solomon on reflection of his life found that it is \"a chasing after the wind\". Christians must exhibit their Christian life (Matt. 5:13-16) in secularised and materialistic societies in order to have influence.",
+    "kind": "scripture",
+    "scriptureReferences": [
+      "Matthew 5:13-16"
+    ],
+    "excerpt": "The Bible's clear response to this way of life (Secularism and Materialism) is found in the Book of Ecclesiastes where Solomon on reflection of his life found that it is \"a chasing after the wind\".",
+    "anchor": 5078,
+    "tags": [
+      "pluralism",
+      "secularism"
+    ],
+    "order": 32
+  },
+  {
+    "cardId": "CS-C-0033",
+    "subject": "CS",
+    "chapter": "HUMAN RIGHTS",
+    "topic": "INTRODUCTION: THE NATURE OF HUMAN RIGHTS",
+    "front": "Which scholar's four basic human needs does the syllabus use, and what are they?",
+    "back": "Galting (1994): survival needs (to avoid violence), well being needs (to avoid misery), identity needs (to avoid alienation) and freedom needs (to avoid repression).",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "According to Galting (1994), the basic human needs which generate corresponding rights are:",
+    "anchor": 4778,
+    "tags": [
+      "human-rights",
+      "needs"
+    ],
+    "order": 33
+  },
+  {
+    "cardId": "CS-C-0034",
+    "subject": "CS",
+    "chapter": "DIVORCE AND REMARRIAGE",
+    "topic": "INTRODUCTION",
+    "front": "What divorce statistics does John Stott report for 1987 in the United Kingdom?",
+    "back": "398,000 marriages (35% of them remarriages) and 165,000 divorces: a marriage every 80 seconds and a divorce every 190. Two million divorced people in the country; the British divorce rate, up 600% in 25 years, was the highest in the European Community. \"In the UK one in every three marriages breaks up; in the USA it is more than one in every two.\"",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "He concludes, \"In the UK one in every three marriages breaks up; in the USA it is more than one in every two\".",
+    "anchor": 5081,
+    "tags": [
+      "divorce",
+      "statistics",
+      "stott"
+    ],
+    "order": 34
+  },
+  {
+    "cardId": "CS-C-0035",
+    "subject": "CS",
+    "chapter": "DIVORCE AND REMARRIAGE",
+    "topic": "Old Testament Teaching",
+    "front": "What do the two Mosaic passages on divorce and remarriage deal with?",
+    "back": "Deuteronomy 22:13-30 gives various laws on marriage violations, essentially about whether a woman enters marriage as a virgin. Deuteronomy 24:1-4 gives regulations on divorce which favour husbands, and forbids remarrying a woman one has divorced after she has been married to another man.",
+    "kind": "scripture",
+    "scriptureReferences": [
+      "Deuteronomy 22:13-30",
+      "Deuteronomy 24:1-4"
+    ],
+    "excerpt": "In Deuteronomy 22:13-30, various laws on marriage violations are given.",
+    "anchor": 5088,
+    "tags": [
+      "divorce",
+      "old-testament"
+    ],
+    "order": 35
+  },
+  {
+    "cardId": "CS-C-0036",
+    "subject": "CS",
+    "chapter": "DIVORCE AND REMARRIAGE",
+    "topic": "Old Testament Teaching",
+    "front": "How did Jesus answer when asked his position on divorce and remarriage?",
+    "back": "He went back to the beginning and God's purpose in instituting marriage: God's purpose is for the two to become one, so he declared, \"What God has joined together, let man not separate\" (Matt. 19:6).",
+    "kind": "scripture",
+    "scriptureReferences": [
+      "Matthew 19:6"
+    ],
+    "excerpt": "God's purpose is for the two to \nbecome one and so he declared, \"What God has joined together, let man not separate\" (Matt. 19:6).",
+    "anchor": 5094,
+    "tags": [
+      "divorce",
+      "jesus"
+    ],
+    "order": 36
+  },
+  {
+    "cardId": "CS-C-0037",
+    "subject": "CS",
+    "chapter": "DIVORCE AND REMARRIAGE",
+    "topic": "Old Testament Teaching",
+    "front": "What exception did Jesus allow on divorce, and where?",
+    "back": "Marital unfaithfulness: \"I tell you that anyone who divorces his wife, except for marital unfaithfulness, and marries another woman commits adultery\" (Matt. 5:31-32; 19:1-12).",
+    "kind": "scripture",
+    "scriptureReferences": [
+      "Matthew 5:31-32"
+    ],
+    "excerpt": "Jesus further taught that divorce could be granted on the basis of unfaithfulness.",
+    "anchor": 5096,
+    "tags": [
+      "divorce",
+      "jesus"
+    ],
+    "order": 37
+  },
+  {
+    "cardId": "CS-C-0038",
+    "subject": "CS",
+    "chapter": "DIVORCE AND REMARRIAGE",
+    "topic": "Paul's Teachings",
+    "front": "What ground for divorce does Paul give, and on what basis?",
+    "back": "The exceptional situation where an unbelieving partner decides to break the marriage because of the believer's faith in Christ. His basis is that \"God has called us to live in peace (freedom)\" (1 Cor. 7:15). Paul explains this as his own personal opinion - \"To the rest I say this - I not the Lord\".",
+    "kind": "scripture",
+    "scriptureReferences": [
+      "1 Corinthians 7:15"
+    ],
+    "excerpt": "Paul's basis for this concession is that; \"God has called us to live in peace (freedom)\" (1 Cor. 7:15).",
+    "anchor": 5101,
+    "tags": [
+      "divorce",
+      "paul",
+      "freedom-principle"
+    ],
+    "order": 38
+  },
+  {
+    "cardId": "CS-C-0039",
+    "subject": "CS",
+    "chapter": "DIVORCE AND REMARRIAGE",
+    "topic": "The \"Peace\" or \"Freedom\" Principle",
+    "front": "What is the \"Peace\" or \"Freedom\" principle?",
+    "back": "The principle, established by Paul as the basis for divorce in \"mixed-faith\" marriages, that \"God has called us to live in peace or freedom\"; the syllabus says it may be extended to other cases after all efforts have been made to save a marriage, and that this appears to be the spirit of S.O. 743.",
+    "kind": "term",
+    "scriptureReferences": [
+      "1 Corinthians 7:15"
+    ],
+    "excerpt": "The \"God has called us to live in peace or freedom\" principle established by Paul as basis for divorce in \"mixed-faith\" marriages may be extended to other cases after all efforts have been made to save a marriage.",
+    "anchor": 5117,
+    "tags": [
+      "divorce",
+      "freedom-principle"
+    ],
+    "order": 39
+  },
+  {
+    "cardId": "CS-C-0040",
+    "subject": "CS",
+    "chapter": "DIVORCE AND REMARRIAGE",
+    "topic": "Effects of Divorce",
+    "front": "Name the six kinds of effect that divorce has, according to the syllabus.",
+    "back": "Emotional (anxiety, guilt, fear, sadness, depression, anger, bitterness, frustration); behavioural (declining work productivity, difficulty with routine tasks); social (changing relationships with family, friends, colleagues and fellow church members); physical (increased illness and declining health); spiritual (some draw closer to Christ, others drift away); and harmful effects on the children, even adult offspring.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "For most people, divorce brings pain and turmoil, and affects people in many ways \nincluding the following:",
+    "anchor": 5122,
+    "tags": [
+      "divorce",
+      "effects"
+    ],
+    "order": 40
+  },
+  {
+    "cardId": "CS-C-0041",
+    "subject": "CS",
+    "chapter": "FACING CHALLENGES IN MARRIAGE",
+    "topic": "The Challenges of Marriage",
+    "front": "How can financial strain in marriage be overcome, according to the syllabus?",
+    "back": "By combining proper planning, hard work and leading a lifestyle which suits one's pocket instead of following what others do; and by being faithful to God, trusting him \"to give us the ability to create wealth\" (Deut. 8:18). Compare 1 Timothy 5:8.",
+    "kind": "fact",
+    "scriptureReferences": [
+      "1 Timothy 5:8",
+      "Deuteronomy 8:18"
+    ],
+    "excerpt": "This can only be overcome by combining proper planning, hard work and leading a lifestyle which suits one's pocket instead of following what others do.",
+    "anchor": 5147,
+    "tags": [
+      "marriage",
+      "challenges",
+      "finance"
+    ],
+    "order": 41
+  },
+  {
+    "cardId": "CS-C-0042",
+    "subject": "CS",
+    "chapter": "FACING CHALLENGES IN MARRIAGE",
+    "topic": "The Challenges of Marriage",
+    "front": "To what does the syllabus compare failure to keep the romance alive in a marriage?",
+    "back": "To failing to nourish a child after birth: \"It will automatically lead to 'Kwashiorkor'.\"",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Failure to keep the romance alive is compared to failing to nourish the child after birth. It will automatically lead to \"Kwashiorkor\".",
+    "anchor": 5171,
+    "tags": [
+      "marriage",
+      "challenges",
+      "romance"
+    ],
+    "order": 42
+  },
+  {
+    "cardId": "CS-C-0043",
+    "subject": "CS",
+    "chapter": "FACING CHALLENGES IN MARRIAGE",
+    "topic": "The Challenges of Marriage",
+    "front": "What are \"the little foxes\" in marriage, and where does the image come from?",
+    "back": "Song of Songs 2:15 - \"Catch for us the foxes, the little foxes that ruin the vineyards, our vineyards that are in bloom\". Solomon's image for issues that appear minor to an outsider - differences in temperament, dealings with in-laws, communication - but which can disturb a marriage to the point of divorce.",
+    "kind": "scripture",
+    "scriptureReferences": [
+      "Song of Songs 2:15"
+    ],
+    "excerpt": "\"Catch for us the foxes, the little foxes that ruin the vineyards, our vineyards that are in bloom\" (Song of Songs 2: 15). That is how Solomon describes the issues that disturb the peace of a marriage.",
+    "anchor": 5187,
+    "tags": [
+      "marriage",
+      "challenges"
+    ],
+    "order": 43
+  },
+  {
+    "cardId": "CS-C-0044",
+    "subject": "CS",
+    "chapter": "FACING CHALLENGES IN MARRIAGE",
+    "topic": "The Challenges of Marriage",
+    "front": "Which biblical family does the syllabus cite as a warning against travel abroad and long absence?",
+    "back": "Elimelech and his family, who travelled from Bethlehem to Moab; Naomi returned alone, calling herself Marah - Bitter (Ruth 1).",
+    "kind": "scripture",
+    "scriptureReferences": [
+      "Ruth 1"
+    ],
+    "excerpt": "Elimelech and his family travelled from Bethlehem to Moab, but Naomi returned alone calling herself Marah - Bitter (Ruth 1).",
+    "anchor": 5186,
+    "tags": [
+      "marriage",
+      "challenges"
+    ],
+    "order": 44
+  },
+  {
+    "cardId": "CS-C-0045",
+    "subject": "CS",
+    "chapter": "FACING CHALLENGES IN MARRIAGE",
+    "topic": "The Purpose of Marriage",
+    "front": "What is the purpose of marriage, and which passages does the syllabus cite?",
+    "back": "Companionship (Gen. 2:18-24). Marriage should not be entered into for other reasons such as having children, money, status, satisfying sexual drive, pleasing parents, independence from parents or travel abroad. Compare Proverbs 19:14 and 18:22.",
+    "kind": "scripture",
+    "scriptureReferences": [
+      "Genesis 2:18-24",
+      "Proverbs 19:14",
+      "Proverbs 18:22"
+    ],
+    "excerpt": "The reasons for the choosing of a partner should be informed by the purpose of marriage, that is, companionship (Gen. 2:18-24).",
+    "anchor": 5196,
+    "tags": [
+      "marriage",
+      "purpose"
+    ],
+    "order": 45
+  },
+  {
+    "cardId": "CS-C-0046",
+    "subject": "CS",
+    "chapter": "SEXUAL PERVERSION - WHAT IS THE BIBLICAL VIEW?",
+    "topic": "Nature and Creation: Is homosexual behaviour natural?",
+    "front": "How do Karl Barth and Thomas Aquinas argue from nature and creation, according to the syllabus?",
+    "back": "Barth refers to the Bible's account of creation and points to how male and female complement each other as people created in the image and likeness of God. Aquinas stresses the procreative end of heterosexual intercourse: to be natural an act must serve the ends natural to it.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Karl Barth refers to the Bible's account of creation and points to how the male and female complement each other as people created in the image and likeness of God.",
+    "anchor": 5218,
+    "tags": [
+      "sexuality",
+      "nature",
+      "creation"
+    ],
+    "order": 46
+  },
+  {
+    "cardId": "CS-C-0047",
+    "subject": "CS",
+    "chapter": "SEXUAL PERVERSION - WHAT IS THE BIBLICAL VIEW?",
+    "topic": "What the Church Fathers and Reformers Say",
+    "front": "What did Tertullian write about such practices?",
+    "back": "\"All other frenzies of the lusts which exceed the laws of nature are impious towards both human bodies and sexes. We banish, not only from the threshold but also from all shelter of the Church, for they are not sins so much as monstrosities.\"",
+    "kind": "person",
+    "scriptureReferences": [],
+    "excerpt": "Tertullian wrote: \"all other frenzies of the lusts which exceed the laws of nature are impious towards both human bodies and sexes.",
+    "anchor": 5223,
+    "tags": [
+      "sexuality",
+      "church-fathers",
+      "quotations"
+    ],
+    "order": 47
+  },
+  {
+    "cardId": "CS-C-0048",
+    "subject": "CS",
+    "chapter": "SEXUAL PERVERSION - WHAT IS THE BIBLICAL VIEW?",
+    "topic": "What the Church Fathers and Reformers Say",
+    "front": "What did John Chrysostom say in his commentary on Romans 1:26-27?",
+    "back": "That \"the delights of sodomy are an unpardonable insult to nature\", and that such immoralities are doubly destructive: they jeopardise the race by deflecting the sexual organs from their primary procreative purpose, and they sow disharmony and strife between man and woman.",
+    "kind": "person",
+    "scriptureReferences": [
+      "Romans 1:26-27"
+    ],
+    "excerpt": "In his commentary on \nRomans 1:26-27, he observed that \"the delights of sodomy are an unpardonable insult to nature.",
+    "anchor": 5225,
+    "tags": [
+      "sexuality",
+      "church-fathers",
+      "quotations"
+    ],
+    "order": 48
+  },
+  {
+    "cardId": "CS-C-0049",
+    "subject": "CS",
+    "chapter": "SEXUAL PERVERSION - WHAT IS THE BIBLICAL VIEW?",
+    "topic": "What the Church Fathers and Reformers Say",
+    "front": "What was the position of the medieval church, and of Thomas Aquinas?",
+    "back": "The medieval church was pastorally sensitive to those involved but remained uncompromisingly opposed to the practices. Aquinas considered them sins against nature, the most serious genus of sins of lust, no less grievous than bestiality.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Thomas Aquinas considered them sins against nature, the most serious genus of sins of lust, no less grievous than bestiality.",
+    "anchor": 5229,
+    "tags": [
+      "sexuality",
+      "medieval",
+      "aquinas"
+    ],
+    "order": 49
+  },
+  {
+    "cardId": "CS-C-0050",
+    "subject": "CS",
+    "chapter": "SEXUAL PERVERSION - WHAT IS THE BIBLICAL VIEW?",
+    "topic": "What the Church Fathers and Reformers Say",
+    "front": "What did Luther say about homosexual activity among the clergy?",
+    "back": "He considered its presence and toleration among the clergy one of the worst symptoms of decay in the church, a product of human failure to know and honour the true God.",
+    "kind": "person",
+    "scriptureReferences": [],
+    "excerpt": "Luther considered the presence and toleration of homosexual activity among the clergy as one of the worst symptoms of decay in the church, a product of human failure to know and honour the true God.",
+    "anchor": 5231,
+    "tags": [
+      "sexuality",
+      "reformers",
+      "luther"
+    ],
+    "order": 50
+  },
+  {
+    "cardId": "CS-C-0051",
+    "subject": "CS",
+    "chapter": "SEXUAL PERVERSION - WHAT IS THE BIBLICAL VIEW?",
+    "topic": "Homosexuality in the Bible",
+    "front": "With which prohibition does the syllabus connect Leviticus 18:22 and 20:13, and why?",
+    "back": "Deuteronomy 23:17 - \"No Israelite man or woman is to become a temple prostitute\". The fertility cult of the Canaanites included temple prostitution which promoted homosexuality; the evil kings kept introducing it and the righteous kings kept abolishing it.",
+    "kind": "scripture",
+    "scriptureReferences": [
+      "Deuteronomy 23:17"
+    ],
+    "excerpt": "They are connected with the prohibition in Deuteronomy 23:17: No Israelite man or woman is to become a temple prostitute.",
+    "anchor": 5241,
+    "tags": [
+      "sexuality",
+      "old-testament"
+    ],
+    "order": 51
+  },
+  {
+    "cardId": "CS-C-0052",
+    "subject": "CS",
+    "chapter": "SEXUAL PERVERSION - WHAT IS THE BIBLICAL VIEW?",
+    "topic": "Other Pauline Texts",
+    "front": "How does the syllabus summarise St Paul's teaching across his three passages?",
+    "back": "Taken together, St Paul's writings condemn homosexual behaviour as a vice of the Gentiles in Romans, as a bar to the Kingdom in Corinthians, and as an offence to be repudiated by the moral law in 1 Timothy.",
+    "kind": "fact",
+    "scriptureReferences": [
+      "1 Corinthians 6:9-10",
+      "1 Timothy 1:9-10"
+    ],
+    "excerpt": "Taken together, St. Paul's writings condemn homosexual behaviour as a vice of the Gentiles in Romans, as a bar to the Kingdom in Corinthians, and as an offence to be repudiated by the moral law in 1 Timothy.",
+    "anchor": 5246,
+    "tags": [
+      "sexuality",
+      "paul"
+    ],
+    "order": 52
+  },
+  {
+    "cardId": "CS-C-0053",
+    "subject": "CS",
+    "chapter": "SEXUAL PERVERSION - WHAT IS THE BIBLICAL VIEW?",
+    "topic": "MARRIAGE IN THE TEACHING OF JESUS",
+    "front": "What three truths about marriage does the syllabus say Jesus affirmed in Matthew 19:4-6?",
+    "back": "That heterosexual gender (male and female) is a divine creation; that heterosexual marriage is a divine institution; and that heterosexual fidelity is a divine intention.",
+    "kind": "fact",
+    "scriptureReferences": [
+      "Matthew 19:4-6",
+      "Genesis 1:27"
+    ],
+    "excerpt": "The three truths about marriage affirmed by Jesus are as follows:",
+    "anchor": 5262,
+    "tags": [
+      "sexuality",
+      "marriage",
+      "jesus"
+    ],
+    "order": 53
+  },
+  {
+    "cardId": "CS-C-0054",
+    "subject": "CS",
+    "chapter": "SEXUAL PERVERSION - WHAT IS THE BIBLICAL VIEW?",
+    "topic": "CONCLUSION",
+    "front": "How does John Stott qualify the study of homosexuality in the syllabus's conclusion?",
+    "back": "\"I doubt if there is anyone who has not had a lustful thought that deviated from God's perfect ideal of sexuality. With exception of Jesus, nobody has been sexually sinless.\" Therefore we must not come to the study with an attitude of moral superiority.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "John Stott admits: \"I doubt if there is anyone who has not had a lustful thought that deviated from God's perfect ideal of sexuality.",
+    "anchor": 5275,
+    "tags": [
+      "sexuality",
+      "stott"
+    ],
+    "order": 54
+  },
+  {
+    "cardId": "CS-C-0055",
+    "subject": "CS",
+    "chapter": "SEXUAL PERVERSION - THE LOCAL SCENE",
+    "topic": "What does the Law in Ghana say about Homosexuality?",
+    "front": "What evidence from Prof. K. A. Busia does the syllabus cite about traditional Ghanaian society?",
+    "back": "Busia's doctoral research work among the Asante in 1951, which discusses various sexual prohibitions, does not show the existence of homosexuality in the society then. In some societies the practice was inconceivable, so there were no words for it.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Prof. K.A. Busia's doctoral \nresearch work among the Asante in 1951 which discusses various sexual prohibitions does not show the existence of homosexuality in the society then.",
+    "anchor": 5287,
+    "tags": [
+      "sexuality",
+      "ghana",
+      "dates"
+    ],
+    "order": 55
+  },
+  {
+    "cardId": "CS-C-0056",
+    "subject": "CS",
+    "chapter": "SEXUAL PERVERSION - THE LOCAL SCENE",
+    "topic": "The Practice of Homosexuality in Ghana",
+    "front": "What is supi, as described in the syllabus?",
+    "back": "The practice in the boarding system of high schools whereby some girls take other girls in the school as sexual partners and engage in sexual activities in \"tents\" - student beds covered by bed sheets. In most cases senior girls take advantage of fresh students.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "This is the system whereby in boarding schools some girls take other girls in the school as sexual partners and engage in sexual activities in \"tents\" - student beds covered by bed sheets.",
+    "anchor": 5296,
+    "tags": [
+      "sexuality",
+      "ghana",
+      "terms"
+    ],
+    "order": 56
+  },
+  {
+    "cardId": "CS-C-0057",
+    "subject": "CS",
+    "chapter": "SEXUAL PERVERSION - THE LOCAL SCENE",
+    "topic": "The Practice of Homosexuality in Ghana",
+    "front": "How has the location of homosexual practice in Ghana changed, according to the syllabus?",
+    "back": "Until recently it was associated with institutional life, in prisons and schools. Today it has spread outside the institutions to hotels, guest houses, student hostels and private homes, and same sex prostitution and partnerships are gaining root underground.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Thus until recently, homosexuality in Ghana was associated with institutional life - in \nprisons and schools. Today the story is different.",
+    "anchor": 5303,
+    "tags": [
+      "sexuality",
+      "ghana"
+    ],
+    "order": 57
+  },
+  {
+    "cardId": "CS-C-0058",
+    "subject": "CS",
+    "chapter": "SEXUAL PERVERSION - THE LOCAL SCENE",
+    "topic": "THE CALL TO CHRISTIAN LOVE",
+    "front": "What is homophobia, and what does Richard Lovelace call for?",
+    "back": "Homophobia is the negative attitude of personal hatred and fear towards homosexuals - a mixture of irrational fear, hostility and even revulsion. Richard Lovelace calls for \"a double repentance\": that gay people renounce their homosexual lifestyle, and that the \"straight\" ones renounce homophobia.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "The negative attitude of personal hatred and fear towards homosexuals is termed \nhomophobia.",
+    "anchor": 5312,
+    "tags": [
+      "sexuality",
+      "christian-love"
+    ],
+    "order": 58
+  },
+  {
+    "cardId": "CS-C-0059",
+    "subject": "CS",
+    "chapter": "SEXUAL PERVERSION - THE LOCAL SCENE",
+    "topic": "THE CALL TO CHRISTIAN LOVE",
+    "front": "Which biblical friendships does the syllabus name as healthy same-sex friendships?",
+    "back": "Ruth and Naomi, David and Jonathan, and Paul and Timothy. There is no hint that any was homosexual in the physical sense, yet they were very affectionate, especially David and Jonathan (1 Sam. 18:1-4; 20:41; 2 Sam. 1:26).",
+    "kind": "scripture",
+    "scriptureReferences": [
+      "1 Samuel 18:1-4",
+      "2 Samuel 1:26"
+    ],
+    "excerpt": "Healthy same sex friendships like those in the Bible between Ruth and Naomi, David and Jonathan and Paul and Timothy can be encouraged.",
+    "anchor": 5317,
+    "tags": [
+      "sexuality",
+      "christian-love"
+    ],
+    "order": 59
+  }
+]

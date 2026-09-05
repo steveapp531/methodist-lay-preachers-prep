@@ -1,0 +1,121 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  /**
+   * Base type scale.
+   *
+   * Every Tailwind `text-*` size is expressed in rem, so lifting the root font
+   * size scales the whole interface together rather than leaving a patchwork of
+   * hand-tuned sizes. 17px on desktop reads comfortably for the long study
+   * sessions this is built for; phones step down slightly so headings do not
+   * crowd the viewport.
+   */
+  html {
+    font-size: 16.5px;
+    -webkit-text-size-adjust: 100%;
+    scroll-behavior: smooth;
+  }
+
+  @media (min-width: 640px) {
+    html {
+      font-size: 17px;
+    }
+  }
+
+  @media (min-width: 1280px) {
+    html {
+      font-size: 17.5px;
+    }
+  }
+
+  /* Respect a reader who has asked their system to stop moving things. */
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+
+  body {
+    @apply bg-paper-100 text-ink-800 font-sans antialiased;
+  }
+
+  /* A visible focus ring on every interactive element, always. */
+  :where(a, button, input, select, textarea, [tabindex]):focus-visible {
+    @apply outline-none ring-2 ring-brand-500 ring-offset-2 ring-offset-paper-100 rounded-sm;
+  }
+
+  h1, h2, h3, h4 {
+    @apply font-serif text-ink-900;
+    text-wrap: balance;
+  }
+
+  ::selection {
+    @apply bg-brand-200 text-brand-900;
+  }
+}
+
+@layer components {
+  /* Skip link: present for keyboard users, out of the way for everyone else. */
+  .skip-link {
+    @apply sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-[100]
+           focus:rounded-md focus:bg-brand-800 focus:px-4 focus:py-2 focus:text-white;
+  }
+
+  .card {
+    @apply rounded-xl border border-paper-300 bg-white shadow-card;
+  }
+
+  .card-hover {
+    @apply transition-shadow duration-200 hover:shadow-lift;
+  }
+
+  /* Long-form syllabus text. Optimised for sustained reading. */
+  .prose-manual {
+    @apply max-w-reading font-serif text-reading-base text-ink-700;
+  }
+  .prose-manual > p + p {
+    @apply mt-4;
+  }
+  .prose-manual strong {
+    @apply font-semibold text-ink-900;
+  }
+
+  .skeleton {
+    @apply relative overflow-hidden bg-paper-200;
+  }
+  .skeleton::after {
+    @apply absolute inset-0 animate-shimmer bg-gradient-to-r from-transparent via-white/60 to-transparent;
+    content: '';
+    transform: translateX(-100%);
+  }
+}
+
+@layer utilities {
+  .tabular {
+    font-variant-numeric: tabular-nums;
+  }
+  .scrollbar-thin {
+    scrollbar-width: thin;
+    scrollbar-color: theme('colors.paper.400') transparent;
+  }
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    @apply rounded-full bg-paper-400;
+  }
+}

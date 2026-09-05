@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+
+# Environment — never commit real secrets
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Build output
+dist/
+build/
+frontend/dist/
+
+# Embedded development database
+.data/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Editors and OS
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+
+# Test and coverage
+coverage/
+.nyc_output/
+
+# Source examination material (copyright of the Methodist Church Ghana).
+# Keep the syllabus and past papers here locally; they are not distributed.
+data/source/

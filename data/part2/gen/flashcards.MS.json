@@ -1,0 +1,830 @@
+[
+  {
+    "cardId": "MS-C-0001",
+    "subject": "MS",
+    "topic": "The Wesleyan Quadrilateral",
+    "front": "What are the four sources of Wesley's theological thinking?",
+    "back": "Scripture, Reason, Tradition and Experience — the Wesleyan Quadrilateral.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "The Source of Wesley's theological thinking is four-fold; namely Scripture, Reason, Tradition and Experience. This is normally referred to as the Wesleyan Quadrilateral.",
+    "tags": [
+      "quadrilateral"
+    ],
+    "order": 1
+  },
+  {
+    "cardId": "MS-C-0002",
+    "subject": "MS",
+    "topic": "The Wesleyan Quadrilateral",
+    "front": "What did the deed of every Methodist preaching house provide about doctrine?",
+    "back": "That if a preacher's doctrine or practice was, in the opinion of the major part of the trustees, not conformable to Mr Wesley's Sermons and Notes on the New Testament, another preacher should be sent within three months.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "In case the doctrine or practice of any preacher should, in the opinion of the major part of the trustees, be not conformable to Mr. Wesley's Sermons and Notes on the New Testament, on representing this another preacher shall be sent within three months.",
+    "tags": [
+      "quadrilateral",
+      "discipline"
+    ],
+    "order": 2
+  },
+  {
+    "cardId": "MS-C-0003",
+    "subject": "MS",
+    "topic": "The Wesleyan Quadrilateral",
+    "front": "What did Wesley mean by calling himself Homo Unius Libri?",
+    "back": "A man of one Book. In his Journal for May 14, 1765 he wrote, “In 1730 I began to be Homo Unius Libri, to study comparatively no book but the Bible.”",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "John Wesley called himself Homo Unius Libri - A man of one Book.",
+    "tags": [
+      "scripture"
+    ],
+    "order": 3
+  },
+  {
+    "cardId": "MS-C-0004",
+    "subject": "MS",
+    "topic": "The Wesleyan Quadrilateral",
+    "front": "How did Wesley describe reason?",
+    "back": "As “this Precious gift of God”; he also said, “I am ready to give up every opinion which I cannot by calm, clear reason defend.”",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "He referred to reason as \"this Precious gift of God\"",
+    "tags": [
+      "reason"
+    ],
+    "order": 4
+  },
+  {
+    "cardId": "MS-C-0005",
+    "subject": "MS",
+    "topic": "The Wesleyan Quadrilateral",
+    "front": "What did Wesley say in “A Short History of Methodism” about the Methodists and the Bible?",
+    "back": "“It is the Methodists' one desire and design to be downright Bible Christians; taking the Bible, as interpreted by the primitive Church and our own, for their whole and sole rule.” — “our own” means the Church of England.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "\"It is the Methodists' one desire and design to be downright Bible Christians; taking the Bible, as interpreted by the primitive Church and our own, for their whole and sole rule.\"",
+    "tags": [
+      "tradition"
+    ],
+    "order": 5
+  },
+  {
+    "cardId": "MS-C-0006",
+    "subject": "MS",
+    "topic": "INTRODUCTION",
+    "front": "Under what three main themes can Wesley's understanding of human nature be classified?",
+    "back": "(a) Humanity as God's gracious creation, (b) humanity as fallen, and (c) humanity as freshly restored.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "Wesley's understanding of human nature can be classified under three main themes: (a) Humanity as God's gracious creation (b) Humanity as fallen and (c) Humanity as freshly restored.",
+    "tags": [
+      "theology-of-man"
+    ],
+    "order": 6
+  },
+  {
+    "cardId": "MS-C-0007",
+    "subject": "MS",
+    "topic": "Humanity as God's Gracious Creation",
+    "front": "Of what four elements did Wesley say the human body is composed?",
+    "back": "Dust, water, air and fire, all duly proportioned and mixed together; the body is “a little portion of earth”.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Wesley claimed that the human body is composed of four elements, namely, dust, water, air and fire all duly proportioned and mixed together.",
+    "tags": [
+      "creation",
+      "body"
+    ],
+    "order": 7
+  },
+  {
+    "cardId": "MS-C-0008",
+    "subject": "MS",
+    "topic": "Humanity as God's Gracious Creation",
+    "front": "Under which three images did Wesley discuss man created in the image of God?",
+    "back": "The natural, the political and the moral images of God.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "Wesley discussed man created in the image of God under three images: the natural, political and moral images of God.",
+    "tags": [
+      "image-of-god"
+    ],
+    "order": 8
+  },
+  {
+    "cardId": "MS-C-0009",
+    "subject": "MS",
+    "topic": "Humanity as God's Gracious Creation",
+    "front": "Which scripture guided Wesley's account of the moral image, and why was it the principal image?",
+    "back": "Ephesians 4:24. Man was made holy as God is holy, merciful, perfect, pure and inwardly and outwardly sinless; for Wesley the moral image was the principal image.",
+    "kind": "scripture",
+    "scriptureReferences": [
+      "Ephesians 4:24"
+    ],
+    "excerpt": "Using Ephesians 4:24 as his guide, Wesley stressed that man was made in the image of God; holy as God who created him is holy, merciful as the author of all is merciful, perfect as his Father in heaven is perfect.",
+    "tags": [
+      "image-of-god"
+    ],
+    "order": 9
+  },
+  {
+    "cardId": "MS-C-0010",
+    "subject": "MS",
+    "topic": "Humanity as Fallen",
+    "front": "According to Wesley, what caused Adam's fall, and what caused Lucifer's?",
+    "back": "Adam fell first as a result of unbelief, a lack of trust in God; Lucifer was self-tempted and gave way first to pride, then to self-will.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Wesley maintained that Adam fell, first as a result of unbelief, a lack of trust in God.",
+    "tags": [
+      "fall"
+    ],
+    "order": 10
+  },
+  {
+    "cardId": "MS-C-0011",
+    "subject": "MS",
+    "topic": "The Consequences of the fall",
+    "front": "Into whose images did Adam sink when he lost the moral image of God?",
+    "back": "Partly into the image of the Devil, in pride, malice and other evil dispositions, and partly into the image of the brute, under brutal passions and degrading appetites.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Adam sunk partly into the image of the Devil, in pride, malice and in other evil dispositions and partly into the image of the brute, having fallen under the power of brutal passions and degrading appetites.",
+    "tags": [
+      "fall"
+    ],
+    "order": 11
+  },
+  {
+    "cardId": "MS-C-0012",
+    "subject": "MS",
+    "topic": "Original Sin",
+    "front": "Whose writings gave rise to the doctrine of original sin, and which passages did Wesley cite for it?",
+    "back": "The writings of Saint Augustine. Wesley cited Genesis 3:1ff, Psalm 5:5 and Romans 5:12-21.",
+    "kind": "person",
+    "scriptureReferences": [
+      "Genesis 3:1",
+      "Psalms 5:5",
+      "Romans 5:12-21"
+    ],
+    "excerpt": "The doctrine of original sin came about as the church reflected on the writings of Saint  Augustine as to how the fall of Adam and Eve affected the rest of humanity.",
+    "tags": [
+      "original-sin"
+    ],
+    "order": 12
+  },
+  {
+    "cardId": "MS-C-0013",
+    "subject": "MS",
+    "topic": "The Consequences of Original Sin",
+    "front": "What fourfold inheritance did Adam and Eve bequeath to humanity, according to Wesley?",
+    "back": "Unbelief, pride, self-will and love of the world — the last with three components: the desire of the flesh, the desire of the eye and the pride of life.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "Thus unbelief, pride, self-will and love of the world are the inheritance that Adam and Eve bequeathed to humanity.",
+    "tags": [
+      "original-sin"
+    ],
+    "order": 13
+  },
+  {
+    "cardId": "MS-C-0014",
+    "subject": "MS",
+    "topic": "INTRODUCTION",
+    "front": "Define prevenient grace.",
+    "back": "The grace which goes before any human action for salvation; it acts before any individual has any thought of turning to the Christian faith. It may also be called antecedent grace: God seeks us before we ever seek God.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "Wesley used the term prevenient grace to mean that grace which goes before any human action for salvation.",
+    "tags": [
+      "prevenient-grace"
+    ],
+    "order": 14
+  },
+  {
+    "cardId": "MS-C-0015",
+    "subject": "MS",
+    "topic": "Characteristics of Prevenient Grace",
+    "front": "What did Wesley mean by saying grace is “free in all”?",
+    "back": "“The grace or love of God, whence cometh our salvation, is free in all. It is free in all to whom it is given. It does not depend on any power or merit in man; no, not in any degree, neither in whole, nor in part.”",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "The grace or love of God, whence cometh our salvation, is free in all. It is free in all to whom it is given. It does not depend on any power or merit in man; no, not in any degree, neither in whole, nor in part.",
+    "tags": [
+      "prevenient-grace"
+    ],
+    "order": 15
+  },
+  {
+    "cardId": "MS-C-0016",
+    "subject": "MS",
+    "topic": "Characteristics of Prevenient Grace",
+    "front": "What does Wesley call repentance, and what leads to it?",
+    "back": "Repentance is “the porch of religion”; prevenient grace stirs us to repentance, and repentance or conviction of sin always precedes faith.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "Prevenient grace only serves to stir us to repentance, which Wesley calls the porch of religion.",
+    "tags": [
+      "prevenient-grace"
+    ],
+    "order": 16
+  },
+  {
+    "cardId": "MS-C-0017",
+    "subject": "MS",
+    "topic": "What is Justification?",
+    "front": "State three things that justification is NOT, according to Wesley.",
+    "back": "It is not doing things that are just and righteous; it is not God clearing us from the accusations of Satan; and it is not the clearing of us from the accusation brought against us by the law.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "Also, justification is not God clearing us from the accusations of Satan. In addition, justification is not the clearing us from the accusation brought against us by the law.",
+    "tags": [
+      "justification"
+    ],
+    "order": 17
+  },
+  {
+    "cardId": "MS-C-0018",
+    "subject": "MS",
+    "topic": "What is Justification?",
+    "front": "What is justification according to Wesley?",
+    "back": "Pardon, the forgiveness of sins — the act of God the Father whereby, for the sake of the propitiation made by the blood of his Son, he showed forth his righteousness by the remission of the sins that are past.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "What then is justification? According to Wesley, justification is pardon, the forgiveness of \nsins. It is the act of God the Father, whereby, for the sake of the propitiation (sacrifice) made by the blood of his Son, he showed forth his righteousness by the remission (forgiveness) of the sins that are past.",
+    "tags": [
+      "justification"
+    ],
+    "order": 18
+  },
+  {
+    "cardId": "MS-C-0019",
+    "subject": "MS",
+    "topic": "Who are Justified?",
+    "front": "Whom does God justify?",
+    "back": "The ungodly of every kind and every degree. It is not a saint but a sinner that is forgiven; no sinner is too sinful to be disqualified from God's forgiveness.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Wesley pointed out that God justified the ungodly of every kind and every degree.",
+    "tags": [
+      "justification"
+    ],
+    "order": 19
+  },
+  {
+    "cardId": "MS-C-0020",
+    "subject": "MS",
+    "topic": "Results of Justification",
+    "front": "What are the results of justification?",
+    "back": "Joy in our faith (the faith of a son rather than the faith of a servant), the freedom to live as a free person — not perfect but accepted and forgiven — and love, works, generosity, personal and social holiness.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Other results of justification are love, works, and generosity, personal and social holiness.",
+    "tags": [
+      "justification"
+    ],
+    "order": 20
+  },
+  {
+    "cardId": "MS-C-0021",
+    "subject": "MS",
+    "topic": "Sanctification",
+    "front": "How did Wesley distinguish justification from sanctification?",
+    "back": "“By justification we are saved from the guilt of sin and restored to the favour of God. By sanctification we are saved from the power and root of sin and restored to the image of God.”",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "\"By justification we are saved from the guilt of sin and restored to the favour of God. By sanctification we are saved from the power and root of sin and restored to the image of God.",
+    "tags": [
+      "sanctification"
+    ],
+    "order": 21
+  },
+  {
+    "cardId": "MS-C-0022",
+    "subject": "MS",
+    "topic": "Sanctification",
+    "front": "What did Wesley call the inner work of the Holy Spirit that produces holy living?",
+    "back": "Christian Perfection. Sanctification is the process of growth into the image of God and begins the moment a person is justified.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "It is this holy living which Wesley called Christian Perfection.",
+    "tags": [
+      "sanctification"
+    ],
+    "order": 22
+  },
+  {
+    "cardId": "MS-C-0023",
+    "subject": "MS",
+    "topic": "Introduction",
+    "front": "How does Wesley define Christian perfection, and what other names does he give it?",
+    "back": "Pure love in the heart and life of man — loving God and loving our neighbour. He also called it the Second Blessing, Entire Sanctification, Full Sanctification and Full Salvation.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "John Wesley defines Christian perfection as pure love in the heart and life of man.",
+    "tags": [
+      "christian-perfection"
+    ],
+    "order": 23
+  },
+  {
+    "cardId": "MS-C-0024",
+    "subject": "MS",
+    "topic": "Introduction",
+    "front": "What did Wesley say in 1790 about Christian perfection and the Methodists?",
+    "back": "That Christian perfection is “the grand deposit” which God has lodged with the people called Methodists, and that He appeared to have raised them up mainly to propagate that message.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "In 1790, a year before he died, he stressed that Christian perfection is the grand deposit, which God has lodged with the people called Methodists",
+    "tags": [
+      "christian-perfection"
+    ],
+    "order": 24
+  },
+  {
+    "cardId": "MS-C-0025",
+    "subject": "MS",
+    "topic": "Introduction",
+    "front": "What was George Whitefield's objection to Wesley's teaching on Christian perfection?",
+    "back": "He claimed that there is no such perfection on earth.",
+    "kind": "person",
+    "scriptureReferences": [],
+    "excerpt": "Wesley's teaching on Christian perfection was opposed by people like George Whitefield who claimed that there is no such perfection on earth.",
+    "tags": [
+      "christian-perfection",
+      "controversy"
+    ],
+    "order": 25
+  },
+  {
+    "cardId": "MS-C-0026",
+    "subject": "MS",
+    "topic": "What Christian Perfection is NOT according to John Wesley",
+    "front": "In which treatise and year did Wesley publish his understanding of Christian perfection, and who had misunderstood it?",
+    "back": "“A Plain Account of Christian Perfection”, published in 1766. His critics included the Moravians and the Calvinists.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Wesley published his understanding of this doctrine in 1766 in his treatise entitled, \"A plain Account of Christian Perfection.\"",
+    "tags": [
+      "christian-perfection"
+    ],
+    "order": 26
+  },
+  {
+    "cardId": "MS-C-0027",
+    "subject": "MS",
+    "topic": "What Christian Perfection is NOT according to John Wesley",
+    "front": "In what senses did Wesley say Christians are NOT perfect?",
+    "back": "They are not perfect in knowledge, not free from ignorance or mistake, not free from infirmities, and not wholly free from temptation — for the servant is not above his Master.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "Christians are not perfect in knowledge. They are not free from ignorance; or from mistake.",
+    "tags": [
+      "christian-perfection"
+    ],
+    "order": 27
+  },
+  {
+    "cardId": "MS-C-0028",
+    "subject": "MS",
+    "topic": "Can Christian Perfection be Achieved?",
+    "front": "When did Wesley believe entire sanctification is normally received?",
+    "back": "It is instantaneous but preceded and followed by gradual work, and this gift of grace is not usually received until just prior to death.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Wesley stressed that entire sanctification is instantaneous but it is preceded by and followed by gradual work.",
+    "tags": [
+      "christian-perfection"
+    ],
+    "order": 28
+  },
+  {
+    "cardId": "MS-C-0029",
+    "subject": "MS",
+    "topic": "Brief Life History: Charles Wesley 1707 - 1788",
+    "front": "When and where was Charles Wesley born?",
+    "back": "At Epworth on 18th December 1707; he was the youngest of the three male children to survive to adulthood.",
+    "kind": "person",
+    "scriptureReferences": [],
+    "excerpt": "Charles Wesley was born in Epworth on 18th December 1707.",
+    "tags": [
+      "charles-wesley"
+    ],
+    "order": 29
+  },
+  {
+    "cardId": "MS-C-0030",
+    "subject": "MS",
+    "topic": "Brief Life History: Charles Wesley 1707 - 1788",
+    "front": "What was the Holy Club, and what nickname did it earn Charles Wesley?",
+    "back": "A devotional group of like-minded students he gathered at Oxford to study Scripture and partake of the Sacrament. It gained him “the harmless nickname of Methodist”.",
+    "kind": "event",
+    "scriptureReferences": [],
+    "excerpt": "It was called the Holy Club.",
+    "tags": [
+      "charles-wesley"
+    ],
+    "order": 30
+  },
+  {
+    "cardId": "MS-C-0031",
+    "subject": "MS",
+    "topic": "Brief Life History: Charles Wesley 1707 - 1788",
+    "front": "When was Charles Wesley converted, and what had he been reading?",
+    "back": "On 21st May 1738, after reading through Luther's commentary on the Book of Galatians — three days before his brother John.",
+    "kind": "event",
+    "scriptureReferences": [],
+    "excerpt": "Charles Wesley had his spiritual conversion on 21st May 1738 after reading through Luther's commentary on the Book of Galatians.",
+    "tags": [
+      "charles-wesley"
+    ],
+    "order": 31
+  },
+  {
+    "cardId": "MS-C-0032",
+    "subject": "MS",
+    "topic": "Charles Wesley and Methodist Hymnology",
+    "front": "Whose saying lies behind “O for a thousand tongues to sing” (MHB 1)?",
+    "back": "Peter Bohler's: “Had I a thousand tongues, I would praise Him with them all.” Charles turned it into a hymn to mark the anniversary of his conversion.",
+    "kind": "person",
+    "scriptureReferences": [],
+    "excerpt": "Peter Bohler is said to have told Charles, \"Had I a thousand tongues, I would praise Him with them all.\"",
+    "tags": [
+      "hymns"
+    ],
+    "order": 32
+  },
+  {
+    "cardId": "MS-C-0033",
+    "subject": "MS",
+    "topic": "The Use of the Bible in the Methodist Hymns",
+    "front": "What did John Wesley write about the Bible in 1729, and what is the effect on the hymns?",
+    "back": "“I began not only to read but to study the Bible.” The hymns are in many cases a mere mosaic of biblical passages or extracts.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "In the year 1729, John Wesley wrote, \"I began not only to read but to study the Bible.\"",
+    "tags": [
+      "hymns",
+      "bible"
+    ],
+    "order": 33
+  },
+  {
+    "cardId": "MS-C-0034",
+    "subject": "MS",
+    "topic": "The Use of the Bible in the Methodist Hymns",
+    "front": "What did Charles Wesley publish in 1762?",
+    "back": "A collection of Short Hymns on Select Passages of the Holy Scriptures, a kind of devotional commentary in verse.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "In 1762 Charles published a collection of Short Hymns on Select Passages of the Holy Scriptures, a kind of devotional commentary in verse.",
+    "tags": [
+      "hymns",
+      "bible"
+    ],
+    "order": 34
+  },
+  {
+    "cardId": "MS-C-0035",
+    "subject": "MS",
+    "topic": "The Use of the Bible in the Methodist Hymns",
+    "front": "On what passage is “Wrestling Jacob” (MHB 339) based, and who praised it?",
+    "back": "Genesis 32:21-32. Isaac Watts declared that this single poem was worth all the verses he himself had written.",
+    "kind": "scripture",
+    "scriptureReferences": [
+      "Genesis 32:21-32"
+    ],
+    "excerpt": "Another, generally thought to be his greatest hymn, is based on Genesis 32:21-32.",
+    "tags": [
+      "hymns"
+    ],
+    "order": 35
+  },
+  {
+    "cardId": "MS-C-0036",
+    "subject": "MS",
+    "topic": "The Hymns and the Great Festivals of the Church",
+    "front": "Name Charles Wesley's hymns for the great festivals of the Church.",
+    "back": "Christmas: “Hark, the herald angel sing”; Easter: “Christ the Lord is risen today”; Ascensiontide: “Hail the day that sees him rise” (MHB 221); Whit Sunday: “Away with our fears” (MHB 278).",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "There are few \nchurches of any denomination which do not celebrate Christmas with \"Hark, the herald \nangel sing\" or Easter with \"Christ the Lord is risen today\".",
+    "tags": [
+      "hymns",
+      "festivals"
+    ],
+    "order": 36
+  },
+  {
+    "cardId": "MS-C-0037",
+    "subject": "MS",
+    "topic": "The Sacraments in the Methodist Hymns",
+    "front": "On whose article were Charles Wesley's Hymns on the Lord's Supper based?",
+    "back": "An article by a high church divine, Dr. Daniel Brevint; they expressed the Wesleys' high doctrine of the Sacrament as a celebration of Christ's sacrificial love for mankind.",
+    "kind": "person",
+    "scriptureReferences": [],
+    "excerpt": "Charles Wesley's Hymns on the Lord's Supper, based on an article by a high church divine, Dr. Daniel Brevint, expressed the Wesley's high doctrine of the Sacrament as a celebration of Christ's sacrificial love for mankind.",
+    "tags": [
+      "sacraments"
+    ],
+    "order": 37
+  },
+  {
+    "cardId": "MS-C-0038",
+    "subject": "MS",
+    "topic": "The Sacraments in the Methodist Hymns",
+    "front": "What did the Wesleys mean, and not mean, by Christ's “real presence” in the Sacrament?",
+    "back": "“Real” did not mean “physical”, nor that the bread and wine were changed. Any change was in the relationship between the worshipper and God; the sacrament was a “means of grace”.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "It must be noted however, that the \"real\" did not mean \"physical\" or imply that the \nelements of bread and wine were changed in some way.",
+    "tags": [
+      "sacraments"
+    ],
+    "order": 38
+  },
+  {
+    "cardId": "MS-C-0039",
+    "subject": "MS",
+    "topic": "Charles Wesley's Infinite Variety",
+    "front": "How did John Wesley sum up the difference between himself and Charles?",
+    "back": "“In connexion I beat you; but in strong, pointed sentences you beat me.”",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "\"In \nconnexion I beat you; but in strong, pointed sentences you beat me\".",
+    "tags": [
+      "charles-wesley"
+    ],
+    "order": 39
+  },
+  {
+    "cardId": "MS-C-0040",
+    "subject": "MS",
+    "topic": "Charles Wesley's Marriage",
+    "front": "Whom did Charles Wesley marry, and when?",
+    "back": "Sally Gwynne, whom he first met in Wales in August 1747; John Wesley married them in August 1748. In 1754 she was permanently disfigured by small pox.",
+    "kind": "person",
+    "scriptureReferences": [],
+    "excerpt": "He first met Sally Gwynne during a visit to Wales in August 1747. She was nearly 21, about 19 years younger than him. John Wesley married them in August 1748.",
+    "tags": [
+      "charles-wesley",
+      "marriage"
+    ],
+    "order": 40
+  },
+  {
+    "cardId": "MS-C-0041",
+    "subject": "MS",
+    "topic": "His Death",
+    "front": "When did Charles Wesley die?",
+    "back": "He died peacefully in his home on 29th March 1788 and was buried on 5th April; as one of his preachers put it, he had no disorder but old age.",
+    "kind": "event",
+    "scriptureReferences": [],
+    "excerpt": "He died peacefully in his home on 29th March 1788 and buried on 5th April.",
+    "tags": [
+      "charles-wesley",
+      "death"
+    ],
+    "order": 41
+  },
+  {
+    "cardId": "MS-C-0042",
+    "subject": "MS",
+    "topic": "INTRODUCTION",
+    "front": "What did Wesley say about Christianity and social religion?",
+    "back": "“The Gospel of Christ knows no religion but social, no holiness but social holiness.” Christianity is essentially a social religion, and to turn it into a solitary religion is to destroy it.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "\"The Gospel of Christ knows no religion but social, no holiness but social holiness\".",
+    "tags": [
+      "social-ethics"
+    ],
+    "order": 42
+  },
+  {
+    "cardId": "MS-C-0043",
+    "subject": "MS",
+    "topic": "John Wesley and the Poor",
+    "front": "What loan fund did Wesley establish for the poor?",
+    "back": "From his own savings he provided the capital for interest-free loans of up to three months, first limited to twenty shillings and later raised to five pounds; within one year more than 250 persons had been helped.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "From his own savings Wesley provided the basic capital of a loan fund from which the poor \ncould take interest-free loans up to three months.",
+    "tags": [
+      "the-poor"
+    ],
+    "order": 43
+  },
+  {
+    "cardId": "MS-C-0044",
+    "subject": "MS",
+    "topic": "John Wesley and the Use of Money",
+    "front": "What are Wesley's three rules on the use of money?",
+    "back": "“Gain all you can, Save all you can and Give all you can.” Those who observe the first two and not the third are twofold more the children of hell than ever they were before.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "These were: \"Gain all you can, Save all you can and Give all you can\".",
+    "tags": [
+      "money"
+    ],
+    "order": 44
+  },
+  {
+    "cardId": "MS-C-0045",
+    "subject": "MS",
+    "topic": "Slavery",
+    "front": "Who started the Trans-Atlantic slave trade, and when did England join it?",
+    "back": "The Portuguese started it; England joined in the latter part of 1550 and became the leading exporter of slaves from Africa to the American market.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "The Trans-Atlantic slave trade was started by the Portuguese and England joined the trade \nin the latter part of 1550",
+    "tags": [
+      "slavery"
+    ],
+    "order": 45
+  },
+  {
+    "cardId": "MS-C-0046",
+    "subject": "MS",
+    "topic": "Slavery",
+    "front": "Which cruelties of the slave trade did Wesley write about in 1774?",
+    "back": "The cruelties of capturing, transporting and selling slaves, as well as the inhuman treatment by their owners, which reduced them to a status hardly preferable to beasts of burden.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Wesley wrote on the cruelties of capturing, transporting and selling slaves, as well as the \ninhuman treatment by their owners",
+    "tags": [
+      "slavery"
+    ],
+    "order": 46
+  },
+  {
+    "cardId": "MS-C-0047",
+    "subject": "MS",
+    "topic": "Slavery",
+    "front": "Which anti-slavery leaders did Wesley support?",
+    "back": "Granville Sharp, Thomas Clarkson and William Wilberforce. Wesley and Wilberforce met for the first time on 24 February 1789.",
+    "kind": "person",
+    "scriptureReferences": [],
+    "excerpt": "Wesley supported other anti-slavery leaders like Granville Sharp, Thomas Clarkson and \nWilliam Wilberforce in their campaign against the slave trade.",
+    "tags": [
+      "slavery"
+    ],
+    "order": 47
+  },
+  {
+    "cardId": "MS-C-0048",
+    "subject": "MS",
+    "topic": "Wesley's Teaching on Liquor",
+    "front": "What did the General Rule of Methodists say about liquor?",
+    "back": "It forbade drunkenness, and the buying or selling of spirituous liquor or the drinking of them. Wesley opposed the liquor trade on social, humanitarian and religious grounds.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "The General Rule of Methodists forbade drunkenness, buying or selling spirituous \nliquor or drinking them.",
+    "tags": [
+      "liquor"
+    ],
+    "order": 48
+  },
+  {
+    "cardId": "MS-C-0049",
+    "subject": "MS",
+    "topic": "Introduction",
+    "front": "Who challenged Calvin's teaching on predestination, and who was commissioned to answer him?",
+    "back": "Koornheert, a layman from Holland, challenged it in 1589; the church commissioned a young priest, Jacobus Arminius (1560-1609), to answer his charges.",
+    "kind": "person",
+    "scriptureReferences": [],
+    "excerpt": "This doctrine was challenged by Koornheert, a layman from Holland in 1589. The church \ncommissioned a young priest Jacobus Arminius (1560-1609) to answer the charges of \nKoornheert.",
+    "tags": [
+      "controversies"
+    ],
+    "order": 49
+  },
+  {
+    "cardId": "MS-C-0050",
+    "subject": "MS",
+    "topic": "Introduction",
+    "front": "What was the crux of the argument between the Calvinists and the Arminians?",
+    "back": "Whether atonement was limited or universal. Arminianism argued that it is the will of God to save all persons.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "The crux of the argument was whether atonement was limited or universal.",
+    "tags": [
+      "controversies"
+    ],
+    "order": 50
+  },
+  {
+    "cardId": "MS-C-0051",
+    "subject": "MS",
+    "topic": "Introduction",
+    "front": "What did Wesley deny in his 1740 sermon “Free Grace”?",
+    "back": "The Calvinist view and all associated with it — “irresistible grace, limited atonement, perseverance of the saints and unconditional election”. He later told Whitefield, “your God is my devil.”",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "He denied the Calvinist view and all that was associated with it - \"irresistible grace, limited atonement, perseverance of the saints and unconditional election\".",
+    "tags": [
+      "controversies"
+    ],
+    "order": 51
+  },
+  {
+    "cardId": "MS-C-0052",
+    "subject": "MS",
+    "topic": "Introduction",
+    "front": "How did the Calvinist controversy divide the English Revival?",
+    "back": "George Whitefield led the Calvinist Methodist connexion under the patronage of Lady Huntingdon, and Wesley's preachers John Cennick and John Humphrey joined the Calvinists; the conflict became the “Pamphlets of War”.",
+    "kind": "event",
+    "scriptureReferences": [],
+    "excerpt": "The conflict brought a division in the English Revival with George Whitefield leading the Calvinist Methodists connexion under the patronage of Lady Huntingdon.",
+    "tags": [
+      "controversies"
+    ],
+    "order": 52
+  },
+  {
+    "cardId": "MS-C-0053",
+    "subject": "MS",
+    "topic": "Wesley and the Church of England (Anglican)",
+    "front": "Whom did Wesley ordain in September 1784 for America, and why?",
+    "back": "Dr. Thomas Coke as superintendent, with Richard Whatcoat and Thomas Vasey as Elders, after Bishop Lowth of London refused his request of August 1780 to ordain preachers for America.",
+    "kind": "event",
+    "scriptureReferences": [],
+    "excerpt": "Therefore in September 1784 Wesley \nordained Dr. Thomas Coke as superintendent and Richard Whatcoat and Thomas Vasey as \nElders for America.",
+    "tags": [
+      "church-of-england"
+    ],
+    "order": 53
+  },
+  {
+    "cardId": "MS-C-0054",
+    "subject": "MS",
+    "topic": "Introduction",
+    "front": "Which District Synod began the move towards Episcopal Leadership in Ghana Methodism, and in what year?",
+    "back": "The Kumasi District Synod, in 1990; its Chairman, Rt. Rev'd Samuel Asante Antwi, submitted a proposal to the Conference meeting at Koforidua that same year.",
+    "kind": "event",
+    "scriptureReferences": [],
+    "excerpt": "In \n1990 the Kumasi District Synod started the discussions that would move the Methodist \nChurch Ghana towards Episcopal Leadership.",
+    "tags": [
+      "episcopacy"
+    ],
+    "order": 54
+  },
+  {
+    "cardId": "MS-C-0055",
+    "subject": "MS",
+    "topic": "Introduction",
+    "front": "Which district first implemented the idea of a separated Chairman as a move towards the Episcopal system?",
+    "back": "The Kumasi District, in 1992; Kumasi was followed by the Sunyani District. Only Kumasi and Sunyani had been fully in favour of the system.",
+    "kind": "event",
+    "scriptureReferences": [],
+    "excerpt": "In \n1992 the Kumasi District implemented the idea of a separated Chairman as a move \ntowards the Episcopal system. Kumasi was followed by the Sunyani District.",
+    "tags": [
+      "episcopacy"
+    ],
+    "order": 55
+  },
+  {
+    "cardId": "MS-C-0056",
+    "subject": "MS",
+    "topic": "Proclamation Service",
+    "front": "When and where was the Service of Proclamation held?",
+    "back": "On Sunday, 23 January 2000 at 8.30am at the Wesley Methodist Church, Asafoatse Nettey Road, Accra.",
+    "kind": "event",
+    "scriptureReferences": [],
+    "excerpt": "A Service of Proclamation was held on Sunday, January 23, 2000 at the Wesley Methodist \nChurch, Asafoatse Nettey Road, Accra at 8.30am.",
+    "tags": [
+      "proclamation-service"
+    ],
+    "order": 56
+  },
+  {
+    "cardId": "MS-C-0057",
+    "subject": "MS",
+    "topic": "Proclamation Service",
+    "front": "What became of the President and Vice President of Conference under the Episcopal system?",
+    "back": "The President of the Conference became the Presiding Bishop, referred to as “The Most Reverend...”; the Vice President became the Lay President of the Methodist Church Ghana.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "The Presiding Bishop - The President of the Conference shall be known as the \nPresiding Bishop of the Methodist Church Ghana and referred to as \"The Most  Reverend...\"",
+    "tags": [
+      "proclamation-service"
+    ],
+    "order": 57
+  },
+  {
+    "cardId": "MS-C-0058",
+    "subject": "MS",
+    "topic": "Proclamation Service",
+    "front": "What titles were given to Diocesan Bishops, Superintendent Ministers, Elders and Deacons?",
+    "back": "Diocesan Bishops (formerly Chairmen and General Superintendents) — “The Right Reverend...”; Superintendent Ministers — “The Very Reverend...”; all ordained ministers are Elders — “The Reverend...”; all probationers or ministers-on-trial are Deacons — “The Reverend...”.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "Diocesan Bishops - The Chairman and General Superintendents of Districts shall be known as Diocesan Bishops and referred to as 'The Right Reverend. . .\"",
+    "tags": [
+      "proclamation-service"
+    ],
+    "order": 58
+  }
+]

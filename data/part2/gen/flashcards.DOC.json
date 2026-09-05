@@ -1,0 +1,974 @@
+[
+  {
+    "cardId": "DOC-C-0001",
+    "subject": "DOC",
+    "topic": "Introduction",
+    "front": "What is Christology?",
+    "back": "The doctrine of Christ - \"enquiry into the significance of Jesus for Christian faith\". In the classical Christian tradition, faith is understood as faith in the person of Jesus Christ.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "The doctrine of Christ (Christology) \"is enquiry into the significance of Jesus for Christian faith.",
+    "tags": [
+      "christology",
+      "definitions"
+    ],
+    "order": 1
+  },
+  {
+    "cardId": "DOC-C-0002",
+    "subject": "DOC",
+    "topic": "JESUS - WHO IS HE?",
+    "front": "What does the name \"Jesus\" mean, and from which Hebrew name does it come?",
+    "back": "Jesus is the Greek form of the Hebrew Yeshua or Joshua. In Hebrew it means \"Yahweh is salvation\" - God helps or God saves. As applied to Christ it means \"Saviour\".",
+    "kind": "term",
+    "scriptureReferences": [
+      "Matthew 1:21"
+    ],
+    "excerpt": "In Hebrew it means Yahweh is salvation - God helps or God saves.",
+    "tags": [
+      "names-of-christ",
+      "hebrew-terms"
+    ],
+    "order": 2
+  },
+  {
+    "cardId": "DOC-C-0003",
+    "subject": "DOC",
+    "topic": "The Incarnation of Jesus Christ",
+    "front": "From what does the word \"Incarnation\" come, and what does it mean?",
+    "back": "From the Latin incarnare, \"to make flesh\"; in a general sense, the bodily manifestation of a supernatural being.",
+    "kind": "term",
+    "scriptureReferences": [
+      "John 1:14"
+    ],
+    "excerpt": "The word Incarnation \"comes from the Latin incarnare which means \"to make flesh\"",
+    "tags": [
+      "incarnation",
+      "definitions"
+    ],
+    "order": 3
+  },
+  {
+    "cardId": "DOC-C-0004",
+    "subject": "DOC",
+    "topic": "The Incarnation of Jesus Christ",
+    "front": "What did St. Augustine say the Word being made flesh means?",
+    "back": "\"Not that the divine nature was changed into flesh (human nature), but that the divine nature assumed our flesh (our nature) except without sin.\"",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "According to St. Augustine, \"The meaning of the Word being made flesh is not that the divine nature was changed into flesh (human nature), but that the divine nature assumed our flesh (our nature) except without sin.\"",
+    "tags": [
+      "incarnation",
+      "church-fathers"
+    ],
+    "order": 4
+  },
+  {
+    "cardId": "DOC-C-0005",
+    "subject": "DOC",
+    "topic": "The Incarnation of Jesus Christ",
+    "front": "Why was Jesus perfectly qualified to be the unique go-between bringing humankind and God together?",
+    "back": "Because, although still fully God, he shared completely as a man the weaknesses of all humankind except sin.",
+    "kind": "fact",
+    "scriptureReferences": [
+      "Galatians 4:4-5",
+      "Hebrews 2:14-18"
+    ],
+    "excerpt": "Although he was still fully God, Jesus (as a man) shared completely the weaknesses of all humankind except sin. Because of this, he was perfectly qualified to be the unique go-between, bringing humankind and God together",
+    "tags": [
+      "incarnation",
+      "humanity-of-christ"
+    ],
+    "order": 5
+  },
+  {
+    "cardId": "DOC-C-0006",
+    "subject": "DOC",
+    "topic": "The Virgin Birth",
+    "front": "What is the Virgin Birth (Parthenogenesis)?",
+    "back": "The biblical doctrine that Jesus was miraculously begotten by God and born of Mary, who was a virgin; it means Mary had not had sexual relations with any man when she conceived Jesus.",
+    "kind": "definition",
+    "scriptureReferences": [
+      "Luke 1:26-38"
+    ],
+    "excerpt": "The Virgin Birth (Parthenogenesis) is the biblical doctrine that Jesus was miraculously begotten by God and born of Mary, who was a virgin.",
+    "tags": [
+      "virgin-birth",
+      "definitions"
+    ],
+    "order": 6
+  },
+  {
+    "cardId": "DOC-C-0007",
+    "subject": "DOC",
+    "topic": "The Necessity of the Virgin Birth",
+    "front": "Which two Early Church Fathers taught that the transmission of original sin is bound up with the sexual nature of propagation?",
+    "back": "Ambrose and Augustine.",
+    "kind": "person",
+    "scriptureReferences": [],
+    "excerpt": "According to Ambrose and Augustine (both Early Church Fathers) the transmission of original sin is bound up with the sexual nature of propagation and the carnal desires aroused by procreation.",
+    "tags": [
+      "virgin-birth",
+      "church-fathers"
+    ],
+    "order": 7
+  },
+  {
+    "cardId": "DOC-C-0008",
+    "subject": "DOC",
+    "topic": "The Necessity of the Virgin Birth",
+    "front": "Why could Jesus not have inherited the throne of David if Joseph had been his father?",
+    "back": "Because Jeremiah 22:28-30 prophesied that no descendant of King Jeconiah could be king in Israel, and Matthew 1:12 relates that Joseph was from the line of Jeconiah.",
+    "kind": "fact",
+    "scriptureReferences": [
+      "Jeremiah 22:28-30",
+      "Matthew 1:12"
+    ],
+    "excerpt": "According to the prophecy of Jeremiah 22:28-30, there could be no king in Israel who was a descendant of King Jeconiah, and Matthew 1:12 relates that Joseph was from the line of Jeconiah.",
+    "tags": [
+      "virgin-birth",
+      "davidic-throne"
+    ],
+    "order": 8
+  },
+  {
+    "cardId": "DOC-C-0009",
+    "subject": "DOC",
+    "topic": "Objections to the Virgin Birth",
+    "front": "Which early Church Father, writing at the beginning of the second century, testified that \"our God, Jesus the Christ, was conceived in the womb by Mary\"?",
+    "back": "Ignatius, Bishop of Antioch, in his letter to the Ephesians.",
+    "kind": "person",
+    "scriptureReferences": [],
+    "excerpt": "Ignatius, Bishop of Antioch (one of the early Church Fathers) who lived at the beginning of the second century, wrote to the Ephesians",
+    "tags": [
+      "virgin-birth",
+      "church-fathers"
+    ],
+    "order": 9
+  },
+  {
+    "cardId": "DOC-C-0010",
+    "subject": "DOC",
+    "topic": "Objections to the Virgin Birth",
+    "front": "Which writer said that the pagan supernatural birth stories point to complete contrast and dissimilarity with the Christian birth-story?",
+    "back": "Dr. Thomas Thorburn.",
+    "kind": "person",
+    "scriptureReferences": [],
+    "excerpt": "Dr. Thomas Thorburn comments appropriately that,",
+    "tags": [
+      "virgin-birth",
+      "objections"
+    ],
+    "order": 10
+  },
+  {
+    "cardId": "DOC-C-0011",
+    "subject": "DOC",
+    "topic": "Christological Titles (The Names of Christ)",
+    "front": "What do the titles \"Messiah\" and \"Christ\" mean?",
+    "back": "Both mean \"the anointed one\" or \"one who has been anointed\". Messiah is the Jewish title; Christos is its Greek equivalent.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "Both \"Christ\" and \"Messiah\" mean the \"anointed one\" or \"one who has been anointed.\"",
+    "tags": [
+      "christological-titles",
+      "messiah"
+    ],
+    "order": 11
+  },
+  {
+    "cardId": "DOC-C-0012",
+    "subject": "DOC",
+    "topic": "Christological Titles (The Names of Christ)",
+    "front": "How did John Macquarrie sum up Jewish messianic expectation?",
+    "back": "\"The messiah was visualized as a victor, not a sufferer.\"",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "As John Macquarrie puts it, \"The messiah was visualized as a victor, not a sufferer.\"",
+    "tags": [
+      "christological-titles",
+      "quotations"
+    ],
+    "order": 12
+  },
+  {
+    "cardId": "DOC-C-0013",
+    "subject": "DOC",
+    "topic": "Christological Titles (The Names of Christ)",
+    "front": "Which title was given to Jesus by Peter as a name belonging to him as the Messiah, especially set apart for God?",
+    "back": "The Holy One of God.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "This title was given to Jesus by Peter On. 6:69). This was a name belonging to him as the Messiah - especially set apart for God.",
+    "tags": [
+      "christological-titles"
+    ],
+    "order": 13
+  },
+  {
+    "cardId": "DOC-C-0014",
+    "subject": "DOC",
+    "topic": "Christological Titles (The Names of Christ)",
+    "front": "In which three ways did Jesus use the title \"Son of Man\"?",
+    "back": "When speaking of his earthly ministry, his death, and his coming glory.",
+    "kind": "fact",
+    "scriptureReferences": [
+      "Matthew 8:19,20"
+    ],
+    "excerpt": "Jesus used the title in three ways - when speaking of his earthly ministry, his death and his coming glory.",
+    "tags": [
+      "christological-titles",
+      "son-of-man"
+    ],
+    "order": 14
+  },
+  {
+    "cardId": "DOC-C-0015",
+    "subject": "DOC",
+    "topic": "Christological Titles (The Names of Christ)",
+    "front": "Which Greek word denoting lordship was most frequently used of Jesus, and what did it invite?",
+    "back": "Kurios - \"The Lord\" or \"The Master\". To use this name invited opposition from the Jewish authorities on the grounds of blasphemy, and from the Romans on the grounds of treason against the Emperor.",
+    "kind": "term",
+    "scriptureReferences": [
+      "Philippians 2:9-11"
+    ],
+    "excerpt": "The most requent, and the most important in relation to the doctrine of his person, was the Greek word kurios, spoken of him as \"The Lord\" or \"The Master.\"",
+    "tags": [
+      "christological-titles",
+      "lordship"
+    ],
+    "order": 15
+  },
+  {
+    "cardId": "DOC-C-0016",
+    "subject": "DOC",
+    "topic": "Heresies about Jesus Christ",
+    "front": "What is Arianism, and after whom is it named?",
+    "back": "The heresy which denies Christ's divinity, named after Arius of Alexandria (died 335). Arius taught that the Son of God and the Holy Spirit were beings willed into existence by God for the purposes of redemption, so that they were not eternal: there was a time \"before which they were not\".",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "The heresy of the denial of Christ's divinity usually goes by the name of Arianism (after Arius of Alexandria; died 335).",
+    "tags": [
+      "heresies",
+      "arianism"
+    ],
+    "order": 16
+  },
+  {
+    "cardId": "DOC-C-0017",
+    "subject": "DOC",
+    "topic": "Heresies about Jesus Christ",
+    "front": "What is Docetism, and from what Greek word does it come?",
+    "back": "The heresy which denies Christ's humanity. From the Greek verb dokeo, \"to appear\" or \"to seem\": Jesus only seemed to be a man, his human nature being a mask concealing his true divine self.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "The word Docetism comes from the Greek verb dokeo which means \"to appear\" or \"to seem.\"",
+    "tags": [
+      "heresies",
+      "docetism",
+      "greek-terms"
+    ],
+    "order": 17
+  },
+  {
+    "cardId": "DOC-C-0018",
+    "subject": "DOC",
+    "topic": "INTRODUCTION",
+    "front": "What are the technical names for the doctrine of Christ's person and the doctrine of Christ's work?",
+    "back": "Christology (the person of Christ) and soteriology (the work of Christ). The person and work of Christ are inseparable.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "the doctrines of Christ's person (Christology) pass quickly and inevitably into the area of Christ's work (soteriology)",
+    "tags": [
+      "soteriology",
+      "christology",
+      "definitions"
+    ],
+    "order": 18
+  },
+  {
+    "cardId": "DOC-C-0019",
+    "subject": "DOC",
+    "topic": "The Atoning Death of Christ",
+    "front": "What are the \"tenses\" of salvation?",
+    "back": "We have been saved from the penalty of sin by a crucified Saviour; we are being saved from the power of sin by a living Saviour; we shall be saved from the presence of sin by a coming Saviour.",
+    "kind": "fact",
+    "scriptureReferences": [
+      "1 John 1:7-9"
+    ],
+    "excerpt": "The \"tenses\" of salvation are as follows: we have been saved from the penalty of sin by a crucified Saviour; we are being saved from the power of sin by a living Saviour; we shall be saved from the presence of sin by a coming Saviour.",
+    "tags": [
+      "atonement",
+      "salvation"
+    ],
+    "order": 19
+  },
+  {
+    "cardId": "DOC-C-0020",
+    "subject": "DOC",
+    "topic": "The Atoning Death of Christ",
+    "front": "What is the threefold office of Christ?",
+    "back": "Prophet, priest and king. As prophet he is the perfect spokesman of God; as priest he offered a sufficient sacrifice and now intercedes; as king he is \"the ruler over the kings of the earth\".",
+    "kind": "fact",
+    "scriptureReferences": [
+      "Revelation 1:5"
+    ],
+    "excerpt": "The work of Christ has often been stated in relation to his threefold office as prophet, priest, and king.",
+    "tags": [
+      "atonement",
+      "threefold-office"
+    ],
+    "order": 20
+  },
+  {
+    "cardId": "DOC-C-0021",
+    "subject": "DOC",
+    "topic": "The Resurrection of Jesus Christ",
+    "front": "What factual evidence for the resurrection does the syllabus give?",
+    "back": "The empty tomb containing only the abandoned grave clothes; the persistent failure of all explanations other than that Christ had risen; and the numerous reported appearances of the risen Jesus at different times and before different people.",
+    "kind": "fact",
+    "scriptureReferences": [
+      "John 20:1-29"
+    ],
+    "excerpt": "There is the empty tomb, containing only the abandoned grave clothes, and the persistent failure of all explanations other than that Christ had risen.",
+    "tags": [
+      "resurrection",
+      "evidence"
+    ],
+    "order": 21
+  },
+  {
+    "cardId": "DOC-C-0022",
+    "subject": "DOC",
+    "topic": "Critical Events in the Gospels",
+    "front": "Why did the sinless Jesus submit to John's baptism of repentance?",
+    "back": "By his submission to John's baptism he showed his identification with sinful humanity; the descent of the Spirit like a dove and the Father's words of acceptance came as God's approval of the ministry that was to follow.",
+    "kind": "event",
+    "scriptureReferences": [
+      "Matthew 3:13-17"
+    ],
+    "excerpt": "Jesus, however, had no sin of which he could repent. But by his submission to John's baptism, he showed his identification with sinful humanity.",
+    "tags": [
+      "critical-events",
+      "baptism"
+    ],
+    "order": 22
+  },
+  {
+    "cardId": "DOC-C-0023",
+    "subject": "DOC",
+    "topic": "The Deity of the Holy Spirit",
+    "front": "What is the place of the Holy Spirit in the Godhead?",
+    "back": "He is the third person of the Trinity, presented in the Bible as a person fully worthy of worship.",
+    "kind": "fact",
+    "scriptureReferences": [
+      "Matthew 28:19",
+      "2 Corinthians 13:14"
+    ],
+    "excerpt": "The Holy Spirit is the third person of the Trinity (Matt. 28:19; 2 Cor. 13:14). He is presented in the Bible as a person fully worthy of worship.",
+    "tags": [
+      "holy-spirit",
+      "deity"
+    ],
+    "order": 23
+  },
+  {
+    "cardId": "DOC-C-0024",
+    "subject": "DOC",
+    "topic": "The Deity of the Holy Spirit",
+    "front": "Which divine attributes does the syllabus ascribe to the Holy Spirit?",
+    "back": "Holy, Eternal (Heb. 9:14), Omnipotent (Gen. 1:2; Job 26:13), Omniscient (1 Cor. 2:10, 11), Omnipresent (Ps. 139:7-10) and Truth (1 John 5:6).",
+    "kind": "fact",
+    "scriptureReferences": [
+      "Hebrews 9:14",
+      "Psalms 139:7-10"
+    ],
+    "excerpt": "Eternal \t\t-\tHebrews 9:14",
+    "tags": [
+      "holy-spirit",
+      "deity",
+      "attributes"
+    ],
+    "order": 24
+  },
+  {
+    "cardId": "DOC-C-0025",
+    "subject": "DOC",
+    "topic": "The Person of the Holy Spirit",
+    "front": "What five characteristics show that the Holy Spirit is a living, self-conscious person?",
+    "back": "He has Knowledge; He has Intelligence; He has Emotion; He Acts; and He has Will Power (the Spirit makes decisions).",
+    "kind": "fact",
+    "scriptureReferences": [
+      "1 Corinthians 12:11"
+    ],
+    "excerpt": "The Holy Spirit is a living being who is self-conscious and therefore, \nhas the following characteristics:",
+    "tags": [
+      "holy-spirit",
+      "person"
+    ],
+    "order": 25
+  },
+  {
+    "cardId": "DOC-C-0026",
+    "subject": "DOC",
+    "topic": "His Names",
+    "front": "What are the five names of the Holy Spirit given in the syllabus?",
+    "back": "The Holy Spirit; The Spirit of God; The Spirit of Christ; The Spirit of Truth; and The Counsellor or Helper.",
+    "kind": "term",
+    "scriptureReferences": [
+      "Acts 2:32,33"
+    ],
+    "excerpt": "The Holy Spirit: The third person of the Trinity is best known by this name.",
+    "tags": [
+      "holy-spirit",
+      "names"
+    ],
+    "order": 26
+  },
+  {
+    "cardId": "DOC-C-0027",
+    "subject": "DOC",
+    "topic": "His Names",
+    "front": "What is the literal meaning of the name \"Counsellor\"?",
+    "back": "One who comes alongside. The name is reassuring for Christians facing temptation, doubt, demanding service or opposition.",
+    "kind": "term",
+    "scriptureReferences": [
+      "John 16:5-7"
+    ],
+    "excerpt": "The literal meaning of the term \"Counsellor\" is one who comes alongside.",
+    "tags": [
+      "holy-spirit",
+      "names"
+    ],
+    "order": 27
+  },
+  {
+    "cardId": "DOC-C-0028",
+    "subject": "DOC",
+    "topic": "The Emblems of the Holy Spirit",
+    "front": "What are the six emblems of the Holy Spirit?",
+    "back": "Wind, Water, Fire, Oil, the Dove and a Seal. They throw light upon both his nature and his mission.",
+    "kind": "fact",
+    "scriptureReferences": [
+      "Acts 2:1,2"
+    ],
+    "excerpt": "Wind: Wind here indicates unseen power, and the main ideas conveyed are mystery, \nsovereignty and energy.",
+    "tags": [
+      "holy-spirit",
+      "emblems"
+    ],
+    "order": 28
+  },
+  {
+    "cardId": "DOC-C-0029",
+    "subject": "DOC",
+    "topic": "The Emblems of the Holy Spirit",
+    "front": "What five things does the emblem of Fire indicate?",
+    "back": "The presence of the Lord; the protection of the Lord; the approval of the Lord; the purifying from the Lord; and the judgment of the Lord.",
+    "kind": "fact",
+    "scriptureReferences": [
+      "Exodus 3:2",
+      "Hebrews 12:29",
+      "Malachi 3:1-3"
+    ],
+    "excerpt": "the presence of the Lord (Ex. 3:2)",
+    "tags": [
+      "holy-spirit",
+      "emblems"
+    ],
+    "order": 29
+  },
+  {
+    "cardId": "DOC-C-0030",
+    "subject": "DOC",
+    "topic": "The Emblems of the Holy Spirit",
+    "front": "What does the emblem of a Seal indicate?",
+    "back": "Ownership, finished transaction, identification, security, value, authority and genuineness.",
+    "kind": "fact",
+    "scriptureReferences": [
+      "2 Corinthians 1:22",
+      "Ephesians 1:13"
+    ],
+    "excerpt": "A seal indicates ownership, finished transaction, identification, security, value, authority, genuineness",
+    "tags": [
+      "holy-spirit",
+      "emblems"
+    ],
+    "order": 30
+  },
+  {
+    "cardId": "DOC-C-0031",
+    "subject": "DOC",
+    "topic": "The Work of the Holy Spirit",
+    "front": "What are the nine elements of the fruit of the Spirit?",
+    "back": "Love, joy, peace, longsuffering, kindness, goodness, faithfulness, gentleness and self-control (Gal. 5:22-23). Note that \"fruit\" is singular: there are not nine fruits but one fruit of nine elements, namely Christ-likeness.",
+    "kind": "fact",
+    "scriptureReferences": [
+      "Galatians 5:22-23"
+    ],
+    "excerpt": "\"The fruit of the Spirit is love, joy, peace, longsuffering, kindness, goodness, faithfulness, gentleness, self-control; against such, there is no law\" (Gal. 5:22-23).",
+    "tags": [
+      "holy-spirit",
+      "fruit-of-the-spirit"
+    ],
+    "order": 31
+  },
+  {
+    "cardId": "DOC-C-0032",
+    "subject": "DOC",
+    "topic": "The Work of the Holy Spirit",
+    "front": "What six things does the Holy Spirit do in the life of the Christian?",
+    "back": "Life (new birth by the Spirit); Assurance (the witness of the Spirit); Unity (fellowship in the Spirit); Ownership (the seal of the Spirit); Power (the fullness of the Spirit); and Confidence (the pledge of the Spirit).",
+    "kind": "fact",
+    "scriptureReferences": [
+      "John 3:3-8",
+      "Ephesians 5:18"
+    ],
+    "excerpt": "From the beginning of Christian discipleship, the Holy Spirit lives within the Christian. He gives the Christian the power to follow Christ, confidence in believing, and unity with other Christians.",
+    "tags": [
+      "holy-spirit",
+      "work"
+    ],
+    "order": 32
+  },
+  {
+    "cardId": "DOC-C-0033",
+    "subject": "DOC",
+    "topic": "The Work of the Holy Spirit",
+    "front": "How did Archbishop William Temple describe the Holy Spirit?",
+    "back": "\"First and foremost the special and distinctive influence which God exerts over our souls as we respond to his love in the human life of Christ.\"",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Thus the late Archbishop William Temple described the Holy Spirit as \"first and foremost the special and distinctive influence which God exerts over our souls as we respond to his love in the human life of Christ.\"",
+    "tags": [
+      "holy-spirit",
+      "quotations"
+    ],
+    "order": 33
+  },
+  {
+    "cardId": "DOC-C-0034",
+    "subject": "DOC",
+    "topic": "The Work of the Holy Spirit",
+    "front": "What are spiritual gifts?",
+    "back": "Supernatural abilities given by the Holy Spirit to believers. After the Spirit came upon the disciples at Pentecost he began his ministry of gift-giving, and will continue till Christ comes again.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "Spiritual gifts are supernatural abilities given by the Holy Spirit to believers.",
+    "tags": [
+      "holy-spirit",
+      "gifts"
+    ],
+    "order": 34
+  },
+  {
+    "cardId": "DOC-C-0035",
+    "subject": "DOC",
+    "topic": "Hallmark of the Gifts of the Spirit",
+    "front": "Which four passages of Scripture list some of the gifts of the Holy Spirit?",
+    "back": "Romans 12:6-8; 1 Corinthians 12:8-10; Ephesians 4:11, 12; and 1 Peter 4:10, 11.",
+    "kind": "scripture",
+    "scriptureReferences": [
+      "1 Corinthians 12:8-10",
+      "Ephesians 4:11,12",
+      "1 Peter 4:10,11"
+    ],
+    "excerpt": "Four passages of Scripture list some of the gifts: Roman. 12:6-8; 1 Corinthians 12:8-10; Ephesians 4:11, 12; 1 Peter 4:10, 11.",
+    "tags": [
+      "holy-spirit",
+      "gifts"
+    ],
+    "order": 35
+  },
+  {
+    "cardId": "DOC-C-0036",
+    "subject": "DOC",
+    "topic": "Historical Development of the Doctrine",
+    "front": "Who formulated the doctrine of the Trinity, and when was it proclaimed as the faith of the Church?",
+    "back": "Early Church Fathers such as Irenaeus, Origen and Tertullian were responsible for the formulation. Under the leadership of Bishop Athanasius it was proclaimed as the faith of the Church at the Council of Nicaea in AD 325, and a century later, at the hands of Bishop Augustine, it was accepted by Trinitarian churches.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Early Church Fathers such as Irenaeus, Origen and Tertullian were responsible for the formulation of the doctrine.",
+    "tags": [
+      "trinity",
+      "church-fathers",
+      "councils"
+    ],
+    "order": 36
+  },
+  {
+    "cardId": "DOC-C-0037",
+    "subject": "DOC",
+    "topic": "Some Heresies (False Views about the Trinity)",
+    "front": "What is Modalism?",
+    "back": "The view that the one God assumes different forms, or plays different roles: first Creator and Law-giver, then Redeemer, then the Holy Spirit who is Enlightener and Sanctifier.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "Modalism: This view teaches that the one God assumes different forms, or plays different roles.",
+    "tags": [
+      "trinity",
+      "heresies",
+      "modalism"
+    ],
+    "order": 37
+  },
+  {
+    "cardId": "DOC-C-0038",
+    "subject": "DOC",
+    "topic": "Some Heresies (False Views about the Trinity)",
+    "front": "What is Tri-Theism?",
+    "back": "The teaching which presents the three persons of the Godhead as consisting of three separate (but co-operating) Gods. It emphasises the Three-ness of God but overlooks the Oneness, the indivisible unity of God.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "Tri-Theism: This teaching pictures and presents the three persons of the Godhead (Father, Son, and Holy Spirit) as consisting of three separate (but co-operating) Gods.",
+    "tags": [
+      "trinity",
+      "heresies",
+      "tri-theism"
+    ],
+    "order": 38
+  },
+  {
+    "cardId": "DOC-C-0039",
+    "subject": "DOC",
+    "topic": "Some Heresies (False Views about the Trinity)",
+    "front": "How did William Barclay answer Modalism?",
+    "back": "\"God is always, from eternity (before time), through time, and when time shall end, Creator, Redeemer, Sustainer and Enlightener.\" A. Wainwright adds, \"God redeems through Christ in the power of the Holy Spirit.\"",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "As William Barclay emphasizes, \"God is always, from eternity (before time), through time, and when time shall end, Creator, Redeemer, Sustainer and Enlightener.\"",
+    "tags": [
+      "trinity",
+      "heresies",
+      "quotations"
+    ],
+    "order": 39
+  },
+  {
+    "cardId": "DOC-C-0040",
+    "subject": "DOC",
+    "topic": "The Trinity",
+    "front": "How do the Westminster and Belgic Confessions state the doctrine of the Trinity?",
+    "back": "Westminster: \"In the unity of the Godhead there are three persons of one substance, power, and eternity.\" Belgic: \"God is one in essence, yet distinguished in three persons.\"",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "The Belgic Confession says the same thing: \"God is one in essence, yet distinguished in three persons.\"",
+    "tags": [
+      "trinity",
+      "confessions"
+    ],
+    "order": 40
+  },
+  {
+    "cardId": "DOC-C-0041",
+    "subject": "DOC",
+    "topic": "The Trinity",
+    "front": "Are there three persons or personalities in God?",
+    "back": "No. \"There are not three persons or personalities in God. God is only one person\" - the one person who is Father, Son and Holy Spirit, having three distinct \"ways of existence\" simultaneously, not in temporal succession.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "It is very important to note that there are not three persons or personalities in God. God is only one person.",
+    "tags": [
+      "trinity",
+      "precision"
+    ],
+    "order": 41
+  },
+  {
+    "cardId": "DOC-C-0042",
+    "subject": "DOC",
+    "topic": "The Biblical Source of the Doctrine of the Trinity",
+    "front": "Does the Bible teach the doctrine of the Trinity?",
+    "back": "No. Neither the word \"trinity\" nor language such as \"three persons\" or \"one substance\" is biblical language; it is the language of the ancient Church, taken from classical Greek philosophy. But the roots of the doctrine are found in Scripture.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "The Bible does not teach the doctrine of the Trinity.",
+    "tags": [
+      "trinity",
+      "biblical-source"
+    ],
+    "order": 42
+  },
+  {
+    "cardId": "DOC-C-0043",
+    "subject": "DOC",
+    "topic": "The Biblical Source of the Doctrine of the Trinity",
+    "front": "What two expressions does Robert Culver give for the inner relations within the Godhead?",
+    "back": "The eternal generation of the Son by the Father; and the eternal aspiration (or procession) of the Spirit from the Father and the Son.",
+    "kind": "term",
+    "scriptureReferences": [
+      "John 1:14",
+      "John 14:16,26"
+    ],
+    "excerpt": "The eternal generation of the Son by the Father; and",
+    "tags": [
+      "trinity",
+      "biblical-source"
+    ],
+    "order": 43
+  },
+  {
+    "cardId": "DOC-C-0044",
+    "subject": "DOC",
+    "topic": "INTRODUCTION",
+    "front": "How does J.N.D. Kelly define a creed?",
+    "back": "\"A creed is a fixed formula that summarizes the essential articles of the Christian religion and enjoys the sanction of ecclesiastical authority.\"",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "According to J.N.D. Kelly, \"A creed is a fixed formula that summarizes the essential articles of the Christian religion and enjoys the sanction of ecclesiastical authority.\"",
+    "tags": [
+      "creeds",
+      "quotations"
+    ],
+    "order": 44
+  },
+  {
+    "cardId": "DOC-C-0045",
+    "subject": "DOC",
+    "topic": "The Nicene Creed",
+    "front": "By whom and when was the Nicene Creed adopted and revised?",
+    "back": "Adopted by the First Council of Nicaea (AD 325), convened by the Roman Emperor Constantine the Great (ruled AD 306-337), and revised by the First Council of Constantinople (AD 381). Nicaea rejected Arianism and proclaimed the divinity and equality of Jesus Christ in the Trinity.",
+    "kind": "event",
+    "scriptureReferences": [],
+    "excerpt": "This is a creed adopted by the First Council of Nicaea (AD. 325) and revised by the First Council of Constantinople (AD. 381).",
+    "tags": [
+      "creeds",
+      "councils",
+      "dates"
+    ],
+    "order": 45
+  },
+  {
+    "cardId": "DOC-C-0046",
+    "subject": "DOC",
+    "topic": "The Athanasian Creed",
+    "front": "What is the Athanasian Creed?",
+    "back": "A Christian creed originating in Europe in the fourth century, relating especially to the doctrines of the Trinity and the bodily incarnation of Christ. It was originally ascribed to Saint Athanasius, but is now believed to be the work of an unknown writer of the time.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "A Christian Creed originating in Europe in the fourth century and relating especially to the doctrines of the Trinity and the bodily incarnation of Christ.",
+    "tags": [
+      "creeds",
+      "athanasian"
+    ],
+    "order": 46
+  },
+  {
+    "cardId": "DOC-C-0047",
+    "subject": "DOC",
+    "topic": "History of the Formulation of the Nicene Creed",
+    "front": "Who was Arius and what did he teach?",
+    "back": "A presbyter from Alexandria. He said the Son (Jesus Christ) was a creature and not God: only God the Father is unbegotten and self-subsistent, the Son is begotten, so there must have been a time when he was not.",
+    "kind": "person",
+    "scriptureReferences": [],
+    "excerpt": "One of those who attempted to give an answer was Arius, a presbyter from Alexandria. He said the Son (Jesus Christ) was a creature and not God.",
+    "tags": [
+      "creeds",
+      "arianism",
+      "people"
+    ],
+    "order": 47
+  },
+  {
+    "cardId": "DOC-C-0048",
+    "subject": "DOC",
+    "topic": "History of the Formulation of the Nicene Creed",
+    "front": "Who opposed Arius and suspended him from office?",
+    "back": "Alexander, Bishop of Alexandria.",
+    "kind": "person",
+    "scriptureReferences": [],
+    "excerpt": "This view was strongly opposed by Alexander, Bishop of Alexandria, who suspended Arius from office.",
+    "tags": [
+      "creeds",
+      "arianism",
+      "people"
+    ],
+    "order": 48
+  },
+  {
+    "cardId": "DOC-C-0049",
+    "subject": "DOC",
+    "topic": "History of the Formulation of the Nicene Creed",
+    "front": "What is homoousios, and where was it enshrined?",
+    "back": "\"Of the same being\" or \"consubstantial\" - the most accurate term the church could find to express the relation of Christ to the Father. It was enshrined by the ecumenical council at Constantinople in 381, which agreed what we now call the Nicene Creed (more accurately the Niceno-Constantinopolitan creed).",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "It enshrined the word homoousios, \"of the same being\" or \"consubstantial\", as the most accurate term the church could find to express the relation of Christ to the Father.",
+    "tags": [
+      "creeds",
+      "homoousios",
+      "greek-terms"
+    ],
+    "order": 49
+  },
+  {
+    "cardId": "DOC-C-0050",
+    "subject": "DOC",
+    "topic": "History of the Formulation of the Nicene Creed",
+    "front": "What is the Filioque?",
+    "back": "The Latin expression for the words \"and the Son\", added in the West under the influence of St. Augustine of Hippo, so that the Creed reads that the Holy Spirit \"proceeds from the Father and the Son\". The Eastern Church preferred to say \"from the Father through the Son\".",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "This new addition was captured in the popular Latin expression Filioque.",
+    "tags": [
+      "creeds",
+      "filioque"
+    ],
+    "order": 50
+  },
+  {
+    "cardId": "DOC-C-0051",
+    "subject": "DOC",
+    "topic": "The Apostle's Creed and its Explanation",
+    "front": "From what Greek words does \"church\" derive, and what is the doctrine of the church called?",
+    "back": "From kyriake (\"belonging to the Lord\") and ekklesia (\"assembly\"). The doctrine of the church is \"ecclesiology\".",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "The word \"church\" derives from the Greek kyriake (\"belonging to the Lord\") and ekklesia (\"assembly\").",
+    "tags": [
+      "creeds",
+      "church",
+      "greek-terms"
+    ],
+    "order": 51
+  },
+  {
+    "cardId": "DOC-C-0052",
+    "subject": "DOC",
+    "topic": "The Apostle's Creed and its Explanation",
+    "front": "What is the difference between the Church Militant and the Church Triumphant?",
+    "back": "Those still in this world, fighting the battle on earth and not yet called home to heaven, constitute the Church Militant; those who battled on earth and have been called home to heaven constitute the Church Triumphant.",
+    "kind": "term",
+    "scriptureReferences": [
+      "Hebrews 12:1"
+    ],
+    "excerpt": "Those who are still in this world and are fighting the battle on earth and have not been called home to heaven constitute the CHURCH MILITANT.",
+    "tags": [
+      "creeds",
+      "church"
+    ],
+    "order": 52
+  },
+  {
+    "cardId": "DOC-C-0053",
+    "subject": "DOC",
+    "topic": "The Apostle's Creed and its Explanation",
+    "front": "What does \"catholic\" mean?",
+    "back": "It is probably derived from the Greek adverbial phrase kath' holou, \"on the whole\". The Catholic Church means the Universal Church - all people throughout the world who believe in Jesus Christ as Saviour and Lord.",
+    "kind": "term",
+    "scriptureReferences": [
+      "Galatians 3:28",
+      "Ephesians 4:4-6"
+    ],
+    "excerpt": "The word catholic is probably derived from the Greek adverbial phrase kath' holou, which means on the whole.",
+    "tags": [
+      "creeds",
+      "church",
+      "greek-terms"
+    ],
+    "order": 53
+  },
+  {
+    "cardId": "DOC-C-0054",
+    "subject": "DOC",
+    "topic": "INTRODUCTION",
+    "front": "What is the millennium, and why do Christians disagree about it?",
+    "back": "A period of one thousand years during which Jesus is to reign upon earth. Some see this as a specific future period, some as symbolic of the age of the church in which we are now living; and even those who take it as a future period differ as to where it fits with other events.",
+    "kind": "definition",
+    "scriptureReferences": [
+      "Daniel 9:27"
+    ],
+    "excerpt": "They disagree about the millennium, a period of one thousand years during which Jesus is to reign upon earth",
+    "tags": [
+      "eschatology",
+      "millennium"
+    ],
+    "order": 54
+  },
+  {
+    "cardId": "DOC-C-0055",
+    "subject": "DOC",
+    "topic": "Christ's Return",
+    "front": "How prominent is the return of Christ in the New Testament?",
+    "back": "One verse in twenty-five deals with the Lord's return; the subject is mentioned 318 times in the 260 chapters, and appears in every New Testament book except Galatians and the very short books such as 2 and 3 John and Philemon.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "In the New Testament, one verse in twenty-five deals with the Lord's return. The subject is mentioned 318 times in the 260 chapters.",
+    "tags": [
+      "eschatology",
+      "second-coming"
+    ],
+    "order": 55
+  },
+  {
+    "cardId": "DOC-C-0056",
+    "subject": "DOC",
+    "topic": "Christ's Return",
+    "front": "What did Paul and Peter call the return of Christ?",
+    "back": "Paul called it \"our blessed hope\" (Titus 2:13); Peter called it our \"living hope\" (1 Pet. 1:3).",
+    "kind": "scripture",
+    "scriptureReferences": [
+      "Titus 2:13",
+      "1 Peter 1:3"
+    ],
+    "excerpt": "Paul called the return of Jesus Christ \"our blessed hope\" (Titus 2:13).",
+    "tags": [
+      "eschatology",
+      "second-coming"
+    ],
+    "order": 56
+  },
+  {
+    "cardId": "DOC-C-0057",
+    "subject": "DOC",
+    "topic": "Resurrection of the Body",
+    "front": "How does God save us in spirit, soul and body?",
+    "back": "He gives us a new spirit in the moment of the new birth; he creates a new soul through the process of sanctification; and at the resurrection he gives us a new body. The salvation he provides is a complete salvation.",
+    "kind": "fact",
+    "scriptureReferences": [
+      "Genesis 2:17"
+    ],
+    "excerpt": "He gives us a new spirit in the moment of the new birth. He creates a new soul through the process of sanctification. At the resurrection he gives us a new body.",
+    "tags": [
+      "eschatology",
+      "resurrection"
+    ],
+    "order": 57
+  },
+  {
+    "cardId": "DOC-C-0058",
+    "subject": "DOC",
+    "topic": "Day of Judgement",
+    "front": "Which three parables did Jesus use to teach what the final judgment would be like?",
+    "back": "The Parable of the Ten Virgins (Maidens) - Matthew 25:1-13; the Parable of the Talents - Matthew 25:14-30; and the Parable of the Sheep and Goats - Matthew 25:31-46.",
+    "kind": "scripture",
+    "scriptureReferences": [
+      "Matthew 25:1-13",
+      "Matthew 25:14-30",
+      "Matthew 25:31-46"
+    ],
+    "excerpt": "The Parable of the Ten Virgins (Maidens) \t-     Matthew 25:1-13",
+    "tags": [
+      "eschatology",
+      "judgement",
+      "parables"
+    ],
+    "order": 58
+  },
+  {
+    "cardId": "DOC-C-0059",
+    "subject": "DOC",
+    "topic": "Day of Judgement",
+    "front": "What four features do all three judgment parables share?",
+    "back": "There is a sudden return of the Lord; some are prepared for his coming and others are not; there are rewards and judgments; and those who are lost are no doubt amazed at that outcome.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "All three parables contain the same essential features, though each is different from the others in detail.",
+    "tags": [
+      "eschatology",
+      "judgement",
+      "parables"
+    ],
+    "order": 59
+  }
+]

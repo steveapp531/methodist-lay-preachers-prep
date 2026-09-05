@@ -1,0 +1,883 @@
+[
+  {
+    "cardId": "LIT-C-0001",
+    "subject": "LIT",
+    "topic": "SENTENCES",
+    "front": "What are the \"sentences\" in the liturgy?",
+    "back": "Scriptural passages selected to be read to the congregation at worship services; those in the liturgy are for guidance and others may be selected to suit specific occasions.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "These are scriptural passages selected to be read to the congregation at worship services.",
+    "tags": [
+      "sentences"
+    ],
+    "order": 1
+  },
+  {
+    "cardId": "LIT-C-0002",
+    "subject": "LIT",
+    "topic": "SENTENCES",
+    "front": "Name the four \"preliminaries\" which preceded the readings from the late seventh century.",
+    "back": "The Introit, the Kyries, the Gloria and the Collect.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "the readings were preceded by four distinct items: The Introit, The Kyries, The Gloria, and Collect. These are known as the preliminaries.",
+    "tags": [
+      "preliminaries"
+    ],
+    "order": 2
+  },
+  {
+    "cardId": "LIT-C-0003",
+    "subject": "LIT",
+    "topic": "Introit",
+    "front": "From what word does \"Introit\" come, and what does it mean?",
+    "back": "From the Latin \"introitus\", meaning entry or entrance. It is a hymn or psalm sung when the ministers enter at the opening of a service.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "comes from a Latin word \"introitus\" which means entry or entrance.",
+    "tags": [
+      "introit"
+    ],
+    "order": 3
+  },
+  {
+    "cardId": "LIT-C-0004",
+    "subject": "LIT",
+    "topic": "Introit",
+    "front": "To what date and to which Pope do older liturgists trace the Introit?",
+    "back": "To the fifth century, and to Pope Celestine 1 (d. 432).",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "The introit, according to older liturgists, dates from the fifth century, from Pope Celestine 1 (d. 432).",
+    "tags": [
+      "introit",
+      "dates"
+    ],
+    "order": 4
+  },
+  {
+    "cardId": "LIT-C-0005",
+    "subject": "LIT",
+    "topic": "Kyries Eleison (Invocation)",
+    "front": "What does \"Kyrie eleison\" mean, and what does it stand for?",
+    "back": "It stands for Invocation in the Greek language and means \"Lord have mercy.\"",
+    "kind": "term",
+    "scriptureReferences": [
+      "Psalm 50:1",
+      "Matthew 9:27"
+    ],
+    "excerpt": "Background: This stands for Invocation in the Greek language, \"Lord have mercy.\"",
+    "tags": [
+      "kyries"
+    ],
+    "order": 5
+  },
+  {
+    "cardId": "LIT-C-0006",
+    "subject": "LIT",
+    "topic": "The Gloria",
+    "front": "What is the Gloria, and where does its opening line come from?",
+    "back": "An ancient hymn of praise to the Trinity, in use since the second century; its opening line is taken from Luke 2:14, where the angels announce the birth of Christ to the shepherds.",
+    "kind": "definition",
+    "scriptureReferences": [
+      "Luke 2:14"
+    ],
+    "excerpt": "The Gloria is an ancient hymn of praise to the Trinity that has been in use in the Church since the second century.",
+    "tags": [
+      "gloria"
+    ],
+    "order": 6
+  },
+  {
+    "cardId": "LIT-C-0007",
+    "subject": "LIT",
+    "topic": "The Collect",
+    "front": "From what does the name \"Collect\" derive?",
+    "back": "From the Gallican rite, Collectio, later Collecta; it refers to the collecting or summing up of the people's intercession, and comes from the Latin meaning to bring together into a sentence.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "The name derives from the Gallican rite, Collectio, later Collecta; and refers to the function of the prayer, to its collecting or summing up of the people's intercession, as was once thought.",
+    "tags": [
+      "collect"
+    ],
+    "order": 7
+  },
+  {
+    "cardId": "LIT-C-0008",
+    "subject": "LIT",
+    "topic": "The Collect",
+    "front": "What are the five parts of the form of a Collect?",
+    "back": "An address to God; a clause referring to some attribute or saving act of God; the petition; the purpose for which we ask; the conclusion.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Their form consists of:",
+    "tags": [
+      "collect",
+      "structure"
+    ],
+    "order": 8
+  },
+  {
+    "cardId": "LIT-C-0009",
+    "subject": "LIT",
+    "topic": "CHANT",
+    "front": "Which canticles are chanted between the readings in modern Ghanaian Methodist worship?",
+    "back": "The Te Deum Laudamus, Venite Exultemus Domino, Benedicite Omnia Opera and the Cantemus Cuncti.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "canticles like the Te Deum Laudamus, Venite Exultemus Domino, Benedicite Omnia Opera and the Cantemus Cuncti are chanted in between the readings.",
+    "tags": [
+      "chant",
+      "canticles"
+    ],
+    "order": 9
+  },
+  {
+    "cardId": "LIT-C-0010",
+    "subject": "LIT",
+    "topic": "THE CREEDS",
+    "front": "Which creeds are commonly used among Ghanaian Methodists?",
+    "back": "The Apostles' Creed and the Nicene Creed. Creeds confirm the faithful in their faith and strengthen their corporate unity.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "The Apostles' Creed and the Nicene Creed are the commonly used among Ghanaian Methodists in affirming our faith.",
+    "tags": [
+      "creeds"
+    ],
+    "order": 10
+  },
+  {
+    "cardId": "LIT-C-0011",
+    "subject": "LIT",
+    "topic": "Outline Of The New Order For Sunday Morning Worship",
+    "front": "What are the first five items of the New Order for Sunday Morning Worship?",
+    "back": "Call to Worship; Introit; Hymn; Prayer; Hymn/Lyric.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Call to Worship",
+    "tags": [
+      "order-of-service"
+    ],
+    "order": 11
+  },
+  {
+    "cardId": "LIT-C-0012",
+    "subject": "LIT",
+    "topic": "Outline Of The New Order For Sunday Morning Worship",
+    "front": "What four items make up the Ministry of the Word in the New Order?",
+    "back": "The Old Testament, the Epistle, the Te Deum and the Gospel Reading.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "The Ministry of the Word",
+    "tags": [
+      "order-of-service"
+    ],
+    "order": 12
+  },
+  {
+    "cardId": "LIT-C-0013",
+    "subject": "LIT",
+    "topic": "Outline Of The New Order For Sunday Morning Worship",
+    "front": "What are the last five items of the New Order for Sunday Morning Worship?",
+    "back": "Invitation to Christian Discipleship; Announcements; Tithes and Offertory; Hymn; Benediction and Dismissal.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Benediction and Dismissal",
+    "tags": [
+      "order-of-service"
+    ],
+    "order": 13
+  },
+  {
+    "cardId": "LIT-C-0014",
+    "subject": "LIT",
+    "topic": "Affirmation of Faith",
+    "front": "When is the Apostles' Creed used, and when the Nicene Creed?",
+    "back": "The Apostles' Creed on ordinary occasions; the Nicene Creed on Communion Sundays, Christmas, Easter and other special days.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Generally, the Apostle's Creed is said on ordinary occasions and the Nicene Creed on \nCommunion Sundays, Christmas, Easter and other special days.",
+    "tags": [
+      "creeds"
+    ],
+    "order": 14
+  },
+  {
+    "cardId": "LIT-C-0015",
+    "subject": "LIT",
+    "topic": "Affirmation of Faith",
+    "front": "What is the purpose of a creed, and what did the Greek \"sumbolon\" mean?",
+    "back": "A creed acts as a yardstick of correct belief. Sumbolon meant half of a broken object which, placed with the other half, verified the bearer's identity.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "The purpose of a creed is to act as a yardstick of correct belief.",
+    "tags": [
+      "creeds"
+    ],
+    "order": 15
+  },
+  {
+    "cardId": "LIT-C-0016",
+    "subject": "LIT",
+    "topic": "Affirmation of Faith",
+    "front": "Where and when was the Nicene Creed adopted, and against whom?",
+    "back": "In the city of Nicaea in 325, in the face of the Arian controversy raised by Arius, a Libyan preacher.",
+    "kind": "event",
+    "scriptureReferences": [],
+    "excerpt": "It is called Nicene because, in its original form, it was adopted in the city of Nicaea in 325.",
+    "tags": [
+      "creeds",
+      "dates"
+    ],
+    "order": 16
+  },
+  {
+    "cardId": "LIT-C-0017",
+    "subject": "LIT",
+    "topic": "INTRODUCTION",
+    "front": "How does Bernard Manning describe preaching the sermon?",
+    "back": "As a \"manifestation of the Incarnate Word, from the written word, by the spoken word\"; also as an assault upon Hell's gate and a deed not of man but of God.",
+    "kind": "person",
+    "scriptureReferences": [],
+    "excerpt": "Bernard Manning therefore sees preaching the sermon as \"manifestation of the Incarnate \nWord, from the written word, by the spoken word\".",
+    "tags": [
+      "preaching"
+    ],
+    "order": 17
+  },
+  {
+    "cardId": "LIT-C-0018",
+    "subject": "LIT",
+    "topic": "INTRODUCTION",
+    "front": "How does Bultman define preaching?",
+    "back": "As \"the communication of Biblical truth by man to man with the explicit purpose of eliciting behavourial change\".",
+    "kind": "person",
+    "scriptureReferences": [],
+    "excerpt": "Bultman also defines preaching as \"the communication of Biblical truth by man to man with the explicit purpose of eliciting behavourial change\".",
+    "tags": [
+      "preaching"
+    ],
+    "order": 18
+  },
+  {
+    "cardId": "LIT-C-0019",
+    "subject": "LIT",
+    "topic": "INTRODUCTION",
+    "front": "What are the three purposes of preaching?",
+    "back": "Proclaiming the Gospel (kerygmatic), teaching (didactic), and therapeutic — aimed at healing the broken spirit and broken society.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "The purposes of preaching then are: proclaiming the Gospel (kerygmatic), teaching (didactic) as well as it being therapeutic i.e. aimed at healing the broken spirit and broken society.",
+    "tags": [
+      "preaching"
+    ],
+    "order": 19
+  },
+  {
+    "cardId": "LIT-C-0020",
+    "subject": "LIT",
+    "topic": "The Text",
+    "front": "From what does the word \"text\" come, and what does it imply?",
+    "back": "From the Latin \"textus\"; it implies something woven. In a topical sermon there may be no need to choose a text.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "The word text is from the Latin 'textus'. It implies something woven.",
+    "tags": [
+      "text"
+    ],
+    "order": 20
+  },
+  {
+    "cardId": "LIT-C-0021",
+    "subject": "LIT",
+    "topic": "Exegesis and Hermeneutics",
+    "front": "How are exegesis and hermeneutics distinguished?",
+    "back": "Exegesis aims at understanding the text in itself; hermeneutics attempts to elucidate what the text means for the modern interpreter and the people of his culture.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "\"Exegesis aims at understanding the text in itself while hermeneutics attempts to elucidate what the text means for the modern interpreter and the people of his culture.\"",
+    "tags": [
+      "exegesis",
+      "hermeneutics"
+    ],
+    "order": 21
+  },
+  {
+    "cardId": "LIT-C-0022",
+    "subject": "LIT",
+    "topic": "Exegesis and Hermeneutics",
+    "front": "What are the steps in exegesis?",
+    "back": "The text; the context; the historical setting; the geography of the land of the Bible; culture; and the circumstances peculiar to the writer.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "The following points help the preacher in his/her sermon preparation to undertake a \nproper exegesis:",
+    "tags": [
+      "exegesis"
+    ],
+    "order": 22
+  },
+  {
+    "cardId": "LIT-C-0023",
+    "subject": "LIT",
+    "topic": "TYPES OF SERMONS",
+    "front": "How have sermons been described in the syllabus?",
+    "back": "As personal testimony, biographical, historical incident, topical, textual, expository, springboard or narrative.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Sermons have been described as personal testimony, biographical, historical incident, topical, textual, expository, springboard or narrative.",
+    "tags": [
+      "sermon-types"
+    ],
+    "order": 23
+  },
+  {
+    "cardId": "LIT-C-0024",
+    "subject": "LIT",
+    "topic": "Topical Sermon",
+    "front": "What is a topical sermon?",
+    "back": "Preaching on a subject: one chooses the subject, finds all the Scripture relating to it and forms that material into a sermon. It takes only its subject from the text.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "A Topical Sermon is preaching on a subject. One chooses the subject and then finds all the Scripture that relates to that subject and forms that material into a sermon.",
+    "tags": [
+      "sermon-types",
+      "topical"
+    ],
+    "order": 24
+  },
+  {
+    "cardId": "LIT-C-0025",
+    "subject": "LIT",
+    "topic": "Textual Sermons",
+    "front": "What is a textual sermon, and what method does it use?",
+    "back": "The preacher takes a few verses, a verse or part of a verse, discovers its theme in context and preaches on it in his own words, using the \"hook-book-look-and took\" method.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "In Textual sermons, the preacher takes a few verses, a verse, or even a part of a verse from \nthe Bible.",
+    "tags": [
+      "sermon-types",
+      "textual"
+    ],
+    "order": 25
+  },
+  {
+    "cardId": "LIT-C-0026",
+    "subject": "LIT",
+    "topic": "Expository Sermons",
+    "front": "What is an expository sermon?",
+    "back": "The preacher selects a paragraph of Scripture, discovers the theme from the passage and develops it point by point using evidence from the chosen paragraphs.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "Preachers who preach expository sermons select a paragraph of Scripture, discover the theme from the passage and develop it point by point using evidence from the chosen paragraphs.",
+    "tags": [
+      "sermon-types",
+      "expository"
+    ],
+    "order": 26
+  },
+  {
+    "cardId": "LIT-C-0027",
+    "subject": "LIT",
+    "topic": "Expository Sermons",
+    "front": "What three elements aid the study of a passage for an expository sermon?",
+    "back": "Statements (sentences that report facts); Expressions (which demonstrate emotion); Prescriptive (sentences that describe what is to be done).",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "1. Statements: These elements are sentences that report facts.",
+    "tags": [
+      "sermon-types",
+      "expository"
+    ],
+    "order": 27
+  },
+  {
+    "cardId": "LIT-C-0028",
+    "subject": "LIT",
+    "topic": "Expository Sermons",
+    "front": "What is eisegesis?",
+    "back": "The \"art\" of reading preconceived opinions into the text, as opposed to exegesis, the honest critical analysis or interpretation of the passage.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "Eisegesis (the \"art\" of reading preconceived \nopinions into the text)",
+    "tags": [
+      "expository",
+      "exegesis"
+    ],
+    "order": 28
+  },
+  {
+    "cardId": "LIT-C-0029",
+    "subject": "LIT",
+    "topic": "Ending your Sermon",
+    "front": "What is \"the peak of your delivery\"?",
+    "back": "The point in the sermon where anything said again brings down the excitement and joy of the listeners.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "The peak of your delivery is the point in your sermon where, anything said again brings down the excitement and the joy of your listeners.",
+    "tags": [
+      "delivery"
+    ],
+    "order": 29
+  },
+  {
+    "cardId": "LIT-C-0030",
+    "subject": "LIT",
+    "topic": "WHEN TO SELECT HYMNS",
+    "front": "When is the most appropriate time to select hymns?",
+    "back": "When you have finished preparing your sermon, or at least when the first draft, outline or sketch is done.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "The most appropriate time to select your hymns is when you have finished preparing your sermon or at least when the first draft, \noutline or sketch, as you may call it, is done.",
+    "tags": [
+      "hymns"
+    ],
+    "order": 30
+  },
+  {
+    "cardId": "LIT-C-0031",
+    "subject": "LIT",
+    "topic": "THE CHOICE OF HYMNS",
+    "front": "What are the roles of the four hymns in a Methodist service?",
+    "back": "First: praise and/or adoration. Second: invocation. Third: the sermon hymn. Closing: the hymn of response.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "The first hymn in our services always serves as hymn of praise and/or adoration.",
+    "tags": [
+      "hymns"
+    ],
+    "order": 31
+  },
+  {
+    "cardId": "LIT-C-0032",
+    "subject": "LIT",
+    "topic": "THE CHOICE OF HYMNS",
+    "front": "Which MHB ranges are named for the hymn of praise and the hymn of invocation?",
+    "back": "Praise: MHB 1 to 35 and MHB 82 to 116. Invocation: MHB 273 to MHB 301.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Preachers have often \nchosen hymns from MHB 273 to MHB 301 as the second hymn.",
+    "tags": [
+      "hymns",
+      "mhb"
+    ],
+    "order": 32
+  },
+  {
+    "cardId": "LIT-C-0033",
+    "subject": "LIT",
+    "topic": "Factors to Consider in Choosing the Sermon Hymn and the Closing Hymn",
+    "front": "What is \"the proposition\" in a sermon?",
+    "back": "The central thought in the sermon; it contains the main message and the desired response, and is thought to do the best job as an aid to hymn selection.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "The proposition is the central thought in the sermon. It contains the main message and the desired response.",
+    "tags": [
+      "hymns",
+      "proposition"
+    ],
+    "order": 33
+  },
+  {
+    "cardId": "LIT-C-0034",
+    "subject": "LIT",
+    "topic": "COMMON PROBLEMS IN SERMON PREPARATION",
+    "front": "What is the major problem preachers face which makes hymn selection suffer?",
+    "back": "The time to get settled and prepare sermons; many prepare on Saturday night or Sunday morning.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "One major problem preachers commonly face is the time to get settled and prepare sermons.",
+    "tags": [
+      "hymns",
+      "problems"
+    ],
+    "order": 34
+  },
+  {
+    "cardId": "LIT-C-0035",
+    "subject": "LIT",
+    "topic": "WHAT IS PRAYER?",
+    "front": "What is prayer?",
+    "back": "A conversation or communication with God; the means by which we link our souls with the Spirit of God and convey our heart's desires and concerns to Him.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "Prayer is a conversation or communication with God.",
+    "tags": [
+      "prayer"
+    ],
+    "order": 35
+  },
+  {
+    "cardId": "LIT-C-0036",
+    "subject": "LIT",
+    "topic": "INTRODUCTION",
+    "front": "What did John Wesley say about prayer in his sermon \"Means of Grace\"?",
+    "back": "\"All who desire the grace of God are to wait for it in the way of prayer.\"",
+    "kind": "person",
+    "scriptureReferences": [],
+    "excerpt": "John Wesley, in his sermon, \"Means of Grace,\" said, \"All who desire the grace of God are to wait for it in the way of prayer.\"",
+    "tags": [
+      "prayer",
+      "wesley"
+    ],
+    "order": 36
+  },
+  {
+    "cardId": "LIT-C-0037",
+    "subject": "LIT",
+    "topic": "PERSISTENCE IN PRAYER",
+    "front": "What does P.U.S.H. mean?",
+    "back": "\"Pray Until Something Happens\" — after asking without receiving and seeking without finding, you must knock hard.",
+    "kind": "term",
+    "scriptureReferences": [
+      "Matthew 7:7-9"
+    ],
+    "excerpt": "you may need to P.U.S.H. -literally meaning 'Pray Until Something Happens.'",
+    "tags": [
+      "prayer"
+    ],
+    "order": 37
+  },
+  {
+    "cardId": "LIT-C-0038",
+    "subject": "LIT",
+    "topic": "PERSISTENCE IN PRAYER",
+    "front": "Who was George Muller, and what does his example teach?",
+    "back": "A German-born English preacher, a man of prayer who lived by faith. He prayed for five people; the last was saved after fifty-two years, just after Muller's death.",
+    "kind": "person",
+    "scriptureReferences": [],
+    "excerpt": "George Muller was a German-born English preacher and was referred to as a man of prayer who lived by faith.",
+    "tags": [
+      "prayer",
+      "persistence"
+    ],
+    "order": 38
+  },
+  {
+    "cardId": "LIT-C-0039",
+    "subject": "LIT",
+    "topic": "THE CONTENT OF PRAYER",
+    "front": "What are the four elements of the content of prayer?",
+    "back": "CATS (Confession, Adoration, Thanksgiving and Supplication) or ACTS (Adoration, Confession, Thanksgiving and Supplication).",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "This formula is popularly known as CATS (Confession, Adoration, Thanksgiving and Supplication) or ACTS (Adoration, \nConfession, Thanksgiving and Supplication).",
+    "tags": [
+      "prayer",
+      "content"
+    ],
+    "order": 39
+  },
+  {
+    "cardId": "LIT-C-0040",
+    "subject": "LIT",
+    "topic": "Supplication",
+    "front": "What does supplication include?",
+    "back": "Petition, which is asking God for personal things, and intercession, which is prayer for others.",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "Supplication includes petition for our own needs and intercession for others.",
+    "tags": [
+      "prayer",
+      "supplication"
+    ],
+    "order": 40
+  },
+  {
+    "cardId": "LIT-C-0041",
+    "subject": "LIT",
+    "topic": "ATTITUDES AND PRAYER",
+    "front": "What attitudes does prayer generate?",
+    "back": "Trust, faith, confidence and hope; also humility, self-abasement and self-surrender.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "There is intimacy which generates the attitude of trust, faith, confidence and hope. Other attitudes are humility, self-abasement, and self-surrender.",
+    "tags": [
+      "prayer",
+      "attitudes"
+    ],
+    "order": 41
+  },
+  {
+    "cardId": "LIT-C-0042",
+    "subject": "LIT",
+    "topic": "INTRODUCTION",
+    "front": "Name the general Christian festivals in the order in which they appear on the calendar.",
+    "back": "Advent Sunday, Christmas, Epiphany, Ash Wednesday, Lent, Palm Sunday, Good Friday, Easter (Resurrection Day), Ascension, Pentecost, Trinity.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "The general ones are listed below in the order of appearance on the \nChristian calendar and the time of year celebrated.",
+    "tags": [
+      "festivals",
+      "calendar"
+    ],
+    "order": 42
+  },
+  {
+    "cardId": "LIT-C-0043",
+    "subject": "LIT",
+    "topic": "Background to the Date for Easter Celebration",
+    "front": "Who were the \"Quartodecimans\"?",
+    "back": "Those who kept Easter on the 14th Nisan, the same day as the Jewish Passover, whatever the day of the week.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "Those who kept Easter on the 14th Nisan were known as \"Quartodecimans\".",
+    "tags": [
+      "easter"
+    ],
+    "order": 43
+  },
+  {
+    "cardId": "LIT-C-0044",
+    "subject": "LIT",
+    "topic": "PENTECOST",
+    "front": "When is Pentecost celebrated, and what was it in Judaism?",
+    "back": "On the 50th day after Easter, the 7th Sunday after Easter. In Judaism it was a harvest festival, also known as the Feast of Weeks and the Feast of First Fruits.",
+    "kind": "fact",
+    "scriptureReferences": [
+      "Leviticus 23:5-21"
+    ],
+    "excerpt": "In Judaism, Pentecost was a harvest festival which was also known as the Feast of Weeks \n(Lev. 23:5-21), the Feast of First Fruits.",
+    "tags": [
+      "pentecost"
+    ],
+    "order": 44
+  },
+  {
+    "cardId": "LIT-C-0045",
+    "subject": "LIT",
+    "topic": "PENTECOST",
+    "front": "Why is Pentecost called Whitsunday, and what did Athanasius call it?",
+    "back": "From the white robes worn by catechumens baptized that day, or from \"wit\" meaning wisdom. Athanasius called it \"Magna Dominica\", the \"Great Sunday\".",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "St. Athanasius calls it \"Magna Dominica\" the \"Great Sunday\"",
+    "tags": [
+      "pentecost"
+    ],
+    "order": 45
+  },
+  {
+    "cardId": "LIT-C-0046",
+    "subject": "LIT",
+    "topic": "LENT",
+    "front": "What is Lent, and where does the word come from?",
+    "back": "A period of 40 days, determined by the length of our Lord's fast in the wilderness. The word comes from the Anglo Saxon \"Lenten\", meaning \"spring\". It runs from Ash Wednesday to Holy Saturday.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "The word lent comes from an Anglo Saxon word \"Lenten\" which means \"spring\".",
+    "tags": [
+      "lent"
+    ],
+    "order": 46
+  },
+  {
+    "cardId": "LIT-C-0047",
+    "subject": "LIT",
+    "topic": "CHRISTMAS/ EPIPHANY",
+    "front": "What does \"Epiphany\" mean, and what was it connected with?",
+    "back": "From the Greek epiphania, meaning manifestation; it also stands for \"appearing\". It was connected with Christ's baptism, nativity and the miracle at Cana.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "Epiphany comes from, the Greek word epiphania, which means manifestation.",
+    "tags": [
+      "epiphany"
+    ],
+    "order": 47
+  },
+  {
+    "cardId": "LIT-C-0048",
+    "subject": "LIT",
+    "topic": "CHRISTMAS/ EPIPHANY",
+    "front": "From what is the word \"Christmas\" derived?",
+    "back": "From Christ + Mass: the special mass or worship service said during the celebration of Christ's birth, from the season's first service, the Christ Mass.",
+    "kind": "term",
+    "scriptureReferences": [],
+    "excerpt": "The word Christmas is derived from a combination of two words i.e. Christ + Mass.",
+    "tags": [
+      "christmas"
+    ],
+    "order": 48
+  },
+  {
+    "cardId": "LIT-C-0049",
+    "subject": "LIT",
+    "topic": "CHRISTMAS/ EPIPHANY",
+    "front": "What are the four Sundays of Advent about?",
+    "back": "The second coming of Christ (Advent Sunday); preparation for the incarnation in Old Testament prophecy; the ministry of John the Baptist; and the vocations of the Blessed Virgin Mary and St. Joseph.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "These are the second coming of Christ (Advent Sunday), \nPreparation for the incarnation in Old Testament prophecy, the Ministry of John the \nBaptist, and the vocations of Blessed Virgin Mary and St. Joseph.",
+    "tags": [
+      "advent"
+    ],
+    "order": 49
+  },
+  {
+    "cardId": "LIT-C-0050",
+    "subject": "LIT",
+    "topic": "COVENANT SUNDAY",
+    "front": "When and where was the first Covenant Service held?",
+    "back": "In the French Church at Spitfalfields on August 11, 1755, when Wesley recited the words of Richard Alleine. Covenant Sunday is peculiar to Methodists all over the world.",
+    "kind": "event",
+    "scriptureReferences": [],
+    "excerpt": "His first Covenant Service was held in the French Church at Spitfalfields on August 11, 1755, when he recited the words of \"that blessed man Richard Alleine\"",
+    "tags": [
+      "covenant",
+      "wesley"
+    ],
+    "order": 50
+  },
+  {
+    "cardId": "LIT-C-0051",
+    "subject": "LIT",
+    "topic": "COLOURS FOR THE SEASONS",
+    "front": "What are the two cycles of the Christian year, and their sequence of colours?",
+    "back": "The Christmas Cycle (Advent-Christmas-Epiphany) and the Easter Cycle (Lent-Easter-Pentecost). In each: purple for the preparatory season, white for the festival season, green for ordinary time.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "The Christian year contains two cycles: The Christmas Cycle (Advent-Christmas-Epiphany) and the Easter Cycle (Lent-Easter-Pentecost).",
+    "tags": [
+      "colours"
+    ],
+    "order": 51
+  },
+  {
+    "cardId": "LIT-C-0052",
+    "subject": "LIT",
+    "topic": "COLOURS FOR THE SEASONS",
+    "front": "What does purple signify, and when is it used?",
+    "back": "Both penitence and royalty; used during the preparatory seasons of Advent and Lent. Blue, a colour of hope, may also be used during Advent.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Purple is a colour of both penitence and royalty used during the preparatory seasons of \nAdvent and Lent.",
+    "tags": [
+      "colours"
+    ],
+    "order": 52
+  },
+  {
+    "cardId": "LIT-C-0053",
+    "subject": "LIT",
+    "topic": "COLOURS FOR THE SEASONS",
+    "front": "When are white and gold used?",
+    "back": "During the Christmas and Easter seasons (except on the Day of Pentecost), on festive days such as Baptism of the Lord, Transfiguration, Trinity, All Saints and Christ the King, and at weddings, baptisms and Holy Communion.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "White and gold are joyous and festive colours used during the Christmas and Easter \nSeasons (except on the Day of Pentecost)",
+    "tags": [
+      "colours"
+    ],
+    "order": 53
+  },
+  {
+    "cardId": "LIT-C-0054",
+    "subject": "LIT",
+    "topic": "COLOURS FOR THE SEASONS",
+    "front": "What does red signify, and when is it used?",
+    "back": "It is the colour of fire, symbolizing the Holy Spirit, and also the blood of Christ and of the martyrs. It is used on the Day of Pentecost, for evangelistic services, ordinations, consecrations, anniversaries and homecomings, and in Holy Week from Passion/Palm Sunday.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Red is a colour of fire, symbolizing the Hoy Spirit.",
+    "tags": [
+      "colours"
+    ],
+    "order": 54
+  },
+  {
+    "cardId": "LIT-C-0055",
+    "subject": "LIT",
+    "topic": "COLOURS FOR THE SEASONS",
+    "front": "What does green signify, and when is it used?",
+    "back": "It is a colour of growth, used in the seasons after Epiphany and after Pentecost, except when special days call for white or red.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "Green is a colour of growth, used in the seasons after Epiphany and after Pentecost except when special days call for white or red.",
+    "tags": [
+      "colours"
+    ],
+    "order": 55
+  },
+  {
+    "cardId": "LIT-C-0056",
+    "subject": "LIT",
+    "topic": "WHAT IS CULTURE?",
+    "front": "What is culture?",
+    "back": "The accumulated habits, attitudes and beliefs of a group of people that define for them their general behaviour and way of life. It is dynamic, progressive, interactive, \"maturational\" and \"acquisitional\".",
+    "kind": "definition",
+    "scriptureReferences": [],
+    "excerpt": "Culture may be viewed as the accumulated habits, attitudes, and beliefs of a group of people that define for them their general behavior and way of life.",
+    "tags": [
+      "culture"
+    ],
+    "order": 56
+  },
+  {
+    "cardId": "LIT-C-0057",
+    "subject": "LIT",
+    "topic": "THE MEANING OF CULTURAL RELEVANCE OF WORSHIP",
+    "front": "What is the cultural relevance of worship?",
+    "back": "A process by which the church, in its mission of preaching the gospel, becomes culturally sensitive and thus relevant to her context while remaining doctrinally pure. It is not political correctness nor a watering down of the gospel.",
+    "kind": "definition",
+    "scriptureReferences": [
+      "Matthew 28:19",
+      "1 Corinthians 9:22"
+    ],
+    "excerpt": "Rather it is a process by which the church, in its mission of preaching the gospel, becomes culturally sensitive and thus relevant to her context while remaining doctrinally pure.",
+    "tags": [
+      "culture"
+    ],
+    "order": 57
+  },
+  {
+    "cardId": "LIT-C-0058",
+    "subject": "LIT",
+    "topic": "The \"Unchangeables'\"",
+    "front": "What are the three \"unchangeables\" in worship?",
+    "back": "Jesus; the Word of God; and Divine Principles.",
+    "kind": "fact",
+    "scriptureReferences": [
+      "Hebrews 13:8",
+      "Isaiah 40:8",
+      "Titus 1:9"
+    ],
+    "excerpt": "4.1.1\t Jesus",
+    "tags": [
+      "culture",
+      "unchangeables"
+    ],
+    "order": 58
+  },
+  {
+    "cardId": "LIT-C-0059",
+    "subject": "LIT",
+    "topic": "The Changeables",
+    "front": "What are the \"changeables\" in worship?",
+    "back": "Change comes with age; ministry methods change (worship styles, technology, outreach and teaching methods); and God Himself is a God of change.",
+    "kind": "fact",
+    "scriptureReferences": [],
+    "excerpt": "We change physically as we age.",
+    "tags": [
+      "culture",
+      "changeables"
+    ],
+    "order": 59
+  },
+  {
+    "cardId": "LIT-C-0060",
+    "subject": "LIT",
+    "topic": "Meeting the challenges",
+    "front": "What is a worldview, and what three things help the church meet the challenge of cultural relevance?",
+    "back": "A worldview is the lenses through which we see our world. The three are: obtain a biblical worldview; embrace new methodologies; be creative in worship.",
+    "kind": "definition",
+    "scriptureReferences": [
+      "Galatians 3:28"
+    ],
+    "excerpt": "A worldview is quite simply the lenses through which we see our world.",
+    "tags": [
+      "culture",
+      "worldview"
+    ],
+    "order": 60
+  }
+]
