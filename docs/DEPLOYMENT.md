@@ -95,7 +95,7 @@ Mongo uses `test`. If your password contains `@ : / ? # [ ] %`, URL-encode it (`
 | `MONGODB_URI` | your Atlas connection string |
 | `JWT_ACCESS_SECRET` | the first generated secret |
 | `JWT_REFRESH_SECRET` | the second generated secret |
-| `CORS_ORIGINS` | your web address — set this after step 4 |
+| `CORS_ORIGINS` | `https://methodist-lay-preachers-prep.vercel.app` |
 | `TRUST_PROXY` | `true` |
 | `ACCESS_TOKEN_TTL` | `30m` |
 | `REFRESH_TOKEN_TTL` | `30d` |
@@ -139,7 +139,7 @@ Environment variable:
 
 | Key | Value |
 | --- | --- |
-| `VITE_API_URL` | `https://lay-preachers-api.onrender.com/api` |
+| `VITE_API_URL` | `https://methodist-lay-preachers-prep.onrender.com/api` |
 
 **Include `/api` at the end.** Leaving it off is the single most common mistake here — every
 request 404s.
@@ -173,7 +173,7 @@ Same `VITE_API_URL` variable, and create `frontend/public/_redirects`:
 Go back to Render and set `CORS_ORIGINS` to your deployed web address, exactly:
 
 ```
-CORS_ORIGINS=https://your-app.vercel.app
+CORS_ORIGINS=https://methodist-lay-preachers-prep.vercel.app
 ```
 
 No trailing slash. No path. Several origins are comma-separated, which is how you add a custom

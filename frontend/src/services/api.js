@@ -7,7 +7,9 @@
  * and concurrent 401s share a single refresh rather than stampeding.
  */
 
-const BASE_URL = import.meta.env.VITE_API_URL || '/api';
+const BASE_URL =
+  import.meta.env.VITE_API_URL ||
+  (import.meta.env.PROD ? 'https://methodist-lay-preachers-prep.onrender.com/api' : '/api');
 
 let accessToken = null;
 let refreshPromise = null;

@@ -61,11 +61,9 @@ export const env = {
   REFRESH_TOKEN_TTL: process.env.REFRESH_TOKEN_TTL || '30d',
   REFRESH_COOKIE_NAME: process.env.REFRESH_COOKIE_NAME || 'mlpp_refresh',
 
-  CORS_ORIGINS: list(process.env.CORS_ORIGINS, [
-    'http://localhost:5173',
-    'http://127.0.0.1:5173',
-    'http://localhost:4173',
-  ]),
+  CORS_ORIGINS: list(process.env.CORS_ORIGINS, isProd
+    ? ['https://methodist-lay-preachers-prep.vercel.app']
+    : ['http://localhost:5173', 'http://127.0.0.1:5173', 'http://localhost:4173']),
   TRUST_PROXY: bool(process.env.TRUST_PROXY, isProd),
 
   // Optional AI grading. Absent key => deterministic rubric engine only.
