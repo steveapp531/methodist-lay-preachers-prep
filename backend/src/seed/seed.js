@@ -16,6 +16,19 @@ import { buildScriptureIndex, ensureExam, loadManual, readJson } from './loadMan
 const RESET = process.argv.includes('--reset');
 const SKIP_QUESTIONS = process.argv.includes('--manual-only');
 
+function normaliseScriptureReferences(references = []) {
+  return references.map((reference) => {
+    if (typeof reference !== 'string') return reference;
+    const match = reference.trim().match(/^((?:[1-3]\s*)?[A-Za-z][A-Za-z\s.]*)\s+(\d{1,3})(?::([\d\-,\s]+))?$/);
+    if (!match) return null;
+    return {
+      book: match[1].trim().replace(/\.$/, ''),
+      chapter: Number(match[2]),
+      verses: match[3] ? match[3].replace(/\s/g, '') : '',
+    };
+  }).filter(Boolean);
+}
+
 /**
  * Seeds the database from the files in `data/part2`.
  *
@@ -158,7 +171,7 @@ async function seed() {
           front: card.front,
           back: card.back,
           kind: card.kind || 'fact',
-          scriptureReferences: card.scriptureReferences || [],
+          scriptureReferences: normaliseScriptureReferences(card.scriptureReferences),
           manualReference: {
             subjectName: subject.name,
             topicTitle: topic?.title || '',

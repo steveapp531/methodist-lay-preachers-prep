@@ -1,0 +1,5881 @@
+[
+ {
+  "questionId": "OT-P-2011S-A01",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of these Hebrew words is properly rendered as a Seer?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Hozeh"
+   },
+   {
+    "key": "B",
+    "text": "Navi"
+   },
+   {
+    "key": "C",
+    "text": "Elohim"
+   },
+   {
+    "key": "D",
+    "text": "Zehi"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "1"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A02",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following passages demonstrates that a Prophet in the old Testament receives a message from God and utters the actual words without any modification?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Exodus 5:14-16"
+   },
+   {
+    "key": "B",
+    "text": "Isaiah 6:1"
+   },
+   {
+    "key": "C",
+    "text": "Deuteronomy 18:18"
+   },
+   {
+    "key": "D",
+    "text": "Ezekiel 18:2"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "2"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A03",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following Prophetic groups are also called “Congregation” of Prophets",
+  "options": [
+   {
+    "key": "A",
+    "text": "Royal Prophets"
+   },
+   {
+    "key": "B",
+    "text": "Company of Prophets"
+   },
+   {
+    "key": "C",
+    "text": "Cult Prophets"
+   },
+   {
+    "key": "D",
+    "text": "Court Prophets"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "3"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A04",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "One of the roles of the Prophets in Israel was to",
+  "options": [
+   {
+    "key": "A",
+    "text": "Preach and Teach during worship"
+   },
+   {
+    "key": "B",
+    "text": "Guide the Priest in Israel"
+   },
+   {
+    "key": "C",
+    "text": "Perform sacrifices on behalf of the people"
+   },
+   {
+    "key": "D",
+    "text": "None of the above."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "4"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A05",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "During the settlement on the Promised Land the centres of Tyrian Baal and Calf worship were situat- ed at.",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tishbi and Jericho"
+   },
+   {
+    "key": "B",
+    "text": "Dan and Tishbi"
+   },
+   {
+    "key": "C",
+    "text": "Bethel and Jericho"
+   },
+   {
+    "key": "D",
+    "text": "Dan and Bethel"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "5"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A06",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "In his Prophetic role, Ezekiel builds a city on sand with mud and makes a soldier toy (Ezekiel",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "6"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A07",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "etc. This is an example of.",
+  "options": [
+   {
+    "key": "A",
+    "text": "The Prophetic admonition"
+   },
+   {
+    "key": "B",
+    "text": "The Prophet word"
+   },
+   {
+    "key": "C",
+    "text": "Prophecy and Future"
+   },
+   {
+    "key": "D",
+    "text": "The Prophetic Symbolism"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "4"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A08",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following is a characteristic of the former Prophets",
+  "options": [
+   {
+    "key": "A",
+    "text": "They are mainly Prophets of Old tradition"
+   },
+   {
+    "key": "B",
+    "text": "The books are anonymous"
+   },
+   {
+    "key": "C",
+    "text": "Moses was the author of these books"
+   },
+   {
+    "key": "D",
+    "text": "None of the above"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "7"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A09",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "All the following are reasons for referring to some books as FORMER PROPHETS with the exception of one. Which is it?",
+  "options": [
+   {
+    "key": "A",
+    "text": "They continue to teach the Deuteronomic Philosophy of history"
+   },
+   {
+    "key": "B",
+    "text": "They were the first books written to describe the activities of the early Prophets C, They were the first books to talk about the future prophet like Ezekiel etc."
+   },
+   {
+    "key": "C",
+    "text": "None of the above."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "8"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A10",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Why are the writings Prophets known as latter Prophets.",
+  "options": [
+   {
+    "key": "A",
+    "text": "They were written late in the History of the Israelites"
+   },
+   {
+    "key": "B",
+    "text": "Due to their position in the arrangement of the books"
+   },
+   {
+    "key": "C",
+    "text": "They are Prophets whose identity are not known"
+   },
+   {
+    "key": "D",
+    "text": "All the above"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "9"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A11",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of these books deal with the conquest and settlement in the Promised land?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Joshua"
+   },
+   {
+    "key": "B",
+    "text": "Samuel"
+   },
+   {
+    "key": "C",
+    "text": "Kings"
+   },
+   {
+    "key": "D",
+    "text": "Judges"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "10"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A12",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "The books of Samuel are divided into five (5) main themes. Which of the following divisions is one of them?",
+  "options": [
+   {
+    "key": "A",
+    "text": "David as King of Judah (2 Sam. 5:24)"
+   },
+   {
+    "key": "B",
+    "text": "Saul and David (1 Sam.16:5- 2Sam. 1)"
+   },
+   {
+    "key": "C",
+    "text": "Samuel and Saul (1Sam. 9:2- 2 Sam. 2:25)"
+   },
+   {
+    "key": "D",
+    "text": "Shiloh and Samuel (1Sam.1-16:7)"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "11"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A13",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following demonstrates a Theological test to distinguish between a true and a false Prophets?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The fulfillment of the prophecy"
+   },
+   {
+    "key": "B",
+    "text": "The message turning people from evil."
+   },
+   {
+    "key": "C",
+    "text": "The message talking about God‟s judgments"
+   },
+   {
+    "key": "D",
+    "text": "The message conforms to Moses‟ teaching."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "12"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A14",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of these books cover the period in Israel‟s history between 1220 – 1050 B.C",
+  "options": [
+   {
+    "key": "A",
+    "text": "Kings"
+   },
+   {
+    "key": "B",
+    "text": "Samuel"
+   },
+   {
+    "key": "C",
+    "text": "Joshua"
+   },
+   {
+    "key": "D",
+    "text": "Judges"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "13"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A15",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "In the original Hebrew Canon (The Law, Prophet and the Writings) which book preceded Isaiah?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Samuel"
+   },
+   {
+    "key": "B",
+    "text": "Chronicles"
+   },
+   {
+    "key": "C",
+    "text": "Kings"
+   },
+   {
+    "key": "D",
+    "text": "Jeremiah"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "14"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A16",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "While Elijah prophesied during the reign of Ahab, Elisha Prophesied during the period of",
+  "options": [
+   {
+    "key": "A",
+    "text": "Ahab to Jehoahaz"
+   },
+   {
+    "key": "B",
+    "text": "Ahab to Jeroboam 1"
+   },
+   {
+    "key": "C",
+    "text": "Omri to Jehoram"
+   },
+   {
+    "key": "D",
+    "text": "Jeroboam 1 to Omri"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "15"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A17",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "The Traditions of Elijah and Elisha give us an example of Prophetism in 7TH 8TH 9TH 10TH",
+  "options": [
+   {
+    "key": "A",
+    "text": "Century BCE"
+   },
+   {
+    "key": "B",
+    "text": "Century BCE"
+   },
+   {
+    "key": "C",
+    "text": "Century BCE"
+   },
+   {
+    "key": "D",
+    "text": "Century BCE"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "16"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A18",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following describes the clash between Yahwism and Baalism",
+  "options": [
+   {
+    "key": "A",
+    "text": "The healing of Naaman‟s leprosy"
+   },
+   {
+    "key": "B",
+    "text": "The killing of Absalom"
+   },
+   {
+    "key": "C",
+    "text": "Ahab‟s revolt against Jezebel"
+   },
+   {
+    "key": "D",
+    "text": "The denunciation of crime against Nabot."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "17"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A19",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "What was main difference between Yehwism and Baalism?",
+  "options": [
+   {
+    "key": "A",
+    "text": "While Yahwism relates to animal rearing Baalism relates to crop farming."
+   },
+   {
+    "key": "B",
+    "text": "While Yahwism lays no stress on morality and keeping of commandments Baalism does."
+   },
+   {
+    "key": "C",
+    "text": "While the worship of Yahweh is too restrictive, Baalism is about freedom."
+   },
+   {
+    "key": "D",
+    "text": "While Yahwism has a theological position of Monolatry that of Baalism is Polytheistic."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "18"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A20",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following is true about Tekoa, Amos‟s hometown?",
+  "options": [
+   {
+    "key": "A",
+    "text": "It is a big mountain top town in Judah."
+   },
+   {
+    "key": "B",
+    "text": "It is believed to be the centre of a large sheep-farming district."
+   },
+   {
+    "key": "C",
+    "text": "It is a town where sycamore fig-trees are in abundance."
+   },
+   {
+    "key": "D",
+    "text": "None of the above."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "19"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A21",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "During whose reign did Amos prophesy?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Jehu"
+   },
+   {
+    "key": "B",
+    "text": "Jehoram"
+   },
+   {
+    "key": "C",
+    "text": "Jeroboam11"
+   },
+   {
+    "key": "D",
+    "text": "Jehoahaz"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "20"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A22",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "The book of Amos is one of the……..",
+  "options": [
+   {
+    "key": "A",
+    "text": "Post-Exilic Prophetic books"
+   },
+   {
+    "key": "B",
+    "text": "9th century Prophetic books"
+   },
+   {
+    "key": "C",
+    "text": "7th century Prophetic books"
+   },
+   {
+    "key": "D",
+    "text": "8TH century Prophetic books."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "21"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A23",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following is the most dominant in the message of Amos?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The righteousness of God"
+   },
+   {
+    "key": "B",
+    "text": "The love of God"
+   },
+   {
+    "key": "C",
+    "text": "The wickedness of the people of Israel"
+   },
+   {
+    "key": "D",
+    "text": "The vindication of Amos as a Prophet of Yahweh."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "22"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A24",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "What was the basic structure of the oracle against the Nations in the book of Amos?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The opening messenger formula, the punishment and the concluding messenger formula."
+   },
+   {
+    "key": "B",
+    "text": "The offence, the opening messenger formula, the punishment and concluding messenger formula."
+   },
+   {
+    "key": "C",
+    "text": "The opening messenger formula, the offence, the punishment and the concluding messenger for- mula"
+   },
+   {
+    "key": "D",
+    "text": "The punishment, the offence, the opening and then the concluding messenger formular."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "23"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A25",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "According to Amos 1:9-10, what was the offence of Phoenicia?",
+  "options": [
+   {
+    "key": "A",
+    "text": "They sold Israel into slavery"
+   },
+   {
+    "key": "B",
+    "text": "Israel had suffered grievously in the hands of Tyre."
+   },
+   {
+    "key": "C",
+    "text": "They had broken their covenant of brotherhood to Israel"
+   },
+   {
+    "key": "D",
+    "text": "They committed serious crimes against Israel."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "24"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A26",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following towns is the capital of Israel?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Jerusalem"
+   },
+   {
+    "key": "B",
+    "text": "Samaria"
+   },
+   {
+    "key": "C",
+    "text": "Damascus"
+   },
+   {
+    "key": "D",
+    "text": "Tekoa"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "25"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A27",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "Rabbah is the Capital of A. Philistia B. Ammon C. Moab D. Syria",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "26"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A28",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "One of the offences of Israel and Judah?",
+  "options": [
+   {
+    "key": "A",
+    "text": "They had caused many Syrians to die."
+   },
+   {
+    "key": "B",
+    "text": "Their women had become cruel and demanding"
+   },
+   {
+    "key": "C",
+    "text": "They gave too much to the poor."
+   },
+   {
+    "key": "D",
+    "text": "None of the above."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "27"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A29",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following is one of the five visions of doom?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Basket of summer fruit"
+   },
+   {
+    "key": "B",
+    "text": "Boils"
+   },
+   {
+    "key": "C",
+    "text": "Death of first borns"
+   },
+   {
+    "key": "D",
+    "text": "Hails"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "28"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A30",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "All the following are some of the Promises of restoration in the book of Amos except",
+  "options": [
+   {
+    "key": "A",
+    "text": "The restoration of the Davidic Dynasty"
+   },
+   {
+    "key": "B",
+    "text": "Unity in the Nation"
+   },
+   {
+    "key": "C",
+    "text": "Restoration of liberty"
+   },
+   {
+    "key": "D",
+    "text": "Restoration of their religion."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "29"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A31",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following is true about Amos?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Begins with message of doom and ends with restoration"
+   },
+   {
+    "key": "B",
+    "text": "Grew up in Samaria"
+   },
+   {
+    "key": "C",
+    "text": "His father is called Amoz"
+   },
+   {
+    "key": "D",
+    "text": "Prophesied when opportunities for international trade had dwindled. SECTION “B” ANSWER ONLY TWO (2) QUESTIONS FROM THIS SECTION (40 MARKS)"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "30"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A32",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "Write an essay “The establishment of the Prophetic institution in Israel”",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "1"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A33",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "Write brief introduction to the book of Judges and using the prophetic interpretation of the pattern of history, Give the five stages of the Analysis of the book.",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "2"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A34",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "Discuss the Historical background to, and the Socio Economic situation in Israel during the ministry of Amos.",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "3"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A35",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "Amos ends his prophecy on a positive note concerning the future restoration of Israel. Discuss. THE METHODIST CHURCH GHANA – LAY MINISTRIES DIVISION CONNEXIONAL LOCAL PREACHERS EXAMINATIONS – SEPTEMBER 2010 INSTRUCTIONS: ANSWER ALL QUESTIONS IN SECTION ‘A’ AND TWO QUESTION (2) FROM SECTION ‘B’ SECTION ‘A’ (50 MARKS)",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "4"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A36",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following words is not used to designate one who is a spokesman for God?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Rõ’eh"
+   },
+   {
+    "key": "B",
+    "text": "Nãvi"
+   },
+   {
+    "key": "C",
+    "text": "Zéhi"
+   },
+   {
+    "key": "D",
+    "text": "Hõzéh"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "1"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A37",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "When Israel entered the promised land, there came a time when everyone did as he saw fit (Judges 21:25). Why was this so?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The leaders of the time were corrupt."
+   },
+   {
+    "key": "B",
+    "text": "They had no one to lead them"
+   },
+   {
+    "key": "C",
+    "text": "They had been influenced by the danger of the Canaanite Cult"
+   },
+   {
+    "key": "D",
+    "text": "The Judges and the Prophets did not help them much."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "2"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A38",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Where were the centres of the Tyrian Baal and the Calf worship situated during the settlement in the Promised Land?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Dan and Bethel"
+   },
+   {
+    "key": "B",
+    "text": "Bethel and Jericho"
+   },
+   {
+    "key": "C",
+    "text": "Tishbi and Dan"
+   },
+   {
+    "key": "D",
+    "text": "Dan and Jericho"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "3"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A39",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "What was the most significant thing about the ministry of Elijah and Elisha in the Northern King- dom?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Elijah was more powerful than Elisha"
+   },
+   {
+    "key": "B",
+    "text": "They concentrated their efforts in healing, especially the lepers"
+   },
+   {
+    "key": "C",
+    "text": "They were fortunate to have the support of the Kings"
+   },
+   {
+    "key": "D",
+    "text": "They were strongly opposed by the government."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "4"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A40",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following statements is not true in the life of the prophets?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Just as the priests represented the people before God, so the prophets represented God before the people."
+   },
+   {
+    "key": "B",
+    "text": "Just as the prophets represented the people before God, so the priests represented God to the people."
+   },
+   {
+    "key": "C",
+    "text": "Just as the prophets represented God before the people it was the priest who stood in for the people before God."
+   },
+   {
+    "key": "D",
+    "text": "The prophets served as mediators between God and the nation."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "5"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A41",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "According to Deuteronomy 18:15-18 who set up the prophetic institution?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Moses"
+   },
+   {
+    "key": "B",
+    "text": "Elijah"
+   },
+   {
+    "key": "C",
+    "text": "Samuel"
+   },
+   {
+    "key": "D",
+    "text": "Yahweh"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "6"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A42",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "In Ezekiel chapter 4, we learn that Ezekiel built a city on sand with mud and made a toy soldier indicating that he was helping to bring about the siege and the destruction of Jerusalem. How do we call this illustration?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Prophetic word"
+   },
+   {
+    "key": "B",
+    "text": "Prophecy and the future"
+   },
+   {
+    "key": "C",
+    "text": "Prophetic symbolism"
+   },
+   {
+    "key": "D",
+    "text": "None of the above"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "7"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A43",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following is one of the roles played by the prophets in Israel.",
+  "options": [
+   {
+    "key": "A",
+    "text": "They were taught by the people during worship"
+   },
+   {
+    "key": "B",
+    "text": "They spoke of the needs of the people to God"
+   },
+   {
+    "key": "C",
+    "text": "They offered sacrifices on behalf of the people"
+   },
+   {
+    "key": "D",
+    "text": "They gave oracles mainly about the distant future."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "8"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A44",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following demonstrates a practical test to distinguish between a true and false prophets?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The fulfillment of the prophecy"
+   },
+   {
+    "key": "B",
+    "text": "The message turning people from evil"
+   },
+   {
+    "key": "C",
+    "text": "The message talking about God’s judgment"
+   },
+   {
+    "key": "D",
+    "text": "The message being in line with the teachings of Moses"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "9"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A45",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following Books constitute the LATTER PROPHET?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Numbers, Judges, Leviticus and Kings"
+   },
+   {
+    "key": "B",
+    "text": "Samuel, Elijah, Elisha and Joshua"
+   },
+   {
+    "key": "C",
+    "text": "Isaiah, Jeremiah, Ezekiel and the Twelve"
+   },
+   {
+    "key": "D",
+    "text": "Joshua, Judges, Samuel and Kings"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "10"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A46",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following books illustrates that loyalty to God meant a strong united nation?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Joshua"
+   },
+   {
+    "key": "B",
+    "text": "Judges"
+   },
+   {
+    "key": "C",
+    "text": "Deuteronomy"
+   },
+   {
+    "key": "D",
+    "text": "Samuel"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "11"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A47",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "The books of Samuel are divided into five (5) main themes which of the following divisions is one of the themes.",
+  "options": [
+   {
+    "key": "A",
+    "text": "David as King of all Israel (II Samuel 2-4)"
+   },
+   {
+    "key": "B",
+    "text": "Shiloh and Samuel (II Samuel 1:1-16:7)"
+   },
+   {
+    "key": "C",
+    "text": "Samuel and Saul (I Samuel 1:1-7:1)"
+   },
+   {
+    "key": "D",
+    "text": "Saul and David (II Samuel 2-4)"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "12"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A48",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following books talks about the History of Israel between 1075BC to 975 BC?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Joshua"
+   },
+   {
+    "key": "B",
+    "text": "Judges"
+   },
+   {
+    "key": "C",
+    "text": "Samuel"
+   },
+   {
+    "key": "D",
+    "text": "Kings"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "13"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A49",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which one of the following reasons accounts for the revolution in Israel led by Jeroboam?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The problem of Intermarriage"
+   },
+   {
+    "key": "B",
+    "text": "Solomon’s oppressive rule"
+   },
+   {
+    "key": "C",
+    "text": "The issue of Syncretism"
+   },
+   {
+    "key": "D",
+    "text": "The maladministration of King Saul"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "14"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A50",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "What was the major problem that Israel faced when they entered the Promised Land?",
+  "options": [
+   {
+    "key": "A",
+    "text": "How could Israel occupy the Land without talking over their religion."
+   },
+   {
+    "key": "B",
+    "text": "The issue of being treated as slaves just as it happened in Egypt."
+   },
+   {
+    "key": "C",
+    "text": "Israelites displeasure about the Canaanite Cult"
+   },
+   {
+    "key": "D",
+    "text": "None of the above."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "15"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A51",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Elijah is said to be a native of",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tishbe in Gilead"
+   },
+   {
+    "key": "B",
+    "text": "Jerusalem in Judah"
+   },
+   {
+    "key": "C",
+    "text": "Bethel in Samaria"
+   },
+   {
+    "key": "D",
+    "text": "Tyre and Sidon in Samaria"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "16"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A52",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "The traditions of Elijah and Elisha give us an example of Prophetism in which century? 17th",
+  "options": [
+   {
+    "key": "A",
+    "text": "Century BCE 18th"
+   },
+   {
+    "key": "B",
+    "text": "Century BCE"
+   },
+   {
+    "key": "C",
+    "text": "19th Century BCE 8th"
+   },
+   {
+    "key": "D",
+    "text": "Century BCE"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "17"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A53",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "The story of the contest between Elijah and Priests of Baal on Mt. Carmel is recorded in",
+  "options": [
+   {
+    "key": "A",
+    "text": "I Kings 17"
+   },
+   {
+    "key": "B",
+    "text": "II Kings 18"
+   },
+   {
+    "key": "C",
+    "text": "II Kings 17"
+   },
+   {
+    "key": "D",
+    "text": "I Kings 18"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "18"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A54",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which one of the following does not describe the clash between Yahwism and Baalism?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The Healing of Naaman’s Leprosy"
+   },
+   {
+    "key": "B",
+    "text": "Elijah prediction of drought"
+   },
+   {
+    "key": "C",
+    "text": "The denunciation of crime against Nabot"
+   },
+   {
+    "key": "D",
+    "text": "The contest at Mr. Carmel"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "19"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A55",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Elisha’s performance of signs and wonders were meant to demonstrate:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Yahweh’s victory over Baal"
+   },
+   {
+    "key": "B",
+    "text": "To Ahab that Jezebel will die in a mysterious way"
+   },
+   {
+    "key": "C",
+    "text": "Worshipping Baal was a dangerous thing"
+   },
+   {
+    "key": "D",
+    "text": "The power of Yahweh and a call to serve Him alone."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "20"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A56",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "The Book of Malachi is one of the",
+  "options": [
+   {
+    "key": "A",
+    "text": "Pre-Exilic prophetic Books"
+   },
+   {
+    "key": "B",
+    "text": "Post-Exilic prophetic Books 8th"
+   },
+   {
+    "key": "C",
+    "text": "The Century prophetic Books 9th"
+   },
+   {
+    "key": "D",
+    "text": "The Century Prophetic Books"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "21"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A57",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following books are closely linked with the Book of Malachi",
+  "options": [
+   {
+    "key": "A",
+    "text": "Zephaniah and Haggai"
+   },
+   {
+    "key": "B",
+    "text": "Joel and Amos"
+   },
+   {
+    "key": "C",
+    "text": "Haggai and Zechariah"
+   },
+   {
+    "key": "D",
+    "text": "Amos and Haggai"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "22"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A58",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "According to the Book of Malachi, how does God view divorce?",
+  "options": [
+   {
+    "key": "A",
+    "text": "It is an act which frustrates God’s design"
+   },
+   {
+    "key": "B",
+    "text": "It is an act which demonstrate God’s will for humankind"
+   },
+   {
+    "key": "C",
+    "text": "It is an act which God loves"
+   },
+   {
+    "key": "D",
+    "text": "None of the above"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "23"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A59",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "In Malachi 1;2-5, God declared: “Is not Esau Jacob’s brother, yet I have loved Jacob but Esau I have hated. “why did God say that? It is because",
+  "options": [
+   {
+    "key": "A",
+    "text": "Edom, which traces its roots to Esau had cursed Israel."
+   },
+   {
+    "key": "B",
+    "text": "Esau refused to recognize Israel as a brother"
+   },
+   {
+    "key": "C",
+    "text": "Israel has spoken evil against God"
+   },
+   {
+    "key": "D",
+    "text": "Israel has doubted the love of God for them."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "24"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A60",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "The Hebrew word for Tithe is",
+  "options": [
+   {
+    "key": "A",
+    "text": "Ma’alaki"
+   },
+   {
+    "key": "B",
+    "text": "Massa"
+   },
+   {
+    "key": "C",
+    "text": "Ma’aser"
+   },
+   {
+    "key": "D",
+    "text": "De’kam SECTION ‘B’ ANSWER ONLY TWO (2) QUESTIONS FROM THIS SECTION (50 MARKS)"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "25"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A61",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "Briefly discuss the contents of I & II Samuel",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "1"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A62",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "Write an essay on the conflict between Yahwism and Baalism as it relates to prophetism in Israel during the days of Elijah and Elisha.",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "2"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A63",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "Discuss in detail the statement “Israel has disregarded God’s Tithes and Offerings - Malachi 3:7-12.",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "3"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A64",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "In discussing the date for the Ministry of Malachi, it is argued that he worked after the return of the Babylonian Exile: Give reasons to either support or refute this claim by Bible scholars. THE METHODIST CHURCH GHANA LAY MINISTRIES DIVISION CONNEXIONAL LOCAL PREACHERS’ EXAMINATIONS - NOVEMBER 2009 TIME: TWO HOURS INSTURCTIONS: Attempt all Questions in Section A and any Two (2) from section B.",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "4"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A65",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following three (3) Hebrew words are normally used to designate the Prophets:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Rō’eh, Nãvi, Zêhi"
+   },
+   {
+    "key": "B",
+    "text": "Hōzeh, Zêhi, Nãvi"
+   },
+   {
+    "key": "C",
+    "text": "Hōzêh, Rō’eh, Nãvi"
+   },
+   {
+    "key": "D",
+    "text": "Zêhi, Rō’eh, Hōzêh"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "1"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A66",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of these two (2) Hebrew words in their proper rendering refer to insight ? A Rō’eh and Hōzêh",
+  "options": [
+   {
+    "key": "A",
+    "text": "Rō’eh and Nãvi"
+   },
+   {
+    "key": "B",
+    "text": "Nãvi and Hōzêh"
+   },
+   {
+    "key": "C",
+    "text": "Nãvi and Zêhi"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "2"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A67",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "In the Old Testament rendering, who is a prophet?",
+  "options": [
+   {
+    "key": "A",
+    "text": "A person who is able to predict the future or a fortune teller."
+   },
+   {
+    "key": "B",
+    "text": "A person who receives a message from God and utters the same to the people."
+   },
+   {
+    "key": "C",
+    "text": "A person who speaks on behalf of a deity."
+   },
+   {
+    "key": "D",
+    "text": "All of the above."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "3"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A68",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "When did the prophetic institution become necessary in the life of the people of Israel?",
+  "options": [
+   {
+    "key": "A",
+    "text": "During the return from the Babylonian exile."
+   },
+   {
+    "key": "B",
+    "text": "During the settlement in the Promised Land."
+   },
+   {
+    "key": "C",
+    "text": "After the institution of the monarchy."
+   },
+   {
+    "key": "D",
+    "text": "None of the above."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "4"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A69",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Why was the law, which laid the broad basis on which the life of the people of God Was built and guided seemed to be inadequate to necessitate the formation of the Prophetic Institution.",
+  "options": [
+   {
+    "key": "A",
+    "text": "The Law did not speak in detail on every possible situation that would arise in the life of the peo- ple of Israel."
+   },
+   {
+    "key": "B",
+    "text": "There were many inherent weaknesses in the Law itself."
+   },
+   {
+    "key": "C",
+    "text": "The people of Israel did not accept certain specific revelation of God."
+   },
+   {
+    "key": "D",
+    "text": "None of the above."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "5"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A70",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following statements is true in the life of the Prophets.",
+  "options": [
+   {
+    "key": "A",
+    "text": "Just as the prophets represented the people before God, so the priests represented God to the people."
+   },
+   {
+    "key": "B",
+    "text": "Just as the prophets represented the people before God the prophets represented the people before God."
+   },
+   {
+    "key": "C",
+    "text": "Just as the priests represented the people before God, so the prophets represented God to the people."
+   },
+   {
+    "key": "D",
+    "text": "Just as the priests represented the people before God, so the prophets represented the people before God."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "6"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A71",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Who is believed to be the founder of the Bands of Prophets who were raised to encourage and uplift the spiritual welfare of the People of Israel.",
+  "options": [
+   {
+    "key": "A",
+    "text": "Samuel"
+   },
+   {
+    "key": "B",
+    "text": "Elijah"
+   },
+   {
+    "key": "C",
+    "text": "Elisha"
+   },
+   {
+    "key": "D",
+    "text": "Eli"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "7"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A72",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "What was the significant difference between the religion of ancient Greece and that of the ancient Israel?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Whereas in ancient Greece there was only one intermediary between God and the people, Israel had God, the oracle, the Prophet and the people."
+   },
+   {
+    "key": "B",
+    "text": "In Greece there was the god, the oracle and the people, while Israel had God, the Oracle, the Prophets and the people."
+   },
+   {
+    "key": "C",
+    "text": "In Israel there was God, the Oracle and the people while in Greece there was god, the oracle, the prophets and the people."
+   },
+   {
+    "key": "D",
+    "text": "In Israel there was God, the prophets and the people while in Greece there was god, the oracle, the prophets and the people."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "8"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A73",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "According to the testimony of the Bible the Prophetic Institution of Israel was set up by",
+  "options": [
+   {
+    "key": "A",
+    "text": "God Himself B Moses"
+   },
+   {
+    "key": "B",
+    "text": "Samuel"
+   },
+   {
+    "key": "C",
+    "text": "Isaiah"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "9"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A74",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Broadly speaking the Old Testament Prophecy falls into how many main forms:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Two"
+   },
+   {
+    "key": "B",
+    "text": "Three"
+   },
+   {
+    "key": "C",
+    "text": "Four"
+   },
+   {
+    "key": "D",
+    "text": "Five"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "10"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A75",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "The company of Prophets in Israel were also known as;-",
+  "options": [
+   {
+    "key": "A",
+    "text": "Royal Prophets"
+   },
+   {
+    "key": "B",
+    "text": "Congregation of Prophets"
+   },
+   {
+    "key": "C",
+    "text": "Cults Prophets"
+   },
+   {
+    "key": "D",
+    "text": "Shalom Prophets"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "11"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A76",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "One of the Special responsibilities of the Court Prophets was to;-",
+  "options": [
+   {
+    "key": "A",
+    "text": "Lead the Kings during wars"
+   },
+   {
+    "key": "B",
+    "text": "Protect the Kings from their enemies"
+   },
+   {
+    "key": "C",
+    "text": "Guide the Kings as to the will of God"
+   },
+   {
+    "key": "D",
+    "text": "None of the above"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "12"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A77",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "All the following are some of the roles that the prophets played in the life of Israel except.",
+  "options": [
+   {
+    "key": "A",
+    "text": "Interceding on behalf of the people"
+   },
+   {
+    "key": "B",
+    "text": "Preaching and teaching during worship."
+   },
+   {
+    "key": "C",
+    "text": "Giving of Oracle which was generally consultative"
+   },
+   {
+    "key": "D",
+    "text": "Offering sacrifices on behalf of the people."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "13"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A78",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following explains the Theological test that one could use to discern between true and false prophets.",
+  "options": [
+   {
+    "key": "A",
+    "text": "The fulfillment of the prophecy"
+   },
+   {
+    "key": "B",
+    "text": "The message turning people from evil"
+   },
+   {
+    "key": "C",
+    "text": "The message talking about the judgment"
+   },
+   {
+    "key": "D",
+    "text": "The message being in line with the teaching of Moses."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "14"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A79",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following books constitute the Former Prophet?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Isaiah, Jeremiah and Ezekiel."
+   },
+   {
+    "key": "B",
+    "text": "Joshua, Judges, Samuel and Kings."
+   },
+   {
+    "key": "C",
+    "text": "Samuel, Elijah and Elisha."
+   },
+   {
+    "key": "D",
+    "text": "Hosea to Malachi."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "15"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A80",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following covers the period of the Former Prophets?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The period of the Babylonian exile"
+   },
+   {
+    "key": "B",
+    "text": "The Exodus from Egypt till the death of Moses"
+   },
+   {
+    "key": "C",
+    "text": "Entrance into the Promised Land until the destruction of the theocracy under Nebuchadnezzar"
+   },
+   {
+    "key": "D",
+    "text": "None of the above"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "16"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A81",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "In which books do we have the story of Elijah and Elisha",
+  "options": [
+   {
+    "key": "A",
+    "text": "Samuel"
+   },
+   {
+    "key": "B",
+    "text": "Kings"
+   },
+   {
+    "key": "C",
+    "text": "Deuteronomy"
+   },
+   {
+    "key": "D",
+    "text": "Judges."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "17"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A82",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "In which of the following books is the story of Achan recorded.",
+  "options": [
+   {
+    "key": "A",
+    "text": "Deuteronomy"
+   },
+   {
+    "key": "B",
+    "text": "Numbers"
+   },
+   {
+    "key": "C",
+    "text": "Joshua"
+   },
+   {
+    "key": "D",
+    "text": "Judges"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "18"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A83",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "The Traditions of Elijah and Elisha are basically concerned with the issues of",
+  "options": [
+   {
+    "key": "A",
+    "text": "Yahwism and Ballism"
+   },
+   {
+    "key": "B",
+    "text": "Kings of Israel and their Unfaithfulness"
+   },
+   {
+    "key": "C",
+    "text": "False and True prophets"
+   },
+   {
+    "key": "D",
+    "text": "Monolatry and Henotheism"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "19"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A84",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "All the following are some of the problems that the Israelites faced when they entered the Promised Land except.",
+  "options": [
+   {
+    "key": "A",
+    "text": "Challenges of the worship of Baal and the worship of God of Israel."
+   },
+   {
+    "key": "B",
+    "text": "Adoption of their Agricultural practices and fertility cult."
+   },
+   {
+    "key": "C",
+    "text": "Ballism as an attractive religion from the sensory point of view."
+   },
+   {
+    "key": "D",
+    "text": "None of the above."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "20"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A85",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following names means “burden bearer”.",
+  "options": [
+   {
+    "key": "A",
+    "text": "Amoz"
+   },
+   {
+    "key": "B",
+    "text": "Amos"
+   },
+   {
+    "key": "C",
+    "text": "Mesha"
+   },
+   {
+    "key": "D",
+    "text": "Tekoa"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "21"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A86",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "The father of the Prophet Isaiah is",
+  "options": [
+   {
+    "key": "A",
+    "text": "Amos"
+   },
+   {
+    "key": "B",
+    "text": "Jehoash"
+   },
+   {
+    "key": "C",
+    "text": "Amoz"
+   },
+   {
+    "key": "D",
+    "text": "Jeroboam II"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "22"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A87",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "In the Book of Amos, what was the offence of Syria.",
+  "options": [
+   {
+    "key": "A",
+    "text": "They had often harassed Israel especially under Ben Hadad and King Hazael."
+   },
+   {
+    "key": "B",
+    "text": "They had broken the covenant brotherhood to Israel."
+   },
+   {
+    "key": "C",
+    "text": "They had committed serious crimes against Israel including opening the womb of pregnant Israelite women with swords. D They had desecrated the tombs of the Kings of Edom with no respect for the dead."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "23"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A88",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "What Punishment did Amos pronounce upon Judah for their offence according to Amos 2:4&5.",
+  "options": [
+   {
+    "key": "A",
+    "text": "They would be defeated in war and its palaces burned"
+   },
+   {
+    "key": "B",
+    "text": "Their cities would be destroyed and the inhabitants enslaved."
+   },
+   {
+    "key": "C",
+    "text": "God would send fire upon it and burn its fortresses."
+   },
+   {
+    "key": "D",
+    "text": "God would cause may to die and others carried back to Kir."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "24"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-A89",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "In Amos 5:4-15 God extended a final invitation to Israel. What does this demonstrate about God’s nature.",
+  "options": [
+   {
+    "key": "A",
+    "text": "His patience, mercy and love"
+   },
+   {
+    "key": "B",
+    "text": "He is a consuming fire"
+   },
+   {
+    "key": "C",
+    "text": "His power to restore Israel to her former glory"
+   },
+   {
+    "key": "D",
+    "text": "He is omniscient God."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "25"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-T01",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "Israel’s true religion had always been plagued by imitators and false prophets alongside the faithful and true prophets. Discuss this statement and show, in the light of the Old Testament, the three tests by which one could discern between “True and False Prophets.”",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section B",
+   "questionNumber": "1"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-T02",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "Discuss the major religious problem that Israel faced i.e. the conflict between Yahwism and Baalism, etc. during the settlement in the land of Canaan.",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section B",
+   "questionNumber": "2"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-T03",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "Write an essay on the Historical and Religious background to the ministry of the Prophet Amos. To what extent is this true of the present day Church in Ghana.",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section B",
+   "questionNumber": "3"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2011S-T04",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "Amos ends his prophecy on a positive note concerning the future restoration of Israel. Mention the five (5) specific areas of restoration and discuss any three (3) of them. GOOD LUCK",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2011",
+   "paperCode": "OT",
+   "year": 2011,
+   "sitting": "September",
+   "sectionLabel": "Section B",
+   "questionNumber": "4"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A01",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Three (3) Hebrew words are normally used to b. The close and intimate association that ex- designate a prophet. Which of the following is isted among them the correct one? c. The cultic nature of Prophecy in those days.",
+  "options": [
+   {
+    "key": "A",
+    "text": "Navi, Zehi and Roeh"
+   },
+   {
+    "key": "B",
+    "text": "None of the above."
+   },
+   {
+    "key": "C",
+    "text": "Hozeh, Roeh and Navi"
+   },
+   {
+    "key": "D",
+    "text": "Zehi, Hozeh and Navi"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "1"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A02",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "The basis on which the principles of ethic and",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "8"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A03",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Who is a Prophet according to the Old Testa- ment?",
+  "options": [
+   {
+    "key": "A",
+    "text": "A person who speaks on behalf of a deity"
+   },
+   {
+    "key": "B",
+    "text": "A person who is able to predict the future"
+   },
+   {
+    "key": "C",
+    "text": "A person who receives a message from God and utters the same to the people"
+   },
+   {
+    "key": "D",
+    "text": "All of the above"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "2"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A04",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "When did the Prophetic Institution become nec- essary in the life of the Israelites?",
+  "options": [
+   {
+    "key": "A",
+    "text": "During the institution of the monarchy"
+   },
+   {
+    "key": "B",
+    "text": "During the return from the Babylonian ex- ile."
+   },
+   {
+    "key": "C",
+    "text": "During the settlement in Egypt"
+   },
+   {
+    "key": "D",
+    "text": "During the settlement in the Promised land"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "3"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A05",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following passages illustrates that a prophet receives God‟s word and utters the same without any modifications? Deuteronomy 18:18 d. Isaiah 6:1",
+  "options": [
+   {
+    "key": "A",
+    "text": "Exodus 7:11"
+   },
+   {
+    "key": "B",
+    "text": "Exodus 14: 15-16"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "4"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A06",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "In the Religion of the Mesopotamian countries there were:",
+  "options": [
+   {
+    "key": "A",
+    "text": "The god, the oracle, the prophet and the people"
+   },
+   {
+    "key": "B",
+    "text": "The god, the oracle and the people"
+   },
+   {
+    "key": "C",
+    "text": "The god one intermediary and the people"
+   },
+   {
+    "key": "D",
+    "text": "The god and the people only."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "5"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A07",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "In Israel „Bands‟ of Prophets were also known as:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Hevel"
+   },
+   {
+    "key": "B",
+    "text": "Laspoket"
+   },
+   {
+    "key": "C",
+    "text": "Cultic"
+   },
+   {
+    "key": "D",
+    "text": "Nebat"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "6"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A08",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "What was the significance of the phrase “sons of the prophets during the time of Elijah and Eli- sha?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The true nature of prophetism in those days. morality were founded in the life of the Israel- ites was"
+   },
+   {
+    "key": "B",
+    "text": "The Ten Commandment"
+   },
+   {
+    "key": "C",
+    "text": "The Prophetic institutions."
+   },
+   {
+    "key": "D",
+    "text": "The Law revealed by God at Mt Sinai"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "7"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A09",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "During the settlement in the Promised land, The Tyrian Baal and Calf worship were situated at cho",
+  "options": [
+   {
+    "key": "A",
+    "text": "Bethel and Tishbe"
+   },
+   {
+    "key": "B",
+    "text": "Dan and Jericho"
+   },
+   {
+    "key": "C",
+    "text": "Dan and Bethel"
+   },
+   {
+    "key": "D",
+    "text": "Bethel and Jeri-"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "9"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A10",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following demonstrates a moral test to distinguish between a true and false prophet?",
+  "options": [
+   {
+    "key": "A",
+    "text": "The fulfillment or otherwise of the prophecy"
+   },
+   {
+    "key": "B",
+    "text": "The message being in line with the teach- ings of Moses"
+   },
+   {
+    "key": "C",
+    "text": "The message talks about God‟s judgement"
+   },
+   {
+    "key": "D",
+    "text": "The message should turn people from evil."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "10"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A11",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "One of the special responsibilities of the court prophets was to:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Guide the Kings as to the will of God"
+   },
+   {
+    "key": "B",
+    "text": "Protect the Kings from their enemies"
+   },
+   {
+    "key": "C",
+    "text": "Guide the Kings during wars"
+   },
+   {
+    "key": "D",
+    "text": "Sacrifice and give counseling"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "11"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A12",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "One of the roles that the prophets played in the life of the Israelites was:",
+  "options": [
+   {
+    "key": "A",
+    "text": "Counseling"
+   },
+   {
+    "key": "B",
+    "text": "Offering sacrifices"
+   },
+   {
+    "key": "C",
+    "text": "Preaching during worship"
+   },
+   {
+    "key": "D",
+    "text": "None of the above"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "12"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A13",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following Books constitute the Minor Prophets?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Isaiah, Jeremiah and Ezekiel"
+   },
+   {
+    "key": "B",
+    "text": "Hosea to Malachi"
+   },
+   {
+    "key": "C",
+    "text": "Joshua, Judges, Samuel and Kings"
+   },
+   {
+    "key": "D",
+    "text": "Samuel, Eli 15 of 101"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "13"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A14",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "In which book do we have the story of Elijah up the Minor Prophets. and Elisha: c. In it we understand better the history of Is- 8th century B. C.",
+  "options": [
+   {
+    "key": "A",
+    "text": "Judges"
+   },
+   {
+    "key": "B",
+    "text": "Deuteronomy"
+   },
+   {
+    "key": "C",
+    "text": "Samuel rael in the century"
+   },
+   {
+    "key": "D",
+    "text": "C."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "14"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A15",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "Why do we refer to Joshua, Judges Samuel and",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "15"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A16",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "A careful study of the book of Malachi will Kings as former Prophets? a. Help people to understand the true will of ets ing of a messenger.",
+  "options": [
+   {
+    "key": "A",
+    "text": "They were the first prophets raised by God Yahweh."
+   },
+   {
+    "key": "B",
+    "text": "They existed before Moses and the others"
+   },
+   {
+    "key": "C",
+    "text": "Help the individual to know his/her"
+   },
+   {
+    "key": "D",
+    "text": "They emphasize Moses‟ prophetic teach- standing before God and his/her com- ing that obedience to God brings bless- mitment to Gods‟ word. ings in National life while disobedience c. Help individuals to know who a true proph- brings disaster. et is."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "22"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A17",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "In the original Hebrew canon which book pre-",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "16"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A18",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "The name Malachi means? ceded the book of Isaiah? Song of Solomon",
+  "options": [
+   {
+    "key": "A",
+    "text": "Jeremiah"
+   },
+   {
+    "key": "B",
+    "text": "Samuel"
+   },
+   {
+    "key": "C",
+    "text": "Kings"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "23"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A19",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "The second half of the book of Joshua deals with",
+  "options": [
+   {
+    "key": "A",
+    "text": "A time of transition where the only thing that held the scattered tribe of Israel was faith in Yahweh"
+   },
+   {
+    "key": "B",
+    "text": "How the Promised Land was divided among the Twelve tribes of Israel."
+   },
+   {
+    "key": "C",
+    "text": "The prophetic interpretation of the pattern of history ie the cycle of events"
+   },
+   {
+    "key": "D",
+    "text": "The History of Isr"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "17"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A20",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "The Prophet Elijah is a native of",
+  "options": [
+   {
+    "key": "A",
+    "text": "Tishbe in Gilead"
+   },
+   {
+    "key": "B",
+    "text": "Bethel in the North"
+   },
+   {
+    "key": "C",
+    "text": "Dan in Samaria"
+   },
+   {
+    "key": "D",
+    "text": "Mount Carmel."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "18"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A21",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "What was the significance of Elisha‟s perfor- mance of signs and wonders in the 9th century",
+  "options": [
+   {
+    "key": "A",
+    "text": "C. to"
+   },
+   {
+    "key": "B",
+    "text": "Illustrate the variety of Prophetism"
+   },
+   {
+    "key": "C",
+    "text": "Demonstrate the power of Baal and its Prophets."
+   },
+   {
+    "key": "D",
+    "text": "Show that He was the best Prophet"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "19"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A22",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "The Books of Samuel are divided into five (5) main themes. Which of the following is one of them?",
+  "options": [
+   {
+    "key": "A",
+    "text": "David as King of Judah (2 Samuel 2-4)"
+   },
+   {
+    "key": "B",
+    "text": "David as King of all Israel (2 Samuel 8-12)"
+   },
+   {
+    "key": "C",
+    "text": "Samuel and Saul (1 Samuel 5:2-15:35)"
+   },
+   {
+    "key": "D",
+    "text": "Saul and David (1 Samuel 16:5-2 Samuel 12)."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "20"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A23",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following is true about the book of Malachi? Lord‟s Servant d. A King",
+  "options": [
+   {
+    "key": "A",
+    "text": "A Prophet"
+   },
+   {
+    "key": "B",
+    "text": "My Messenger c The"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "21"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A24",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following is true about the person- al history of Malachi?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Only His parents were recorded in the book."
+   },
+   {
+    "key": "B",
+    "text": "His hometown is recorded as Tekoa."
+   },
+   {
+    "key": "C",
+    "text": "There is nothing about His personal His- tory in the book."
+   },
+   {
+    "key": "D",
+    "text": "It is only in the books of Ezra and Nehemi- ah that His personal history is recoded."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "24"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A25",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "When did Malachi prophesy?",
+  "options": [
+   {
+    "key": "A",
+    "text": "During the return of Nehemiah probably a few years after 433 B.C."
+   },
+   {
+    "key": "B",
+    "text": "During the building of the Temple (520- 516B.C)"
+   },
+   {
+    "key": "C",
+    "text": "During the reign of King Hezekiah"
+   },
+   {
+    "key": "D",
+    "text": "None of the above."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "25"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A26",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "How many years elapsed after Malachi‟s proph- ecy before the appearance of John the Baptist?",
+  "options": [
+   {
+    "key": "A",
+    "text": "800"
+   },
+   {
+    "key": "B",
+    "text": "600"
+   },
+   {
+    "key": "C",
+    "text": "400"
+   },
+   {
+    "key": "D",
+    "text": "200 years."
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "26"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A27",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which of the following books are closely linked with the book of Malachi?",
+  "options": [
+   {
+    "key": "A",
+    "text": "Amos and Haggai"
+   },
+   {
+    "key": "B",
+    "text": "Zephaniah and Haggai"
+   },
+   {
+    "key": "C",
+    "text": "Joel and Amos"
+   },
+   {
+    "key": "D",
+    "text": "Zechariah And Haggai"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "27"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A28",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "The theme of the book of Malachi is",
+  "options": [
+   {
+    "key": "A",
+    "text": "God‟s rebuke of Israel‟s outrageous sins."
+   },
+   {
+    "key": "B",
+    "text": "Preparing the way for the Messiah"
+   },
+   {
+    "key": "C",
+    "text": "Defiling the law forbidding mixed marriag- es."
+   },
+   {
+    "key": "D",
+    "text": "Tithe and Offerings. 16 of 101"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "28"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A29",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "multiple_choice",
+  "question": "Which one of the following is a charge against a. Elijah did not die hence He is identified the priest? with Jesus Christ.",
+  "options": [
+   {
+    "key": "A",
+    "text": "Breaking of God‟s law on marriage."
+   },
+   {
+    "key": "B",
+    "text": "The coming of Elijah was fulfilled by John"
+   },
+   {
+    "key": "C",
+    "text": "Refusal to pay tithes and offerings. the Baptist."
+   },
+   {
+    "key": "D",
+    "text": "Showing of contempt for God‟s name"
+   }
+  ],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "29"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A30",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "Which of the following is not one of the views of Elijah but not Elijah personally. concerning the identification of Elijah in Mala- chi 4:5-6 SECTION „B‟ ANSWER ONLY TWO (2) QUESTIONS FROM THIS SECTION (40 MARKS).",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "30"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A31",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "Write an essay to show that in Israel there were both True and False prophets. How can one discern between true and false prophet using the Old Testament Tests?",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "1"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A32",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "Write a brief Introduction to the book of Judges and using the prophetic interpretation of the pattern of history, give the five (5) Stages of the Analysis of the Book.",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "2"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A33",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "Using Malachi 3:7-12 as the basis, write an essay on “Tithes and Offering”.",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "3"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ },
+ {
+  "questionId": "OT-P-2014S-A34",
+  "examStage": "PART2",
+  "subject": "OT",
+  "questionType": "theory",
+  "question": "Discuss in detail the statement “Israel has discredited God‟s service (Malachi 3:13-4:3). l THE METHODIST CHURCH GHANA LAY MINISTRIES DIVISION CONNEXIONAL LOCAL PREACHERS’ EXAMINATION",
+  "marks": 25,
+  "idealAnswer": "",
+  "keyPoints": [],
+  "markingRubric": [],
+  "explanation": "",
+  "manualReference": {
+   "excerpt": "",
+   "citation": ""
+  },
+  "scriptureReferences": [],
+  "difficulty": "medium",
+  "tags": [
+   "past-paper",
+   "historical",
+   "needs-review"
+  ],
+  "sourceKind": "past_paper",
+  "source": {
+   "label": "OT Part II - September 2014",
+   "paperCode": "OT",
+   "year": 2014,
+   "sitting": "September",
+   "sectionLabel": "Section A",
+   "questionNumber": "4"
+  },
+  "answerConfidence": "unverified",
+  "status": "needs_review",
+  "reviewNotes": "Transcribed from the supplied past paper; the paper contains no answer key and the syllabus has not yet been checked for a defensible answer."
+ }
+]

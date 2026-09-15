@@ -195,7 +195,13 @@ function validatePayload(payload, row) {
 
   if (payload.type === QUESTION_TYPES.THEORY) {
     if (!payload.idealAnswer && !payload.keyPoints.length && !payload.markingRubric.length) {
-      problems.push('A theory question needs an idealAnswer, keyPoints, or a markingRubric so it can be marked.');
+      if (payload.sourceKind === SOURCE_KIND.PAST_PAPER) {
+        payload.answerConfidence = ANSWER_CONFIDENCE.UNVERIFIED;
+        payload.status = CONTENT_STATUS.NEEDS_REVIEW;
+        payload.reviewNotes = [payload.reviewNotes, 'Imported without a marking scheme.'].filter(Boolean).join(' ');
+      } else {
+        problems.push('A theory question needs an idealAnswer, keyPoints, or a markingRubric so it can be marked.');
+      }
     }
   } else if (payload.type === QUESTION_TYPES.FILL_BLANK) {
     if (!payload.acceptedAnswers.length) problems.push('A fill-in-the-blank question needs at least one accepted answer.');

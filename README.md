@@ -73,7 +73,7 @@ engagement, the hardest questions and the topics candidates struggle with most.
 
 ## What is in the question bank
 
-**1,392 questions and 360 flashcards.** Two kinds, always labelled as such in the interface.
+**2,189 questions and 360 flashcards.** Two kinds, always labelled as such in the interface.
 
 ### Written from the syllabus
 
@@ -92,28 +92,28 @@ the source text.
 
 ### Transcribed from real past papers
 
-| Paper | 2011 | 2012 | 2013 | 2014 | 2022 | 2023 | 2024 | 2025 | Total |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Christian Doctrine | 29 | 29 | 29 | 34 | 33 | 31 | 27 | 27 | **239** |
-| Church and Society | · | · | 30 | 31 | 32 | 32 | 32 | 31 | **188** |
-| New Testament Studies | · | · | · | · | · | 29 | 34 | 43 | **106** |
-| Old Testament Studies | · | · | · | · | · | 34 | 29 | 36 | **99** |
-| Liturgics | · | · | · | · | · | 31 | 31 | 31 | **93** |
-| Methodist Studies | · | · | · | · | · | · | · | 50 | **50** |
+| Paper | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2022 | 2023 | 2024 | 2025 | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Christian Doctrine | - | 27 | 56 | 31 | 57 | 65 | 33 | 31 | 27 | 27 | **354** |
+| Church and Society | - | - | 87 | - | 50 | 62 | 32 | 32 | 32 | 31 | **326** |
+| New Testament Studies | - | - | 30 | 12 | 31 | 23 | - | 29 | 34 | 43 | **202** |
+| Old Testament Studies | - | - | 93 | - | - | 34 | - | 34 | 29 | 36 | **226** |
+| Liturgics | 62 | 31 | 31 | 30 | 31 | 31 | - | 31 | 31 | 31 | **309** |
+| Methodist Studies | - | - | 56 | 20 | - | 29 | - | - | - | 50 | **155** |
 
-**775 past-paper questions**, every paper including its September 2025 sitting, and 118 of them
-Section B theory questions with full marking schemes.
+**1,572 past-paper questions**, including the supplied 2009-2014 papers and every paper already
+loaded through the September 2025 sitting. **434 are theory questions**; 118 older past-paper
+theory questions retain full marking schemes.
 
-665 have answers traced to a syllabus passage. The other **110 are held at `needs_review` with no
-answer key at all**, because the syllabus did not settle them — each records why in `reviewNotes`.
-They never appear in a quiz until a person confirms them. That count is high in New Testament by
-design: the syllabus covers only Mark, Acts, Galatians and the two letters to Timothy, and only
-through its own commentary, so a question about anything else is out of scope for this edition
-however well known the biblical fact.
+665 past-paper answers have been traced to a syllabus passage. The other **907 are held at
+`needs_review` with no answer key**, because the source paper has no key and the current syllabus
+does not settle the answer. Each records why in `reviewNotes`; these questions never appear in a
+quiz until a person confirms them. This is deliberate: the syllabus covers only its own commentary,
+so general knowledge is not used to manufacture an answer.
 
-Earlier years for the four papers marked `·` are extracted and ready under
-`data/part2/pastpapers/`. [docs/PAST_PAPER_TRANSCRIPTION.md](docs/PAST_PAPER_TRANSCRIPTION.md) is
-the brief that governs that work.
+The supplied 2009-2014 source papers are preserved under `data/part2/pastpapers/`. Review-only
+transcriptions are generated into `data/part2/gen/questions.*-past-review.json`. The transcription
+rules are documented in [docs/PAST_PAPER_TRANSCRIPTION.md](docs/PAST_PAPER_TRANSCRIPTION.md).
 
 ### The syllabus itself
 
@@ -245,15 +245,16 @@ methodist-lay-preachers-prep/
 ├── shared/constants.js       vocabulary shared by both sides
 ├── data/part2/
 │   ├── manual.json             the syllabus, parsed and verbatim
-│   ├── questions.manual.json   1,392 questions
+│   ├── questions.manual.json   2,189 questions
 │   ├── flashcards.json         360 flashcards
 │   ├── scripture-texts.json    977 passages, Authorised Version
 │   ├── gen/                    per-paper source files
 │   └── pastpapers/             extracted past-paper text, 2009-2025
 ├── scripts/
-│   ├── ingest/                 syllabus and past-paper extraction (Python)
+│   ├── ingest/                 syllabus and past-paper extraction (Python and JavaScript)
 │   ├── content-generators/     the generators that produced data/part2/gen
 │   ├── merge-content.mjs       merges gen/ into the seed files
+│   ├── ingest/pastpaper-review.mjs  imports review-only historical papers
 │   ├── verify-content.mjs      checks every citation against the syllabus
 │   ├── shuffle-options.mjs     spreads correct answers across the options
 │   ├── repair-excerpts.mjs     re-anchors citations that are not byte-exact
