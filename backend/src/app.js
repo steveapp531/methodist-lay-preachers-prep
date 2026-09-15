@@ -9,6 +9,7 @@ import { logger } from './config/logger.js';
 import routes from './routes/index.js';
 import { apiLimiter } from './middleware/rateLimit.js';
 import { errorHandler, notFoundHandler } from './middleware/error.js';
+import { ApiError } from './utils/ApiError.js';
 
 export function createApp() {
   const app = express();
@@ -33,7 +34,7 @@ export function createApp() {
         if (env.CORS_ORIGINS.includes(origin)) return callback(null, true);
         if (!env.isProd && /^http:\/\/(localhost|127\.0\.0\.1):\d+$/.test(origin)) return callback(null, true);
         logger.warn(`Blocked cross-origin request from ${origin}`);
-        return callback(new Error('This origin is not allowed by the API CORS policy.'));
+        return callback(ApiError.forbidden('This origin is not allowed by the API CORS policy.'));
       },
       credentials: true,
       methods: ['GET', 'POST', 'PATCH', 'PUT', 'DELETE', 'OPTIONS'],
