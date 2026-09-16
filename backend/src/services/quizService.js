@@ -146,12 +146,21 @@ async function filterToPool({ base, ids, limit }) {
 /** Summary shown at the end of a practice session. */
 export async function summariseQuiz(quiz) {
   const attempts = await QuestionAttempt.find({ quiz: quiz._id })
+    .sort({ answeredAt: 1 })
     .populate('topic', 'title slug')
     .populate('subject', 'name shortName')
     .lean();
 
-  const byTopic = new Map();
+  // "Try this question again" can leave more than one attempt per question;
+  // only the latest should count toward the breakdown, same as the running
+  // quiz totals below.
+  const latestByQuestion = new Map();
   for (const attempt of attempts) {
+    latestByQuestion.set(String(attempt.question), attempt);
+  }
+
+  const byTopic = new Map();
+  for (const attempt of latestByQuestion.values()) {
     const key = attempt.topic ? String(attempt.topic._id) : 'unassigned';
     const entry = byTopic.get(key) || {
       topicId: attempt.topic?._id || null,

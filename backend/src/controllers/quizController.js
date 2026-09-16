@@ -94,10 +94,18 @@ export const answerQuestion = asyncHandler(async (req, res) => {
   const { quiz: quizId, mode, timeSpentSeconds, ...response } = req.body;
 
   let quiz = null;
+  let priorAttempt = null;
   if (quizId) {
     quiz = await Quiz.findOne({ _id: quizId, user: req.user._id });
     if (!quiz) throw ApiError.notFound('That quiz was not found.');
     if (quiz.status !== 'in_progress') throw ApiError.conflict('That quiz has already been completed.');
+    // "Try this question again" resubmits the same question. Without this, a
+    // retry would count as a second answered question and could complete the
+    // quiz before every question had really been seen once.
+    priorAttempt = await QuestionAttempt.findOne({ quiz: quiz._id, question: question._id })
+      .sort({ answeredAt: -1 })
+      .select('isCorrect marksAwarded')
+      .lean();
   }
 
   const { result, review, theoryEvaluation } = await submitAnswer({
@@ -110,10 +118,12 @@ export const answerQuestion = asyncHandler(async (req, res) => {
   });
 
   if (quiz) {
-    quiz.answeredCount += 1;
-    if (result.isCorrect) quiz.correctCount += 1;
-    quiz.marksAwarded += result.marksAwarded;
-    quiz.cursor = Math.min(quiz.cursor + 1, quiz.questions.length);
+    if (!priorAttempt) {
+      quiz.answeredCount += 1;
+      quiz.cursor = Math.min(quiz.cursor + 1, quiz.questions.length);
+    }
+    quiz.correctCount += (result.isCorrect ? 1 : 0) - (priorAttempt?.isCorrect ? 1 : 0);
+    quiz.marksAwarded += result.marksAwarded - (priorAttempt?.marksAwarded || 0);
     quiz.timeSpentSeconds += timeSpentSeconds || 0;
     if (quiz.answeredCount >= quiz.questions.length) {
       quiz.status = 'completed';
